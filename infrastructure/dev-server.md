@@ -75,7 +75,7 @@ Log into container: `docker exec -it -u root e1cc /bin/bash` where 'e1cc' is the
 
 Running containers:
 
-![runningcontainers](/img/2023-12-20_13-09.png)
+![runningcontainers](/images/img/2023-12-20_13-09.png)
 
 ### Docker Compose
 

@@ -18,7 +18,7 @@ The following image shows a typical user/organization structure:
 
 The above structure, we should be able to view it in the top header at all times:
 
-![header](/img/2023-12-19_09-41.png)
+![header](/images/img/2023-12-19_09-41.png)
 
 
 # B2B Business Logic

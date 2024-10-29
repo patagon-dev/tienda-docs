@@ -40,17 +40,17 @@ After Keycloak docker is deployed, the following configurations needs to be done
 
 Create a new realm:
 
-![createrealm](/img/Peek2023-12-19-17-10.gif)
+![createrealm](/images/img/Peek2023-12-19-17-10.gif)
 
 
 ### Create "cenabast-ecommerce" client
 
 :::danger[Import Client Config]
-The initial OIDC client configuration can be imported using the following file [cenabast-ecommerce.json](/img/cenabast-ecommerce.json).\
+The initial OIDC client configuration can be imported using the following file [cenabast-ecommerce.json](/images/img/cenabast-ecommerce.json).\
 The client value must match the `KEYCLOAK_CLIENT_ID` in the .ENV file.
 :::
 
-![import-config](/img/2024-03-11_13-38.png)
+![import-config](/images/img/2024-03-11_13-38.png)
 
 ### Create Clave Unica IdP
 
@@ -59,7 +59,7 @@ The client value must match the `KEYCLOAK_CLIENT_ID` in the .ENV file.
 https://accounts.claveunica.gob.cl/openid/.well-known/openid-configuration
 :::
 
-![Add-ClaveUnica_idp](/img/Peek2023-12-19-17-16.gif)
+![Add-ClaveUnica_idp](/images/img/Peek2023-12-19-17-16.gif)
 
 ### Redirect directly to IdP
 
@@ -68,7 +68,7 @@ In order to skip Keycloak Login form, we can **redirect** inmediatly to the Clav
 In the browser authentication flow, just configure the alias of your idp (in this case, "**oidc**" is the alias)
 :::
 
-![Redirect-to-idp](/img/Peek2023-12-19-17-18.gif)
+![Redirect-to-idp](/images/img/Peek2023-12-19-17-18.gif)
 
 ### Disable Review Profile
 
@@ -76,7 +76,7 @@ In the browser authentication flow, just configure the alias of your idp (in thi
 Disable the "Review Profile" action from the "first broker login" flow.
 :::
 
-![DisableReviewProfile](/img/Peek2023-12-19-18-01.gif)
+![DisableReviewProfile](/images/img/Peek2023-12-19-18-01.gif)
 
 ### Disable Profile form
 
@@ -84,7 +84,7 @@ Disable the "Review Profile" action from the "first broker login" flow.
 In order to prevent Keycloak from requesting filling the profile form, we need to disable the "**Update Profile**" required action.
 :::
 
-![Disable-profile-form](/img/Peek2023-12-19-17-19.gif)
+![Disable-profile-form](/images/img/Peek2023-12-19-17-19.gif)
 
 ### Test Login
 
@@ -100,4 +100,4 @@ RUN: 99.999.999-9 	contraseña: **testing**
 https://login-dev.cenabast.gob.cl/realms/cenabast/account/#/
 :::
 
-![testing](/img/Peek2023-12-19-18-00.gif)
+![testing](/images/img/Peek2023-12-19-18-00.gif)

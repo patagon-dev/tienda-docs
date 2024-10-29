@@ -21,7 +21,7 @@ Once the forecast has been build, Cenabast creates a public bidding auction in [
 👉 Typically the **lowest bidding price wins the auction**. (Depends on other factors also, like delivery, etc)
 :::
 
-![drawio1.png](/img/2023-12-18_17-07.png)
+![drawio1.png](/images/img/2023-12-18_17-07.png)
 
 
 

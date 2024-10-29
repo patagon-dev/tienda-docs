@@ -24,7 +24,7 @@ There are two types of products:\
 Check more info [here](products)
 :::
 
-![imageforecast](/img/2023-12-18_16-55.png)
+![imageforecast](/images/img/2023-12-18_16-55.png)
 
 :::tip
 Cenabast raise forecast information from **each public institution**.\
@@ -40,7 +40,7 @@ Cenabast then groups each individual monthly forecast for all institutions.
 
 Following the example, the following image shows the group (**consolidated**) forecast proyection for all health institutions:
 
-![Forecast Image.png](/img/2023-12-18_17-04.png)
+![Forecast Image.png](/images/img/2023-12-18_17-04.png)
 
 :::info[Next]
 👉 Next step it to create a [public bidding auction](2_auction.md). 

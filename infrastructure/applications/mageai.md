@@ -31,4 +31,4 @@ ssh nmella@10.8.0.44 -L 6789:10.8.0.44:6789
 
 Then, just head up to `http://127.0.0.1:6789/`:
 
-![Mage.ai Dashboard](/img/2024-02-23_09-54.png)
+![Mage.ai Dashboard](/images/img/2024-02-23_09-54.png)

@@ -9,4 +9,4 @@ Login: admin\
 Pass: password
 :::
 
-![sidekiq](/img/2024-03-11_13-42.png)
+![sidekiq](/images/img/2024-03-11_13-42.png)
