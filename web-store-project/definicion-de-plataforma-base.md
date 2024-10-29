@@ -1,22 +1,26 @@
 ---
 title: Platform Definition
+description: 
 published: true
-date: 2023-11-08T21:24:49.908Z
+date: 2024-10-29T14:18:56.325Z
+tags: 
 editor: markdown
-dateCreated: 2023-11-08T12:52:28.774Z
+dateCreated: 2024-10-28T20:12:58.479Z
 ---
 
 # INFORME TÉCNICO
 
 ## Resumen
-:::tip
-El siguiente informe puede ser utilizado como insumo para la toma de decisión del proyecto Tienda de Cenabast. 
-:::
+
+> El siguiente informe puede ser utilizado como insumo para la toma de decisión del proyecto Tienda de Cenabast. 
+{.is-info}
+
 
 ## Contexto
 
 El año 2018 se firmó un acuerdo de colaboración con ChileCompra para la habilitación y puesta en marcha de una Tienda de productos para Cenabast. En esa línea, se sugirió aprovechar la actual plataforma Magento que utiliza ChileCompra para las tiendas de Convenio Marco, para el desarrollo e implementación de una Tienda con medicamentos e insumos médicos para Cenabast. 
 Por lo mismo, es relevante conocer la historia del proyecto de Magento en Chilecompra, así como también los “Pros” y “Contras” de dicho proyecto en relación con los requerimientos de negocio de Cenabast. 
+
 Cabe destacar que el año 2022 se realizó una consulta al mercado para conocer las soluciones disponibles de proveedores a nivel local. 
 
 # OBJETIVOS DE NEGOCIOS DE CENABAST
