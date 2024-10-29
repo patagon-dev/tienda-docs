@@ -1,4 +1,14 @@
-The page at 'https://connectcar.cl/' was loaded over HTTPS, but requested an insecure XMLHttpRequest endpoint 'http://backend.blueexpress:1337/api/ruts?filters[rut][$eq]=778035200'. This request has been blocked; the content must be served over HTTPS.# Minutas
+---
+title: minutas
+description: 
+published: true
+date: 2024-10-29T14:19:59.973Z
+tags: 
+editor: markdown
+dateCreated: 2024-10-28T20:13:06.384Z
+---
+
+# Minutas - MVP Tienda Web
 
 - [Minuta 02-02-2024](/images/img/2024-020224-175418.pdf)
 - [Minuta 09-02-2024](/images/img/2024-090224-135609.pdf)
@@ -7,3 +17,4 @@ The page at 'https://connectcar.cl/' was loaded over HTTPS, but requested an ins
 - [Minuta 22-03-2024](/images/img/2024-250324-140212.pdf)
 - [Minuta 05-04-2024](/images/img/2024-050424-160632.pdf)
 - [Minuta 12-04-2024](/images/img/2024-120424-213716.pdf)
+{.links-list}
