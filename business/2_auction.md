@@ -2,7 +2,7 @@
 title: Auction
 description: 
 published: true
-date: 2024-10-29T14:05:07.930Z
+date: 2024-10-29T14:06:03.858Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-28T20:12:37.385Z
@@ -39,7 +39,7 @@ dateCreated: 2024-10-28T20:12:37.385Z
 {.is-info}
 
 
-📸 [Auction bidding comparison image](/images/2023-11-07_17-51.png)
+📸 [Auction bidding comparison image](/images/images/2023-11-07_17-51.png)
 
 
 👉 Next step it to [award](3_award.md) the bidding auction and sign a contract. 
