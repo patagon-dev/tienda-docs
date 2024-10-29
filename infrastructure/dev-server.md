@@ -1,21 +1,31 @@
+---
+title: dev-server
+description: 
+published: true
+date: 2024-10-29T14:28:20.823Z
+tags: 
+editor: markdown
+dateCreated: 2024-10-28T20:12:48.909Z
+---
+
 # Dev Server
 
 ## Resume
 
-:::tip[IP]
-The current Dev Server is a Ubuntu Server.\
-External IP is `190.215.197.206`
-:::
+> The current Dev Server is a Ubuntu Server.\
+> External IP is `190.215.197.206`
+{.is-info}
 
-:::warning
-The opened port are `80` and `443`.
-:::
+> The opened port are `80` and `443`.
+{.is-warning}
 
 ## SSH 
 
-:::warning[VPN dependency]
-SSH access **requires** VPN access.
-:::
+> SSH access **requires** VPN access.
+> {.is-warning}
+{.is-warning}
+
+
 
 SSH Port: `22`\
 Internal IP Address: `10.8.0.44`
