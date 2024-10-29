@@ -1,3 +1,13 @@
+---
+title: applications
+description: 
+published: true
+date: 2024-10-29T14:29:11.578Z
+tags: 
+editor: markdown
+dateCreated: 2024-10-28T20:13:24.094Z
+---
+
 # Applications
 
 We need to deploy the following applications in the DEV server:
@@ -6,24 +16,22 @@ We need to deploy the following applications in the DEV server:
 - Keycloak
 - Spree Commerce
 
-:::info
-All applications must be deployed using Docker container.
-Ideally, we need to build the image locally.
-:::
+> All applications must be deployed using Docker container.
+> Ideally, we need to build the image locally.
+{.is-info}
 
 
 
 # Docker
 
-:::tip
-Al applications must be deploy as docker images using the followng [Docker-Compose file](https://github.com/Departamento-TI/cenabast-tienda/blob/spree-4-7-development-with-frontend/docker-compose.yml)
-:::
+> Al applications must be deploy as docker images using the followng [Docker-Compose file](https://github.com/Departamento-TI/cenabast-tienda/blob/spree-4-7-development-with-frontend/docker-compose.yml)
+{.is-success}
 
 ## Docker PostgreSQL
 
-:::tip[Database]
-Both Keycloak and Spree Commerce should use the same postgres service.
-:::
+> Both Keycloak and Spree Commerce should use the same postgres service.
+{.is-success}
+
 
 Docker Repo:
 
@@ -38,10 +46,10 @@ https://www.keycloak.org/server/containers
 
 ## Docker Spree Commerce
 
-:::info
-This is our custom Spree Project. \
-Please deploy branch `spree-4-7-development-with-frontend`
-:::
+> This is our custom Spree Project. \
+> Please deploy branch `spree-4-7-development-with-frontend`
+{.is-info}
+
 
 
 https://github.com/Departamento-TI/cenabast-tienda/
