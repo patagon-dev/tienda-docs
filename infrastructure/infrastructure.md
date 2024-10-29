@@ -1,5 +1,28 @@
-# Infrastructure
+---
+title: infrastructure
+description: 
+published: true
+date: 2024-10-29T14:27:31.030Z
+tags: 
+editor: markdown
+dateCreated: 2024-10-28T20:12:52.771Z
+---
 
-:::info
-Currently we are working just with this [development server](/docs/infrastructure/dev-server).
-:::
+# Tienda Web Infrastructure
+
+# Development
+
+- [Development server](/infrastructure/dev-server)
+- [Domains](/infrastructure/domains)
+- [Clave unica](/infrastructure/clave_unica)
+{.links-list}
+
+# Applications
+
+- [Applications](/infrastructure/applications/applications)
+{.links-list}
+
+# Troubleshooting
+
+- [Troubleshooting](/infrastructure/troubleshooting)
+{.links-list}
