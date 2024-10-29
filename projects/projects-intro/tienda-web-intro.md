@@ -2,7 +2,7 @@
 title: Tienda Web intro
 description: 
 published: true
-date: 2024-10-29T14:16:14.981Z
+date: 2024-10-29T14:18:18.548Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-29T14:07:56.587Z
@@ -23,6 +23,7 @@ Your content here
 
 ## Pre
 
+- [Platform RE-Definition *Switched from Magento to Spree report*](/web-store-project/definicion-de-plataforma-base)
 - [Project Scope](/web-store-project/alcance-tienda-cenabast)
 - [MVP Platform Suggestions](/web-store-project/spree-base-suggestion)
 - [MVP Prototyping](/web-store-project/draft-wireframes-prototyping)
@@ -31,7 +32,7 @@ Your content here
 
 ## Post
 
-- [Platform Definition](/web-store-project/definicion-de-plataforma-base)
+
 - [MVP Developed Functionalities](/web-store-project/development-functionalities)
 - [MVP Guidelines](/web-store-project//development-guidelines)
 - [MVP Functionalities](/web-store-project/functionalities)
