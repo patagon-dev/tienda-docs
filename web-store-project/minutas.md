@@ -2,13 +2,17 @@
 title: minutas
 description: 
 published: true
-date: 2024-10-29T14:19:59.973Z
+date: 2024-10-29T14:20:37.483Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-28T20:13:06.384Z
 ---
 
 # Minutas - MVP Tienda Web
+
+> Minutas del proyecto de Tienda web durante el períodoo Enero 2024 - Abril 2024)
+{.is-info}
+
 
 - [Minuta 02-02-2024](/images/img/2024-020224-175418.pdf)
 - [Minuta 09-02-2024](/images/img/2024-090224-135609.pdf)
