@@ -1,8 +1,8 @@
 ---
-title: infrastructure
+title: Tienda Web infrastructure
 description: 
 published: true
-date: 2024-10-29T14:27:31.030Z
+date: 2024-10-30T15:51:37.645Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-28T20:12:52.771Z
