@@ -1,8 +1,8 @@
 ---
-title: applications
+title: Tienda Web Applications
 description: 
 published: true
-date: 2024-10-29T14:30:45.528Z
+date: 2024-10-30T15:59:02.497Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-28T20:13:24.094Z
