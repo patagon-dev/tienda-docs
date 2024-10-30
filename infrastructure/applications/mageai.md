@@ -1,25 +1,34 @@
+---
+title: mageai
+description: 
+published: true
+date: 2024-10-30T16:01:04.256Z
+tags: 
+editor: markdown
+dateCreated: 2024-10-28T20:13:28.010Z
+---
+
 # Mage.ai
 
-:::tip
-Check the [Mage.ai Implementation](../../2_Store%20Project/development-functionalities/mage-ai.md) for more info.\
-Also check the [Mage.ai Product Syncronization](../../2_Store%20Project/development-functionalities/product-sync.md) for running sync.
-:::
+> Check the [Mage.ai Implementation](../../2_Store%20Project/development-functionalities/mage-ai.md) for more info.\
+> Also check the [Mage.ai Product Syncronization](../../2_Store%20Project/development-functionalities/product-sync.md) for running sync.
+{.is-info}
 
-:::info
-[Mage.ai](https://github.com/mage-ai/mage-ai) will being used as a data pipeline for data sincronization.
-:::
+
+> [Mage.ai](https://github.com/mage-ai/mage-ai) will being used as a data pipeline for data sincronization.
+{.is-info}
 
 # Web Access
 
-:::info
-Within the VPN network, Mage.ai development is available at [http://10.8.0.44:6789/](http://10.8.0.44:6789/)
-:::
+> Within the VPN network, Mage.ai development is available at [http://10.8.0.44:6789/](http://10.8.0.44:6789/)
+{.is-info}
+
 
 # SSH port forwarding
 
-:::warning
-Mage.ai does not have a public view.
-:::
+> Mage.ai does not have a public view.
+{.is-warning}
+
 
 To access the Mage.ai application, a SSH port forwarding must be used between the [DEV server](../dev-server.md) and your local machine.
 
