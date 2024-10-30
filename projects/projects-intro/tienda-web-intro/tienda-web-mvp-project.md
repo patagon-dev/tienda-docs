@@ -2,7 +2,7 @@
 title: Tienda Web - MVP Project
 description: 
 published: true
-date: 2024-10-30T19:52:50.601Z
+date: 2024-10-30T19:56:46.593Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-30T19:52:50.601Z
@@ -31,4 +31,5 @@ dateCreated: 2024-10-30T19:52:50.601Z
 - [MVP Gems](/web-store-project/gems)
 - [MVP Meeting agreements *Minutas*](/web-store-project/minutas)
 - [MVP Contract *Acid Labs - Convenio Marco*](/web-store-project/mvp1-contract)
+- [MVP Architecture](/web-store-project/mvp-architecture)
 {.links-list}
