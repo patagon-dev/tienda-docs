@@ -2,13 +2,13 @@
 title: Tienda Web infrastructure
 description: 
 published: true
-date: 2024-10-30T16:01:41.352Z
+date: 2024-10-30T20:20:40.468Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-28T20:12:52.771Z
 ---
 
-# Tienda Web Infrastructure
+# Tienda Web MVP Infrastructure
 
 # Development
 
