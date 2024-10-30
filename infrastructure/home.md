@@ -2,14 +2,16 @@
 title: Infrastructure
 description: 
 published: true
-date: 2024-10-30T20:21:27.261Z
+date: 2024-10-30T20:26:19.035Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-29T14:24:20.832Z
 ---
 
 # Resume
-Your content here
+> This is the infrastructure home page. You will find the infrastructure information for each Cenabast project.
+{.is-success}
+
 
 # Project
 
