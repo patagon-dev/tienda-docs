@@ -2,7 +2,7 @@
 title: history
 description: 
 published: true
-date: 2024-10-30T16:11:45.259Z
+date: 2024-10-30T16:11:55.546Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-28T20:13:04.476Z
@@ -18,5 +18,3 @@ dateCreated: 2024-10-28T20:13:04.476Z
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pkmF59byLSg?si=KqlhPF68a9gJOHXe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E79WUqCl06A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
