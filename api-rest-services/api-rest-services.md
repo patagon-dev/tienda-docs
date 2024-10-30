@@ -1,9 +1,11 @@
 ---
 title: API REST Services
+description: 
 published: true
-date: 2023-11-08T14:53:34.284Z
+date: 2024-10-30T19:45:38.814Z
+tags: 
 editor: markdown
-dateCreated: 2023-10-25T14:36:36.278Z
+dateCreated: 2024-10-28T20:12:33.525Z
 ---
 
 ##  Resume
