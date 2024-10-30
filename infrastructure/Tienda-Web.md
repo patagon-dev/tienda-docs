@@ -2,7 +2,7 @@
 title: Tienda Web infrastructure
 description: 
 published: true
-date: 2024-10-30T15:51:37.645Z
+date: 2024-10-30T16:01:41.352Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-28T20:12:52.771Z
@@ -19,7 +19,7 @@ dateCreated: 2024-10-28T20:12:52.771Z
 
 # Applications
 
-- [Applications](/infrastructure/applications/applications)
+- [Applications](/infrastructure/applications/tienda-web-applications)
 {.links-list}
 
 # Troubleshooting
