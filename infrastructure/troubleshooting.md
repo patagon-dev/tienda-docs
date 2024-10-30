@@ -1,10 +1,20 @@
+---
+title: troubleshooting
+description: 
+published: true
+date: 2024-10-30T16:03:15.521Z
+tags: 
+editor: markdown
+dateCreated: 2024-10-28T20:12:54.617Z
+---
+
 # Troubleshooting
 
 ## Create Admin user
 
-:::info
-Assign the **admin** role to a user using the user RUT value
-:::
+
+> Assign the **admin** role to a user using the user RUT value
+{.is-info}
 
 Log into the rails console:
 
