@@ -1,19 +1,31 @@
+---
+title: keycloak
+description: 
+published: true
+date: 2024-10-30T15:58:12.883Z
+tags: 
+editor: markdown
+dateCreated: 2024-10-28T20:13:26.006Z
+---
+
 # Keycloak
 
-### Resume
+## Admin Access (DEV)
 
-:::tip[Admin Access]
-Single Sign On
+> Keycloak Admin access
+> 
+> URL: https://login-dev.cenabast.gob.cl/admin/ \
+> KEYCLOAK_USER: `admin`\
+> KEYCLOAK_PASSWORD: <kbd>owwIZLI#6m65</kbd>
+{.is-info}
 
-URL: https://login-dev.cenabast.gob.cl/admin/ \
-KEYCLOAK_USER: `admin`\
-KEYCLOAK_PASSWORD: `owwIZLI#6m65`
-:::
 
-:::info[Docker image]
-👉 Check Keycloak [docker-compose.yml](https://github.com/Departamento-TI/cenabast-tienda/blob/main/docker-compose.yml).\
-👉 Keycloak image is build from file [Dockerfile.keycloak](https://github.com/Departamento-TI/cenabast-tienda/blob/main/Dockerfile.keycloak)    
-:::
+> **Docker Image:**
+> 
+> 👉 Check Keycloak [docker-compose.yml](https://github.com/Departamento-TI/cenabast-tienda/blob/main/docker-compose.yml).\
+> 👉 Keycloak image is build from file [Dockerfile.keycloak](https://github.com/Departamento-TI/cenabast-tienda/blob/main/Dockerfile.keycloak)    
+{.is-info}
+
 
 ### Keycloak user & database
 
@@ -31,9 +43,10 @@ GRANT ALL ON SCHEMA public TO keycloak;
 
 ### Keycloak Setup
 
-:::info[Setup]
-After Keycloak docker is deployed, the following configurations needs to be done in order to integrate with [Clave Unica](../clave_unica.md).\
-:::
+> **Setup**:
+> 
+> After Keycloak docker is deployed, the following configurations needs to be done in order to integrate with [Clave Unica](../clave_unica.md).\
+{.is-info}
 
 
 ### Create Cenabast Realm
@@ -45,59 +58,63 @@ Create a new realm:
 
 ### Create "cenabast-ecommerce" client
 
-:::danger[Import Client Config]
-The initial OIDC client configuration can be imported using the following file [cenabast-ecommerce.json](/images/img/cenabast-ecommerce.json).\
-The client value must match the `KEYCLOAK_CLIENT_ID` in the .ENV file.
-:::
+> **Import Client Config**
+> 
+> The initial OIDC client configuration can be imported using the following file [cenabast-ecommerce.json](/images/img/cenabast-ecommerce.json).\
+> The client value must match the `KEYCLOAK_CLIENT_ID` in the .ENV file.
+{.is-danger}
+
 
 ![import-config](/images/img/2024-03-11_13-38.png)
 
 ### Create Clave Unica IdP
 
-:::tip
-**Clave Unica Discovery Endpoint**:\
-https://accounts.claveunica.gob.cl/openid/.well-known/openid-configuration
-:::
+
+> **Clave Unica Discovery Endpoint**:\
+> https://accounts.claveunica.gob.cl/openid/.well-known/openid-configuration
+{.is-success}
+
 
 ![Add-ClaveUnica_idp](/images/img/Peek2023-12-19-17-16.gif)
 
 ### Redirect directly to IdP
 
-:::warning
-In order to skip Keycloak Login form, we can **redirect** inmediatly to the ClaveUnica Identity Provider.\
-In the browser authentication flow, just configure the alias of your idp (in this case, "**oidc**" is the alias)
-:::
+> In order to skip Keycloak Login form, we can **redirect** inmediatly to the ClaveUnica Identity Provider.\
+> In the browser authentication flow, just configure the alias of your idp (in this case, "**oidc**" is the alias)
+{.is-warning}
+
 
 ![Redirect-to-idp](/images/img/Peek2023-12-19-17-18.gif)
 
 ### Disable Review Profile
 
-:::info
-Disable the "Review Profile" action from the "first broker login" flow.
-:::
+> Disable the "Review Profile" action from the "first broker login" flow.
+{.is-info}
 
 ![DisableReviewProfile](/images/img/Peek2023-12-19-18-01.gif)
 
 ### Disable Profile form
 
-:::warning
-In order to prevent Keycloak from requesting filling the profile form, we need to disable the "**Update Profile**" required action.
-:::
+
+> In order to prevent Keycloak from requesting filling the profile form, we need to disable the "**Update Profile**" required action.
+{.is-warning}
 
 ![Disable-profile-form](/images/img/Peek2023-12-19-17-19.gif)
 
 ### Test Login
 
-:::tip[Testing RUT values]
-Clave Unica test users:
+> **Testing RUT values**
+> Clave Unica test users:
+> 
+> RUN: 44.444.444-4 	contraseña: **testing**\
+> RUN: 55.555.555-5	contraseña: **testing**\
+> RUN: 88.888.888-8 	contraseña: **testing**\
+> RUN: 99.999.999-9 	contraseña: **testing**
+{.is-warning}
 
-RUN: 44.444.444-4 	contraseña: **testing**\
-RUN: 55.555.555-5	contraseña: **testing**\
-RUN: 88.888.888-8 	contraseña: **testing**\
-RUN: 99.999.999-9 	contraseña: **testing**
 
-::::info[Login URL test]
-https://login-dev.cenabast.gob.cl/realms/cenabast/account/#/
-:::
+> Login URL test:
+> https://login-dev.cenabast.gob.cl/realms/cenabast/account/#/
+{.is-info}
 
 ![testing](/images/img/Peek2023-12-19-18-00.gif)
