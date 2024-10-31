@@ -2,7 +2,7 @@
 title: Platform Definition
 description: 
 published: true
-date: 2024-10-29T14:18:56.325Z
+date: 2024-10-31T12:53:20.051Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-28T20:12:58.479Z
