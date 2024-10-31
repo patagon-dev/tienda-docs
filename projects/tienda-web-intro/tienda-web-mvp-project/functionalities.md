@@ -2,7 +2,7 @@
 title: Functionalities
 description: 
 published: true
-date: 2024-10-31T13:28:58.048Z
+date: 2024-10-31T13:29:38.326Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-28T20:14:02.888Z
@@ -23,15 +23,15 @@ dateCreated: 2024-10-28T20:14:02.888Z
 {.is-success}
 
 
-- [Login Single Sign On *Keycloak*](login-con-plataforma-keycloak.md)
+- [Login Single Sign On *Keycloak*](login-con-plataforma-keycloak)
 - [Módulo B2B - User-Organization Logic](b2b-module-logic-functionality)
-- [Products Master Data](product-master-data.md)
-- [Users Master Data](User-Master-Data.md)
-- [Sellers Master Data](sellers-master-data.md)
-- [Catalog](catalog.md)
-- [Purchase Type](purchase-type.md)
-- [Cart](cart.md)
-- [Checkout - Step 4 - Purchase Order](checkout-purchase-order.md)
-- [Checkout - Step 5 - Budget Validation](checkout-budget-validation.md)
-- [Post Checkout - Push Order back to SAP ERP](post-checkout-push-order-back-to-SAP-ERP.md)
+- [Products Master Data](product-master-data)
+- [Users Master Data](User-Master-Data)
+- [Sellers Master Data](sellers-master-data)
+- [Catalog](catalog)
+- [Purchase Type](purchase-type)
+- [Cart](cart)
+- [Checkout - Step 4 - Purchase Order](checkout-purchase-order)
+- [Checkout - Step 5 - Budget Validation](checkout-budget-validation)
+- [Post Checkout - Push Order back to SAP ERP](post-checkout-push-order-back-to-SAP-ERP)
 {.links-list}
