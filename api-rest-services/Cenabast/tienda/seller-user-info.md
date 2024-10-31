@@ -1,10 +1,20 @@
+---
+title: seller-user-info
+description: 
+published: true
+date: 2024-10-31T17:40:41.492Z
+tags: 
+editor: markdown
+dateCreated: 2024-10-28T20:14:37.848Z
+---
+
 # Seller User Info
 
 ## Resume
 
-:::info
-The following API returns the Seller User information.
-:::
+> The following API returns the Seller User information.
+{.is-info}
+
 
 ## Request
 
