@@ -2,7 +2,7 @@
 title: Login Process
 description: 
 published: true
-date: 2024-10-31T13:10:15.530Z
+date: 2024-10-31T13:18:40.976Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-28T20:13:43.395Z
@@ -16,8 +16,8 @@ dateCreated: 2024-10-28T20:13:43.395Z
 
 See also:
 * [Clave Unica](clave-unica.md)
-* [Clave Unica IdP](/cenabast-tienda/docs/infrastructure/clave_unica)
-* [Keycloak](/cenabast-tienda/docs/infrastructure/applications/keycloak)
+* [Clave Unica IdP](/infrastructure/clave_unica)
+* [Keycloak](/infrastructure/applications/keycloak)
 {.links-list}
 
 The Cenabast site only should be accessed for authorized users.
