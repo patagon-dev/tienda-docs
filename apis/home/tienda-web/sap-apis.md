@@ -1,8 +1,8 @@
 ---
-title: sap
+title: sap-apis
 description: 
 published: true
-date: 2024-10-31T17:36:37.773Z
+date: 2024-10-31T17:37:22.833Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-28T20:14:59.624Z
@@ -11,11 +11,11 @@ dateCreated: 2024-10-28T20:14:59.624Z
 # SAP
 
 
-> :::warning
 > 3 Pending endpoints from Cenabast
-> - Stock pre-Order validation
-> - Push Order to SAP
-> - Cancel SAP Order
+> 
+> Stock pre-Order validation
+> Push Order to SAP
+> Cancel SAP Order
 {.is-warning}
 
 - [SAP Create order](create-order)
