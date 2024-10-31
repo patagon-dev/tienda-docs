@@ -2,21 +2,22 @@
 title: B2B module
 description: 
 published: true
-date: 2024-10-31T12:55:17.686Z
+date: 2024-10-31T12:55:50.356Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-28T20:13:59.024Z
 ---
 
 ### Resume
-:::tip
-Users will log into the Store using their personal Credentials.\
-Once users are logged in, the [User API Service](../../api-rest-services/users.md) will return all related information to the user.
-:::
+
+> Users will log into the Store using their personal Credentials.\
+> Once users are logged in, the [User API Service](../../api-rest-services/users.md) will return all related information to the user.
+{.is-success}
+
 
 The following image shows a typical user/organization structure:
 
-![Image Structure](/2023-10-26_17-05.png)
+![Image Structure](/images/2023-10-26_17-05.png)
 
 The above structure, we should be able to view it in the top header at all times:
 
