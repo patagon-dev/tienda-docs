@@ -2,7 +2,7 @@
 title: Purchas Consolidation
 description: 
 published: true
-date: 2024-10-31T00:36:35.269Z
+date: 2024-10-31T00:50:39.356Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-31T00:35:31.137Z
