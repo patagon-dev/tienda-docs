@@ -2,7 +2,7 @@
 title: Cenabast Products
 description: 
 published: true
-date: 2024-10-31T16:26:46.276Z
+date: 2024-10-31T16:27:26.810Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-31T16:24:42.330Z
@@ -100,7 +100,7 @@ It's characteristics are:
   
    ![Kitadol](/images/img/Kitadol_500MG_24C.jpg)
     
- ## Acamol 500Mg
+## Acamol 500Mg
  
   - name: ACAMOL 500 MG CAJ 1000 CM
    - SKU: 500003917
@@ -110,7 +110,7 @@ It's characteristics are:
 
    ![acamol](/images/img/acamol.jpg)
 
-### Paracetamol 500MG
+## Paracetamol 500MG
 
    - name: PARACETAMOL 500 MG CAJ 16 CM
    - SKU: 500005197
@@ -119,4 +119,3 @@ It's characteristics are:
    - image:
 
  ![acamol](/images/img/2024-01-09_15-20.png)
-
