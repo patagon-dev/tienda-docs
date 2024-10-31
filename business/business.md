@@ -2,7 +2,7 @@
 title: Business Intro
 description: 
 published: true
-date: 2024-10-31T00:48:00.341Z
+date: 2024-10-31T00:49:22.309Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-28T20:12:43.158Z
