@@ -1,9 +1,11 @@
 ---
 title: Product Master Data
+description: 
 published: true
-date: 2023-10-26T21:31:46.730Z
+date: 2024-10-31T12:56:16.768Z
+tags: 
 editor: markdown
-dateCreated: 2023-10-26T16:22:01.572Z
+dateCreated: 2024-10-28T20:14:06.716Z
 ---
 
 # Resume
