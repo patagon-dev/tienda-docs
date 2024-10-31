@@ -2,7 +2,7 @@
 title: Interaction with ERP
 description: 
 published: true
-date: 2024-10-31T13:02:58.173Z
+date: 2024-10-31T13:14:59.184Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-28T20:13:41.420Z
@@ -10,9 +10,9 @@ dateCreated: 2024-10-28T20:13:41.420Z
 
 # Overview
 
-:::info
-This doc explains how Spree interacts with Cenabast ERP, in the lifecycle of an Spree::Order
-:::
+> This doc explains how Spree interacts with Cenabast ERP, in the lifecycle of an Spree::Order
+{.is-info}
+
 
 ## Implementation
 
@@ -51,7 +51,7 @@ In the admin panel, admin users can see information about the stablished SaleOrd
 
 When viewing a respective Spree::Order, go to the "ERP Pedidos de Venta" tab.
 
-![pipeline](./integration-with-erp/view-sale-orders.gif)
+![view-sale-orders.gif](/web-store-project/development-functionalities/integration-with-erp/view-sale-orders.gif)
 
 From there, admins can see the status of sale orders, its saved information from the erp, and which line items are contained by each SaleOrder.
 
