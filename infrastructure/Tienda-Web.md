@@ -2,7 +2,7 @@
 title: Tienda Web infrastructure
 description: 
 published: true
-date: 2024-10-30T20:20:40.468Z
+date: 2024-10-31T16:28:15.214Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-28T20:12:52.771Z
@@ -12,6 +12,7 @@ dateCreated: 2024-10-28T20:12:52.771Z
 
 # Development
 
+- [Design](design)
 - [Development server](/infrastructure/dev-server)
 - [Domains](/infrastructure/domains)
 - [Clave unica](/infrastructure/clave_unica)
