@@ -1,10 +1,20 @@
+---
+title: create-order
+description: 
+published: true
+date: 2024-10-31T17:37:52.625Z
+tags: 
+editor: markdown
+dateCreated: 2024-10-28T20:14:57.675Z
+---
+
 # Create Order
 
 ## Resume
 
-:::info
-Dev HOST: <kbd>testaplicacionesweb.cenabast.cl:7001</kbd>
-:::
+> Dev HOST: <kbd>testaplicacionesweb.cenabast.cl:7001</kbd>
+{.is-info}
+
 
 ## Request
 
