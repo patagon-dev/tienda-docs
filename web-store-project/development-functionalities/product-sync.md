@@ -1,9 +1,11 @@
 ---
 title: Product Synchronization
+description: 
 published: true
-date: 2024-03-18T14:02:49.917Z
+date: 2024-10-31T13:01:43.734Z
+tags: 
 editor: markdown
-dateCreated: 2024-03-18T21:45:58.170Z
+dateCreated: 2024-10-28T20:13:47.403Z
 ---
 
 # Overview
