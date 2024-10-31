@@ -2,7 +2,7 @@
 title: Functionalities
 description: 
 published: true
-date: 2024-10-31T13:27:37.776Z
+date: 2024-10-31T13:28:58.048Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-28T20:14:02.888Z
@@ -24,7 +24,7 @@ dateCreated: 2024-10-28T20:14:02.888Z
 
 
 - [Login Single Sign On *Keycloak*](login-con-plataforma-keycloak.md)
-- [Módulo B2B - User-Organization Logic](b2b-module-logic-functionality.md)
+- [Módulo B2B - User-Organization Logic](b2b-module-logic-functionality)
 - [Products Master Data](product-master-data.md)
 - [Users Master Data](User-Master-Data.md)
 - [Sellers Master Data](sellers-master-data.md)
