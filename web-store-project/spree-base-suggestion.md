@@ -2,7 +2,7 @@
 title: Platform Suggestion
 description: 
 published: true
-date: 2024-10-29T14:17:21.864Z
+date: 2024-10-31T12:53:46.344Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-28T20:13:10.198Z
