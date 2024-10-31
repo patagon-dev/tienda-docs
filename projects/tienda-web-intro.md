@@ -2,7 +2,7 @@
 title: Tienda Web intro
 description: 
 published: true
-date: 2024-10-31T12:33:56.406Z
+date: 2024-10-31T12:35:34.257Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-29T14:07:56.587Z
@@ -15,7 +15,7 @@ dateCreated: 2024-10-29T14:07:56.587Z
 
 # Project History
 
-- [Project history](history)
+- [Project history](histry)
 {.links-list}
 
 # Tienda Web Development
