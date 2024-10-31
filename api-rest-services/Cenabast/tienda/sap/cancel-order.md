@@ -1,10 +1,20 @@
+---
+title: cancel-order
+description: 
+published: true
+date: 2024-10-31T17:39:18.129Z
+tags: 
+editor: markdown
+dateCreated: 2024-10-28T20:14:55.663Z
+---
+
 # Cancel Order
 
 ## Resume
 
-:::info
-Dev HOST: <kbd>testaplicacionesweb.cenabast.cl:7001</kbd>
-:::
+> Dev HOST: <kbd>testaplicacionesweb.cenabast.cl:7001</kbd>
+{.is-info}
+
 
 ## Request
 
