@@ -2,7 +2,7 @@
 title: Lines of Business
 description: 
 published: true
-date: 2024-10-31T00:42:39.726Z
+date: 2024-10-31T00:43:10.370Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-28T20:13:14.071Z
@@ -12,7 +12,6 @@ dateCreated: 2024-10-28T20:13:14.071Z
 
 ## Resume
 
-:::info
 > Cenabast has differnt sales channels. Some of them are:
 > - Intermediacion
 > - ecommerce (AKA "Compra espontánea")
