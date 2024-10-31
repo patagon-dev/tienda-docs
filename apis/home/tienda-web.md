@@ -2,7 +2,7 @@
 title: API REST Services
 description: 
 published: true
-date: 2024-10-31T17:21:31.132Z
+date: 2024-10-31T17:23:14.961Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-28T20:12:33.525Z
@@ -32,6 +32,7 @@ dateCreated: 2024-10-28T20:12:33.525Z
 
 - [API Cenabast Directory WebAPI2 *external link*](https://testaplicacionesweb.cenabast.cl:7001/WebApi2/documentacion/index.html#/)
 - [~~API Cenabast Sellers API por Sellers for managing orders~~ *<kbd>Deprecate</kbd>*](https://aplicacionesweb.cenabast.cl/webapi/swagger/ui/index#)
+- [API Cenabast](api-tienda)
 - [API Tienda Cenabast 🥷](https://testaplicacionesweb.cenabast.cl:7001/interoperabilidad/tienda/api/docs/index.html)
 {.links-list}
 
