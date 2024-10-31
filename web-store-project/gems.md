@@ -1,9 +1,11 @@
 ---
 title: Gems
+description: 
 published: true
-date: 2024-01-31T15:11:59.721Z
+date: 2024-10-31T13:04:14.666Z
+tags: 
 editor: markdown
-dateCreated: 2024-01-31T15:11:59.721Z
+dateCreated: 2024-10-28T20:13:02.517Z
 ---
 
 # Gems
@@ -26,6 +28,7 @@ Dependancies used in the project
 * [Tailwind](https://github.com/rails/tailwindcss-rails) CSS Framework
 * [ViewComponent](https://github.com/viewcomponent/view_component) for building reusable and encapsulated view components on RoR
 * [LookBook](https://github.com/ViewComponent/lookbook) as a component browser for the developers
+{.links-list}
 
 ## Proposed gems
 
