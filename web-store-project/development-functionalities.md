@@ -2,7 +2,7 @@
 title: Development Functionalities
 description: 
 published: true
-date: 2024-10-31T12:44:53.240Z
+date: 2024-10-31T12:45:54.270Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-28T20:13:39.495Z
@@ -17,7 +17,7 @@ dateCreated: 2024-10-28T20:13:39.495Z
 
 - [Recomendations](recomendations)
 - [Ruby Development](ruby-development)
-- [Sales Channels](sales-channels)
+- [Sales Channels](sale-channels)
 - [Product Sync](product-sync)
 - [Mage-ai](mage-ai)
 - [Login Process](login-process)
