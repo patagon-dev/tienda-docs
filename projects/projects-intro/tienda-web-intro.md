@@ -2,7 +2,7 @@
 title: Tienda Web intro
 description: 
 published: true
-date: 2024-10-30T20:22:33.092Z
+date: 2024-10-31T12:30:24.992Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-29T14:07:56.587Z
