@@ -2,7 +2,7 @@
 title: Product Synchronization
 description: 
 published: true
-date: 2024-10-31T13:08:34.568Z
+date: 2024-10-31T13:24:32.434Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-28T20:13:47.403Z
@@ -30,7 +30,7 @@ A python client was created to interact with the Spree API and split into resour
 
 The product sync data pipeline workflow can be split onto three components:
 
-![pipeline](./product-sync/pipeline.png)
+![pipeline.png](/web-store-project/development-functionalities/product-sync/pipeline.png)
 
 ### 1 - Data importer
 
@@ -62,11 +62,11 @@ In broader terms, the loading strategy used was to create entities, and update t
 
 Information about the general (non decorated, non customized) Spree Api V2 endpoint collections can be found on the [Spree API Documentation](https://api.spreecommerce.org/docs/api-v2/0e192836641aa-platform-api).
 
-:::info
-**Postman collection with actual endpoints used:**
+> **Postman collection with actual endpoints used:**
+> 
+> [Postman collection](/web-store-project/development-functionalities/product-sync/spree-api-v2-plaftorm-examples.postman_collection.json)
+{.is-info}
 
-[Postman collection](./product-sync/spree-api-v2-plaftorm-examples.postman_collection.json)
-:::
 
 To autenticate and use the endpoints of the API, it is necesary to create an oAuth Application inside the Spree Admin backoffice:
 https://dev-docs.spreecommerce.org/api/platform-api/authenticating-requests
@@ -98,7 +98,7 @@ SPREE_CLIENT_SECRET
   * Error count of ZGEN products syncronized
   * SKUs of ZGEN products with errors on syncronization
 
-![pipeline-results](./product-sync/pipeline-results.png)
+![pipeline-results](/web-store-project/development-functionalities/product-sync/pipeline-results.png)
 
 More information about the pipeline excecution can be found in the logs section of the MageAI Dashboard:
 
@@ -110,35 +110,35 @@ These are the variables that the pipeline uses to parametrize its behaviour.
 
 They can be configured per trigger basis as **Runtime variables**.
 
-* codigo_product_initial_range
+* <kbd>codigo_product_initial_range</kbd>
   * (Integer) Limits the minimum value of the SKU code to use for processing ZGEN products, inclusive
   * Default: None (not set)
 
-* codigo_product_final_range
+* <kbd>codigo_product_final_range</kbd>
   * (Integer) Limits the maximum value of the SKU code to use for processing ZGEN products, inclusive
   * Default: None (not set)
 
-* max_number_of_products_to_process
+* <kbd>max_number_of_products_to_process</kbd>
   * (Integer) Limits the number of products to process to a maximum, skipping the rest of the records.
   * Default: None (not set)
 
-* product_code
+* <kbd>product_code</kbd>
   * (Integer) Defines an specific product SKU code to process, this value will be used to call the `/materiales/listacatalogo` endpoint (parameter `codigoProducto`). Enabling this will switch to individual record processing.
   * Default: None (not set)
 
-* group_article
+* <kbd>group_article</kbd>
   * (String) Defines an specific product group to process, this value will be used to call the `/materiales/listacatalogo` endpoint (parameter `grupoArticulo`)
   * Default: None (not set)
 
-* sector_code
+* <kbd>sector_code</kbd>
   * (String) Defines an specific product sector code to process, this value will be used to call the `/materiales/listacatalogo` endpoint (parameter `codigoSector`)
   * Default: None (not set)
 
-* page_size
+* <kbd>page_size</kbd>
   * (Integer) Defines an specific page size to use upon Cenabast product fetch, this value will be used to call the `/materiales/listacatalogo` endpoint (parameter `PageSize`)
   * Default: 5_000_000
 
-* page_size
+* <kbd>page_size</kbd>
   * (Integer) Defines an specific page number to use upon Cenabast product fetch, this value will be used to call the `/materiales/listacatalogo` endpoint (parameter `PageNumber`)
   * Default: None (not set)
 
@@ -157,16 +157,17 @@ However, there are some attributes required for Spree that are not given by the 
 
 Those attributes can be managed by the Spree admin panel, in the Products section (/admin/products).
 
-:warning: Requires to be accesed by an admin enabled user.
+> Requires to be accesed by an admin enabled user.
+{.is-warning}
 
-![product-edition](./product-sync/product-edition.gif)
+![product-edition](/web-store-project/development-functionalities/product-sync/product-edition.gif)
 
 ### Triggers
 
 A trigger of type scheduled was created to handle the daily scheduled syncronization of records.
 When configuring a trigger, a set of pipeline configuration parameters can be given:
 
-![trigger-variables](./product-sync/trigger-variables.png)
+![trigger-variables](/web-store-project/development-functionalities/product-sync/trigger-variables.png)
 
 More triggers can be created with different options.
 
@@ -176,6 +177,7 @@ More triggers can be created with different options.
 
 ### Important environment variables
 
+```ruby
 * CENABAST_API_BASE_URL
     * Root URL to use for Cenabast API
 
@@ -196,3 +198,4 @@ More triggers can be created with different options.
 
 * SPREE_CLIENT_SECRET
     * Spree Client ID to use for API authentication
+```
