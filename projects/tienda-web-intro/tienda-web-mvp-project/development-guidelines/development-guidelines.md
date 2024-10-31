@@ -2,7 +2,7 @@
 title: Guidelines
 description: 
 published: true
-date: 2024-10-31T12:51:38.552Z
+date: 2024-10-31T13:26:45.034Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-28T20:13:53.179Z
@@ -10,9 +10,11 @@ dateCreated: 2024-10-28T20:13:53.179Z
 
 # Overview
 
-:::danger[Commits Flow]
-All contributions must follow a trunk based development approach:
-So, new features must born from the `main` branch.\
+
+> All contributions must follow a trunk based development approach:
+> So, new features must born from the `main` branch.\
+{.is-danger}
+
 
 If its based on a JIRA issue, use the JIRA prefix of the feature for naming the branch:
 
@@ -34,6 +36,7 @@ More information about this can be found in the project README.
 # Development Guidelines
 
 - [Ruby development Guidelines](ruby-development.md)
+{.links-list}
 
 # Documentation
 
