@@ -2,7 +2,7 @@
 title: minutas
 description: 
 published: true
-date: 2024-10-29T14:20:37.483Z
+date: 2024-10-31T12:54:22.689Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-28T20:13:06.384Z
