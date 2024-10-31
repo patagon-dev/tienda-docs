@@ -1,14 +1,24 @@
+---
+title: orders
+description: 
+published: true
+date: 2024-10-31T17:29:50.229Z
+tags: 
+editor: markdown
+dateCreated: 2024-10-28T20:14:31.984Z
+---
+
 # Historic Orders
 
-:::warning
-This is a share API with [forecast](./forecast.md), but for Historic Orders, we should ONLY select values which producto ID is 50000*
-:::
+> This is a share API with [forecast](./forecast.md), but for Historic Orders, we should ONLY select values which producto ID is 50000*
+{.is-warning}
+
 
 ## Request 
 
-:::info
-This endpoints fetchs all orders for a given institution. 
-:::
+> This endpoints fetchs all orders for a given institution. 
+{.is-info}
+
 
 ```jsx
 GET '{{host}}}}/interoperabilidad/servicios/v1/tienda/demandaprogramada/{{rut-solicitante}}/{{rut-destinatario}}/{{mes}}/{{año}}' \
@@ -17,13 +27,13 @@ GET '{{host}}}}/interoperabilidad/servicios/v1/tienda/demandaprogramada/{{rut-so
 
 ## Response
 
-:::warning
-Only select values which `CodigoGenericoCodigoGeneric` starts with `50000*`. Only then the `NombreGenerico` product name corresponds to the [ZCEN](../../../business/products.mdx) product.
-:::
+> Only select values which `CodigoGenericoCodigoGeneric` starts with `50000*`. Only then the `NombreGenerico` product name corresponds to the [ZCEN](../../../business/products.mdx) product.
+{.is-warning}
 
-:::tip
-As order date, please consider the value of `ValidoDesde`
-:::
+
+> As order date, please consider the value of `ValidoDesde`
+{.is-success}
+
 
 ```jsx
 [
