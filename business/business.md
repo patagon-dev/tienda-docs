@@ -2,7 +2,7 @@
 title: Business Intro
 description: 
 published: true
-date: 2024-10-31T00:34:49.907Z
+date: 2024-10-31T00:40:12.582Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-28T20:12:43.158Z
@@ -20,6 +20,11 @@ dateCreated: 2024-10-28T20:12:43.158Z
 {.is-success}
 
 # Lines of Business
+
+- [Lines of Business](business/Channels/lines-of-business)
+{.links-list}
+
+# Operations
 
 - [Purchase consolidation](purchase-consolidation)
 {.links-list}
