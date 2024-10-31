@@ -1,19 +1,30 @@
-# Products
+---
+title: Cenabast Products
+description: 
+published: true
+date: 2024-10-31T16:24:42.330Z
+tags: 
+editor: markdown
+dateCreated: 2024-10-31T16:24:42.330Z
+---
 
-## Resume
+# Resume
 
-:::info[💣Product distinction 💣]
-Basically, there are two types of products:\
-\
-<kbd>ZGEN</kbd> 👉 **Unbranded** <mark>**Generic**</mark> product component request.\
-<kbd>ZCEN</kbd> 👉 **Branded** product, after a Seller has won an [auction](auction).
-:::
+> 💣Product distinction 💣
+> 
+> Basically, there are two types of products:\
+> \
+> <kbd>ZGEN</kbd> 👉 **Unbranded** <mark>**Generic**</mark> product component request.\
+> <kbd>ZCEN</kbd> 👉 **Branded** product, after a Seller has won an [auction](auction).
+{.is-info}
 
-## ZGEN
 
-:::tip[ZGEN products]
-The Unbranded Generic product <kbd>ZGEN</kbd> is **NOT a real product**, just a product definition. (Similar to "Monitor 20 inches" or "Paracetamolum 500 mg"). 
-:::
+# ZGEN
+
+> ZGEN products
+> The Unbranded Generic product <kbd>ZGEN</kbd> is **NOT a real product**, just a product definition. (Similar to "Monitor 20 inches" or "Paracetamolum 500 mg"). 
+{.is-success}
+
 
 Some characteristics are:
 
@@ -27,16 +38,17 @@ Some characteristics are:
 - Is **has** an internal **SKU**.
 - **One ZGEN product might have multiple related <kbd>ZCEN</kbd> products**. 
 
-:::warning[ZGEN is used for forecasting]
-<kbd>ZGEN</kbd> products definition is used for [forecasting](forecast) the demand and creating a public [bidding auction](auction).
-:::
+> ZGEN is used for forecasting
+> 
+> <kbd>ZGEN</kbd> products definition is used for [forecasting](forecast) the demand and creating a public [bidding auction](auction).
+{.is-warning}
 
-### Real <kbd>ZGEN</kbd> products
 
-<details>
-  <summary>**Real** <kbd>ZGEN</kbd> JSON sample 👇</summary>
-  <div>
-```jsx
+## Real <kbd>ZGEN</kbd> products
+
+**Real** <kbd>ZGEN</kbd> JSON sample 👇
+    
+```json
 {
         "CODIGO_PRODUCTO": "100001143",
         "TIPO_PRODUCTO": "ZGEN",
@@ -58,11 +70,11 @@ Some characteristics are:
 </div>
 </details>
 
-## ZCEN
+# ZCEN
 
-:::tip[ZCEN products]
-On the other hand, <kbd>ZCEN</kbd> products are **real branded** products. (ex. "Lenovo Monitor 20 inches IPS 1920x1080", or "Kitadol Paracetamolum 500 mg"). 
-:::
+> ZCEN products
+> On the other hand, <kbd>ZCEN</kbd> products are **real branded** products. (ex. "Lenovo Monitor 20 inches IPS 1920x1080", or "Kitadol Paracetamolum 500 mg"). 
+{.is-success}
 
 It's characteristics are:
 
@@ -77,41 +89,30 @@ It's characteristics are:
 
 ### Real <kbd>ZCEN</kbd> products
 
-<details>
-  <summary>**Real** <kbd>ZCEN</kbd> products 👇</summary>
-  <div>
+**Real** <kbd>ZCEN</kbd> product
 
-<Tabs>
-  <TabItem value="apple" label="TAPSIN SIN CAFEINA 500 MG" default>
    - name: TAPSIN SIN CAFEINA 500 MG CAJ 1000 CM
    - sku: 500000485
    - Seller SKU: 0092121000
    - ean: 7800004508372
    - image:
 
-    ![Kitadol](/images/img/Kitadol_500MG_24C.jpg)
+   ![Kitadol](/images/img/Kitadol_500MG_24C.jpg)
+    
 
-  </TabItem>
-  <TabItem value="orange" label="ACAMOL 500 MG CAJ 1000 CM">
   - name: ACAMOL 500 MG CAJ 1000 CM
    - SKU: 500003917
    - Seller SKU: 0079802770
    - ean: 
    - image:
 
-    ![acamol](/images/img/acamol.jpg)
-  </TabItem>
-  <TabItem value="banana" label="PARACETAMOL 500 MG CAJ 16 CM">
+   ![acamol](/images/img/acamol.jpg)
+
    - name: PARACETAMOL 500 MG CAJ 16 CM
    - SKU: 500005197
    - Seller SKU: 0077596940
    - ean: 7800007124326
    - image:
 
-    ![acamol](/images/img/2024-01-09_15-20.png)
-  </TabItem>
-</Tabs>
-</div>
-</details>
-
+ ![acamol](/images/img/2024-01-09_15-20.png)
 
