@@ -2,7 +2,7 @@
 title: Functionalities
 description: 
 published: true
-date: 2024-10-31T12:57:49.132Z
+date: 2024-10-31T13:27:37.776Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-28T20:14:02.888Z
