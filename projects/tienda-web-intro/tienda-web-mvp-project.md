@@ -2,7 +2,7 @@
 title: Tienda Web - MVP Project
 description: 
 published: true
-date: 2024-10-31T12:38:47.982Z
+date: 2024-10-31T12:48:51.527Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-30T19:52:50.601Z
@@ -16,21 +16,21 @@ dateCreated: 2024-10-30T19:52:50.601Z
 
 ## Pre Project details
 
-- [Platform RE-Definition *Switched from Magento to Spree report*](/web-store-project/definicion-de-plataforma-base)
-- [Project Scope](/web-store-project/alcance-tienda-cenabast)
-- [MVP Platform Suggestions](/web-store-project/spree-base-suggestion)
-- [MVP Prototyping](/web-store-project/draft-wireframes-prototyping)
+- [Platform RE-Definition *Switched from Magento to Spree report*](definicion-de-plataforma-base)
+- [Project Scope](alcance-tienda-cenabast)
+- [MVP Platform Suggestions](spree-base-suggestion)
+- [MVP Prototyping](draft-wireframes-prototyping)
 {.links-list}
 
 
 ## Post Project delivery
 
 
-- [MVP Developed Functionalities](/web-store-project/development-functionalities)
-- [MVP Guidelines](/web-store-project//development-guidelines)
-- [MVP Functionalities](/web-store-project/functionalities)
-- [MVP Gems](/web-store-project/gems)
-- [MVP Meeting agreements *Minutas*](/web-store-project/minutas)
-- [MVP Contract *Acid Labs - Convenio Marco*](/web-store-project/mvp1-contract)
-- [MVP Architecture](/web-store-project/mvp-architecture)
+- [MVP Developed Functionalities](development-functionalities)
+- [MVP Guidelines](development-guidelines)
+- [MVP Functionalities](functionalities)
+- [MVP Gems](gems)
+- [MVP Meeting agreements *Minutas*](minutas)
+- [MVP Contract *Acid Labs - Convenio Marco*](mvp1-contract)
+- [MVP Architecture](mvp-architecture)
 {.links-list}
