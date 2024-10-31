@@ -2,7 +2,7 @@
 title: API REST Services
 description: 
 published: true
-date: 2024-10-30T19:48:10.604Z
+date: 2024-10-31T17:21:31.132Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-28T20:12:33.525Z
@@ -14,13 +14,15 @@ dateCreated: 2024-10-28T20:12:33.525Z
 {.is-danger}
 
 
-The Store will need to handle multiple connections or integrations with third party services:\
-\
-👉 GET ERP (SAP) for fetching product data.\
-👉 POST to ERP (SAP) new Sales Orders.\
-👉 POST to Mercado Publico Purchase Order.\
-👉 POST to SIGFE Purchase Order **budget validation**.\
-👉 GET Invoice.\
+> The Store will need to handle multiple connections or integrations with third party services:\
+> \
+> 👉 GET ERP (SAP) for fetching product data.\
+> 👉 POST to ERP (SAP) new Sales Orders.\
+> 👉 POST to Mercado Publico Purchase Order.\
+> 👉 POST to SIGFE Purchase Order **budget validation**.\
+> 👉 GET Invoice.\
+{.is-info}
+
 
 
 
