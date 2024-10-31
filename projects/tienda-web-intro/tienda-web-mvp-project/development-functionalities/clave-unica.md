@@ -2,7 +2,7 @@
 title: Clave Unica
 description: 
 published: true
-date: 2024-10-31T13:03:22.651Z
+date: 2024-10-31T13:16:39.731Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-28T20:13:37.546Z
@@ -10,13 +10,14 @@ dateCreated: 2024-10-28T20:13:37.546Z
 
 # Overview
 
-:::info
-This doc explains how the implementation of login with Clave Unica was done in the Spree Cenabast project.
-:::
+> This doc explains how the implementation of login with Clave Unica was done in the Spree Cenabast project.
+{.is-info}
+
 
 See also:
 * [Clave Unica IdP](/cenabast-tienda/docs/infrastructure/clave_unica)
 * [Keycloak](/cenabast-tienda/docs/infrastructure/applications/keycloak)
+{.links-list}
 
 Keycloak is used for managing single sign-on from the Cenabast e-commerce application. A Keycloak realm is configured setting ClaveUnica as its identity provider
 
@@ -35,14 +36,17 @@ For protecting unrestricted access. A before_action logic was configured in orde
 
 ### Keycloak requirements
 
-* A Keycloak distribution must be available.
-* The IdP provider must be set as Clave unica
-* A Client must be created for its use in the Spree application (Client ID and Secret must be provided).
-* The Client must be able to pull the needed scopes (openid profile email)
-* The access setting URLs must match the URls that the application uses (Root URL, Home URL, Redirect URIs, Post logout redirect URIs, Web Origins)
+> 👉 A Keycloak distribution must be available.
+> 👉 The IdP provider must be set as Clave unica
+> 👉 A Client must be created for its use in the Spree application (Client ID and Secret must be provided).
+> 👉 The Client must be able to pull the needed scopes (openid profile email)
+> 👉 The access setting URLs must match the URls that the application uses (Root URL, Home URL, Redirect URIs, Post logout redirect URIs, Web Origins)
+{.is-warning}
+
 
 ### Important environment variables
 
+```ruby
 * KEYCLOAK_CLIENT_ID
     * Client ID
 
@@ -54,3 +58,4 @@ For protecting unrestricted access. A before_action logic was configured in orde
 
 * KEYCLOAK_REALM
     * Realm to use
+```
