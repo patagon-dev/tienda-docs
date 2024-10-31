@@ -1,25 +1,26 @@
 ---
-title: Lines of Business
+title: Lines of Business (Sales Channels)
 description: 
 published: true
-date: 2024-10-31T00:43:10.370Z
+date: 2024-10-31T15:14:36.241Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-28T20:13:14.071Z
 ---
 
-# Channels
-
-## Resume
+# Resume
 
 > Cenabast has differnt sales channels. Some of them are:
-> - Intermediacion
-> - ecommerce (AKA "Compra espontánea")
-> - Vacunas
-> - Programas interministeriales.
-> - Farmacias privadas.
-> - [Special Orders](special_order.md) (AKA "Pedidos Especiales")
 {.is-info}
+
+- [Intermediacion]()
+- [ecommerce *<kbd>Compra espontánea</kbd>*]()
+- [Vacunas]()
+- [Programas interministeriales]()
+- [Farmacias de Cadena]()
+- [Farmacias Privadas]()
+- [Special Orders *<kbd>Pedidos Especiales</kbd>*](special_order.md)
+{.links-list}
 
 
 > More info regarding the functionalities [here](../2_Store%20Project/functionalities/channels.md)
