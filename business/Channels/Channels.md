@@ -1,3 +1,13 @@
+---
+title: Lines of Business
+description: 
+published: true
+date: 2024-10-31T00:38:59.873Z
+tags: 
+editor: markdown
+dateCreated: 2024-10-28T20:13:14.071Z
+---
+
 # Channels
 
 ## Resume
