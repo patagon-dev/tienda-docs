@@ -2,7 +2,7 @@
 title: Login Process
 description: 
 published: true
-date: 2024-10-31T13:02:32.776Z
+date: 2024-10-31T13:10:15.530Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-28T20:13:43.395Z
@@ -10,14 +10,15 @@ dateCreated: 2024-10-28T20:13:43.395Z
 
 # Overview
 
-:::info
-This doc explains how the implementation the login process flow and authorization onto the site
-:::
+> This doc explains how the implementation the login process flow and authorization onto the site.
+{.is-info}
+
 
 See also:
 * [Clave Unica](clave-unica.md)
 * [Clave Unica IdP](/cenabast-tienda/docs/infrastructure/clave_unica)
 * [Keycloak](/cenabast-tienda/docs/infrastructure/applications/keycloak)
+{.links-list}
 
 The Cenabast site only should be accessed for authorized users.
 
@@ -63,6 +64,7 @@ The flow works as following (2024/02/27):
 
 ### Important environment variables
 
+```ruby 
 * CENABAST_API_BASE_URL
     * Root URL to use
 
@@ -77,3 +79,4 @@ The flow works as following (2024/02/27):
 
 * CENABAST_API_TOKEN_EXPIRE_TIME
     * How long the token will be cached onto cache store. Value in minutes, defaults to 30.
+```
