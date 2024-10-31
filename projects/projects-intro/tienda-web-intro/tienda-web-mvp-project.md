@@ -2,7 +2,7 @@
 title: Tienda Web - MVP Project
 description: 
 published: true
-date: 2024-10-31T12:29:07.993Z
+date: 2024-10-31T12:38:47.982Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-30T19:52:50.601Z
