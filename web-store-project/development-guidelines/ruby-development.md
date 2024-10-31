@@ -1,9 +1,11 @@
 ---
 title: Dev. Guidelines
+description: 
 published: true
-date: 2023-11-07T16:11:59.721Z
+date: 2024-10-31T13:00:53.896Z
+tags: 
 editor: markdown
-dateCreated: 2023-11-07T16:11:59.720Z
+dateCreated: 2024-10-28T20:13:55.121Z
 ---
 
 # Dev Guidelines
