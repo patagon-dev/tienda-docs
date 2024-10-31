@@ -2,7 +2,7 @@
 title: Tienda Web - MVP Architectutre
 description: 
 published: true
-date: 2024-10-30T20:08:30.019Z
+date: 2024-10-31T12:52:21.885Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-30T19:58:15.054Z
