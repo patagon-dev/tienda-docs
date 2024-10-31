@@ -2,7 +2,7 @@
 title: Tienda Web - MVP Project
 description: 
 published: true
-date: 2024-10-30T19:56:46.593Z
+date: 2024-10-31T12:29:07.993Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-30T19:52:50.601Z
@@ -12,6 +12,7 @@ dateCreated: 2024-10-30T19:52:50.601Z
 > The Tienda Web MVP project was released on April 2024 after a 3 month work.
 {.is-success}
 
+![2023-11-23_17-16.png](/images/images/2023-11-23_17-16.png)
 
 ## Pre Project details
 
