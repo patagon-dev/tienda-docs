@@ -2,7 +2,7 @@
 title: Cenabast Products
 description: 
 published: true
-date: 2024-10-31T16:24:42.330Z
+date: 2024-10-31T16:26:46.276Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-31T16:24:42.330Z
@@ -89,17 +89,19 @@ It's characteristics are:
 
 ### Real <kbd>ZCEN</kbd> products
 
-**Real** <kbd>ZCEN</kbd> product
+# Tabs {.tabset}
+## Tapsin Sin Cafeina
 
    - name: TAPSIN SIN CAFEINA 500 MG CAJ 1000 CM
    - sku: 500000485
    - Seller SKU: 0092121000
    - ean: 7800004508372
    - image:
-
+  
    ![Kitadol](/images/img/Kitadol_500MG_24C.jpg)
     
-
+ ## Acamol 500Mg
+ 
   - name: ACAMOL 500 MG CAJ 1000 CM
    - SKU: 500003917
    - Seller SKU: 0079802770
@@ -107,6 +109,8 @@ It's characteristics are:
    - image:
 
    ![acamol](/images/img/acamol.jpg)
+
+### Paracetamol 500MG
 
    - name: PARACETAMOL 500 MG CAJ 16 CM
    - SKU: 500005197
