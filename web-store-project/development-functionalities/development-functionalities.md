@@ -1,9 +1,11 @@
 ---
 title: Development Functionalities
+description: 
 published: true
-date: 2023-11-07T16:11:06.275Z
+date: 2024-10-31T12:41:25.805Z
+tags: 
 editor: markdown
-dateCreated: 2023-10-25T14:31:19.130Z
+dateCreated: 2024-10-28T20:13:39.495Z
 ---
 
 :::info
