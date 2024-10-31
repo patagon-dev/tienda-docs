@@ -2,7 +2,7 @@
 title: Purchas Consolidation
 description: 
 published: true
-date: 2024-10-31T00:51:55.469Z
+date: 2024-10-31T15:20:43.852Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-31T00:35:31.137Z
@@ -20,9 +20,10 @@ dateCreated: 2024-10-31T00:35:31.137Z
 > 👉 4. During the year, Cenabast schedules and control the Programmed delivery from each Vendor to each public institution.
 {.is-info}
 
+# Purchase sequence
 
-> [1. Forecast](1_forecast.md)
-> [2. Auction](2_auction.md)
-> [3. Award Auction & Contract](3_award.md)
-> [4. Management](4_management.md)
-{.is-info}
+- [1. Forecast](1_forecast.md)
+- [2. Auction](2_auction.md)
+- [3. Award Auction & Contract](3_award.md)
+- [4. Management](4_management.md)
+{.links-list}
