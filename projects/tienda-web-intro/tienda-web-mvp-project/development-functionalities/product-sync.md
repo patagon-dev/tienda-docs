@@ -2,7 +2,7 @@
 title: Product Synchronization
 description: 
 published: true
-date: 2024-10-31T13:01:43.734Z
+date: 2024-10-31T13:08:34.568Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-28T20:13:47.403Z
@@ -10,14 +10,15 @@ dateCreated: 2024-10-28T20:13:47.403Z
 
 # Overview
 
-:::info
-This doc explains how scheduled product sync (bringing information from Cenabast) to Spree works
-:::
+> This doc explains how scheduled product sync (bringing information from Cenabast) to Spree works
+{.is-info}
+
 
 See also:
 * [MageAI Documentation](mage.ai)
 * [MageAI](mage-ai.md)
 * [API tienda V2](/cenabast-tienda/docs/api-rest-services/Cenabast/tienda)
+{.links-list}
 
 ## Implementation
 
