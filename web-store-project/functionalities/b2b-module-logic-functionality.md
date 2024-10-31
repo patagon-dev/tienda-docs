@@ -1,9 +1,11 @@
 ---
 title: B2B module
+description: 
 published: true
-date: 2023-10-26T20:07:21.501Z
+date: 2024-10-31T12:55:17.686Z
+tags: 
 editor: markdown
-dateCreated: 2023-10-26T16:12:31.748Z
+dateCreated: 2024-10-28T20:13:59.024Z
 ---
 
 ### Resume
