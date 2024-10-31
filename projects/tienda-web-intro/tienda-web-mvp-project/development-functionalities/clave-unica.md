@@ -2,7 +2,7 @@
 title: Clave Unica
 description: 
 published: true
-date: 2024-10-31T13:16:39.731Z
+date: 2024-10-31T13:17:40.073Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-28T20:13:37.546Z
@@ -15,8 +15,8 @@ dateCreated: 2024-10-28T20:13:37.546Z
 
 
 See also:
-* [Clave Unica IdP](/cenabast-tienda/docs/infrastructure/clave_unica)
-* [Keycloak](/cenabast-tienda/docs/infrastructure/applications/keycloak)
+* [Clave Unica IdP](infrastructure/clave_unica)
+* [Keycloak](infrastructure/applications/keycloak)
 {.links-list}
 
 Keycloak is used for managing single sign-on from the Cenabast e-commerce application. A Keycloak realm is configured setting ClaveUnica as its identity provider
