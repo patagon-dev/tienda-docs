@@ -1,9 +1,11 @@
 ---
 title: Sale Channels
+description: 
 published: true
-date: 2024-02-27T14:02:49.917Z
+date: 2024-10-31T13:01:16.903Z
+tags: 
 editor: markdown
-dateCreated: 2023-10-26T21:45:58.170Z
+dateCreated: 2024-10-28T20:13:51.258Z
 ---
 
 # Overview
