@@ -2,7 +2,7 @@
 title: Tienda Web Project 2.0 💊🩻
 description: 
 published: true
-date: 2024-10-30T20:19:09.311Z
+date: 2024-10-31T12:39:25.665Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-30T20:19:09.311Z
