@@ -2,7 +2,7 @@
 title: Business Intro
 description: 
 published: true
-date: 2024-10-31T00:51:14.015Z
+date: 2024-10-31T15:22:33.824Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-28T20:12:43.158Z
@@ -21,12 +21,13 @@ dateCreated: 2024-10-28T20:12:43.158Z
 
 # Lines of Business
 
-- [Lines of Business](lines-of-business)
+- [Cenabast lines of Business *Sales Channels*](lines-of-business)
 {.links-list}
 
 # Operations
 
-- [Purchase consolidation](purchase-consolidation)
+- [Purchase consolidation *Forecast demand*](purchase-consolidation)
+- [Delivery and Logistics *<kbd>Novofarma</kbd>*](delivery-and-logistics)
 {.links-list}
 
 
