@@ -2,7 +2,7 @@
 title: Mage AI
 description: 
 published: true
-date: 2024-10-31T13:02:07.999Z
+date: 2024-10-31T13:20:14.885Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-28T20:13:45.425Z
@@ -10,13 +10,14 @@ dateCreated: 2024-10-28T20:13:45.425Z
 
 # Overview
 
-:::info
-This doc explains how the MageAI is used in the Cenabast proyect
-:::
+> This doc explains how the MageAI is used in the Cenabast proyect
+{.is-info}
+
 
 See also:
 * [MageAI Documentation](mage.ai)
-* [API tienda V2](/cenabast-tienda/docs/api-rest-services/Cenabast/tienda)
+* [API tienda V2](/apis/home/tienda-web)
+{.links-list}
 
 MageAI is be used as a Middleman in charge of recolecting information from Cenabast APIs and ingesting them into the Spree aplication via its Rest API.
 
@@ -41,6 +42,7 @@ On dvelopment environments, it can be accessed via http://localhost:6789/.
 
 ### Important environment variables
 
+```ruby
 * CENABAST_API_BASE_URL
     * Root URL to use
 
@@ -52,3 +54,4 @@ On dvelopment environments, it can be accessed via http://localhost:6789/.
 
 * CENABAST_API_PASSWORD
     * Password of the API user
+```
