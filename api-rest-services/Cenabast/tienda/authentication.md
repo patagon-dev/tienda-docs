@@ -1,10 +1,20 @@
+---
+title: authentication
+description: 
+published: true
+date: 2024-10-31T17:28:20.208Z
+tags: 
+editor: markdown
+dateCreated: 2024-10-28T20:14:24.144Z
+---
+
 # API authentication
 
 ## Resume
 
-:::info
-Dev HOST: <kbd>testaplicacionesweb.cenabast.cl:7001</kbd> 
-:::
+> Dev HOST: <kbd>testaplicacionesweb.cenabast.cl:7001</kbd> 
+{.is-info}
+
 
 ## Request
 
