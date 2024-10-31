@@ -2,7 +2,7 @@
 title: Sale Channels
 description: 
 published: true
-date: 2024-10-31T13:01:16.903Z
+date: 2024-10-31T13:07:57.495Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-28T20:13:51.258Z
@@ -10,9 +10,10 @@ dateCreated: 2024-10-28T20:13:51.258Z
 
 # Overview
 
-:::info
-This doc explains how the implementation of Sale Channels (ie. eCommerce, Intermediación) was done in the Spree Cenabast project.
-:::
+
+> This doc explains how the implementation of Sale Channels (ie. eCommerce, Intermediación) was done in the Spree Cenabast project.
+{.is-info}
+
 
 See also: [Sale Channel definition, explanation of business logic](/cenabast-tienda/docs/Store%20Project/functionalities/channels)
 
