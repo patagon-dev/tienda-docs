@@ -1,22 +1,24 @@
 ---
-title: Forecast 
+title: Forecast
+description: 
 published: true
-date: 2023-11-06T15:18:41.196Z
+date: 2024-10-31T17:31:31.298Z
+tags: 
 editor: markdown
-dateCreated: 2023-11-06T15:18:41.196Z
+dateCreated: 2024-10-28T20:14:29.977Z
 ---
 
 # Resume
 
-:::danger
-La demanda programada sólo existe para los productos genéricos [ZGEN](../../../business/products.mdx)
-:::
+> La demanda programada sólo existe para los productos genéricos [ZGEN](../../../business/products)
+{.is-warning}
+
 
 # Demanda Programada
 
-:::warning
-De la respuesta de esta API, sólo se deben considerar los productos que comienza con 10000*
-:::
+> De la respuesta de esta API, sólo se deben considerar los productos que comienza con 10000*
+{.is-warning}
+
 
 ## Request
 
@@ -28,13 +30,13 @@ GET '{{host}}}}/interoperabilidad/tienda/api/v1/materiales/demandasprogramadas/{
 
 ## Response
 
-:::tip
-El siguiente ejemplo muestra algunos registros para la demanda programada de diciembre 2024.
-```jsx 
-GET '{{HOST}}/interoperabilidad/tienda/api/v1/materiales/demandasprogramadas/61607600/201708/12/2024' \
---header 'Authorization: Bearer {{token}}'
-```
-:::
+> El siguiente ejemplo muestra algunos registros para la demanda programada de diciembre 2024.
+> ```jsx 
+> GET '{{HOST}}/interoperabilidad/tienda/api/v1/materiales/demandasprogramadas/61607600/201708/12/2024' \
+> --header 'Authorization: Bearer {{token}}'
+> ```
+{.is-success}
+
 
 ```jsx
 {
