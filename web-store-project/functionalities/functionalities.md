@@ -1,24 +1,27 @@
 ---
 title: Functionalities
+description: 
 published: true
-date: 2023-11-07T22:15:04.840Z
+date: 2024-10-31T12:57:49.132Z
+tags: 
 editor: markdown
-dateCreated: 2023-10-25T19:20:08.765Z
+dateCreated: 2024-10-28T20:14:02.888Z
 ---
 
 # Resume
 
-:::tip
-Main features that will need to be implemented during the project.
-:::
+> Main features that will need to be implemented during the project.
+{.is-info}
+
 
 
 # Functionalities
 
-:::tip
-The following business rules or functionalities will be required in the project.
-Also, all tasks will be added to the [Github repository](https://github.com/Departamento-TI/tienda-piloto-spree_starter/issues). 
-:::
+
+> The following business rules or functionalities will be required in the project.
+> Also, all tasks will be added to the [Github repository](https://github.com/Departamento-TI/tienda-piloto-spree_starter/issues). 
+{.is-success}
+
 
 - [Login Single Sign On *Keycloak*](login-con-plataforma-keycloak.md)
 - [Módulo B2B - User-Organization Logic](b2b-module-logic-functionality.md)
@@ -31,3 +34,4 @@ Also, all tasks will be added to the [Github repository](https://github.com/Depa
 - [Checkout - Step 4 - Purchase Order](checkout-purchase-order.md)
 - [Checkout - Step 5 - Budget Validation](checkout-budget-validation.md)
 - [Post Checkout - Push Order back to SAP ERP](post-checkout-push-order-back-to-SAP-ERP.md)
+{.links-list}
