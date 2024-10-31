@@ -1,10 +1,20 @@
+---
+title: contract
+description: 
+published: true
+date: 2024-10-31T17:32:13.889Z
+tags: 
+editor: markdown
+dateCreated: 2024-10-28T20:14:28.011Z
+---
+
 # Contract
 
 ## Request
 
-:::tip
-Get contracts for [ZGEN](../../../business/products.mdx) product 100000022.
-:::
+> Get contracts for [ZGEN](../../../business/products.mdx) product 100000022.
+{.is-success}
+
 
 ```jsx
 GET '{{host}}/interoperabilidad/tienda/api/v1/materiales/contratos/500016333' \
