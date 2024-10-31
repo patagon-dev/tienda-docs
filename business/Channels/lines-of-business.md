@@ -2,7 +2,7 @@
 title: Lines of Business
 description: 
 published: true
-date: 2024-10-31T00:41:48.328Z
+date: 2024-10-31T00:42:17.890Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-28T20:13:14.071Z
@@ -19,7 +19,7 @@ dateCreated: 2024-10-28T20:13:14.071Z
 > - Vacunas
 > - Programas interministeriales.
 > - Farmacias privadas.
-> - [Special Orders](../business/Channels/special_order.md) (AKA "Pedidos Especiales")
+> - [Special Orders](/Channels/special_order.md) (AKA "Pedidos Especiales")
 {.is-info}
 
 
