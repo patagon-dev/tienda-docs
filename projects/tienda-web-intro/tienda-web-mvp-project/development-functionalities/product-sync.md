@@ -2,7 +2,7 @@
 title: Product Synchronization
 description: 
 published: true
-date: 2024-10-31T13:24:32.434Z
+date: 2024-11-01T01:14:47.378Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-28T20:13:47.403Z
@@ -20,7 +20,7 @@ See also:
 * [API tienda V2](/cenabast-tienda/docs/api-rest-services/Cenabast/tienda)
 {.links-list}
 
-## Implementation
+# Implementation
 
 MageAI is used for the periodic data extraction and load into Spree, using APIs:
 
@@ -32,31 +32,44 @@ The product sync data pipeline workflow can be split onto three components:
 
 ![pipeline.png](/web-store-project/development-functionalities/product-sync/pipeline.png)
 
-### 1 - Data importer
+# 1 - Data importer
 
 **In charge of contacting Cenabast APIs.**
 
-* First, it will request a token (/interoperabilidad/tienda/api/v1/auth)
-* Then make an scoped query to the catalog materials endpoint, obtaining information of ZGEN products existing in cenabast (/interoperabilidad/tienda/api/v1/auth)
-  * The specific query params used will depend if its an massive product synchronization, or an individual one.
-  * The pipeline parameters used to control that will be described later in this document
-* For each ZCEN obtained, it will try to obtain its contracts using the contract endpoint (/interoperabilidad/servicios/api/v1/materiales/contratos/`<zgen_code>`)
-* Each ZGEN product with its given contracts is sent to the next step of the pipeline
+> 👉 First, it will request a token (/interoperabilidad/tienda/api/v1/auth)
+>
+> 👉 Then make an scoped query to the catalog materials endpoint, obtaining information of ZGEN products existing in cenabast (/interoperabilidad/tienda/api/v1/auth)
+>
+> 👉 The specific query params used will depend if its an massive product synchronization, or an individual one.
+>
+> 👉 The pipeline parameters used to control that will be described later in this document
+>
+> 👉 For each ZCEN obtained, it will try to obtain its contracts using the contract endpoint (/interoperabilidad/servicios/api/v1/materiales/contratos/`<zgen_code>`)
+>
+> 👉 Each ZGEN product with its given contracts is sent to the next step of the pipeline
+{.is-success}
 
-### 2 - Transformer
+
+# 2 - Transformer
 
 **In charge of filtering and manipulating the entry data**
 
-* For each ZGEN product, it will check if it at least one valid contract
-* Valid contracts are ones that have a current date. Meaning the start date has already passed (contract already running), and the end date hasnt yet elapsed (contract hasnt expired)
-* ZGEN products are filtered considering that logic
-* The remaining valid entries are sent to the next step of the pipeline
+> 👉 For each ZGEN product, it will check if it at least one valid contract
+> 
+> 👉 Valid contracts are ones that have a current date. Meaning the start date has already passed (contract already running), and the end date hasnt yet elapsed (contract hasnt expired)
+> 
+> 👉 ZGEN products are filtered considering that logic
+> 
+> 👉 The remaining valid entries are sent to the next step of the pipeline
+{.is-info}
 
-### 3 - Data exporter
+
+# 3 - Data exporter
 
 **In charge of loading data into Spree**
 
-Data is loaded onto Spree using Api v2 platform endpoints.
+> Data is loaded onto Spree using Api v2 platform endpoints.
+{.is-info}
 
 In broader terms, the loading strategy used was to create entities, and update those with new data if any changes are perceived.
 
@@ -80,23 +93,29 @@ SPREE_CLIENT_ID
 SPREE_CLIENT_SECRET
 ```
 
-* First, it will request a token (/spree_oauth/token) using the forementioned client_id/client_secret credentials.
-* It will obtain general information about the Spree environment, this information will be used to create/update other records in the process.
-  * Data from Spree Stores (/api/v2/platform/stores)
-  * Data from parent Taxons (/api/v2/platform/taxons)
-  * Data from Product properties (/api/v2/platform/properties)
-* For each filtered ZGEN product with its corresponding contracts:
-  * It will try to create/update the ZGEN contract data (/api/v2/platform/generic_products)
-  * For each product contract:
-    * It will try to create/update the Vendor data (/api/v2/platform/vendors)
-    * Using the corresponding vendor and other information, it will try to create/update the Product data (/api/v2/platform/products)
-    * Using the corresponding product and other information, it will try to create/update the Contract data (/api/v2/platform/contracts)
-    * Using the corresponding product and other information, It will try to update the Product's master variant data (/api/v2/platform/variants)
-    * Using the corresponding master variant and other information, It will try to update the Variant stock item information (/api/v2/platform/stock_items, /api/v2/platform/stock_locations)
-* Synchronization results for each product are stored and sumarized, those stats are returned as the pipeline exit:
-  * Succesful count of ZGEN products syncronized
-  * Error count of ZGEN products syncronized
-  * SKUs of ZGEN products with errors on syncronization
+> 👉 First, it will request a token (/spree_oauth/token) using the forementioned client_id/client_secret credentials.
+> 
+> 👉 It will obtain general information about the Spree environment, this information will be used to create/update other records in the process.
+>   👉 Data from Spree Stores (/api/v2/platform/stores)
+>   👉 Data from parent Taxons (/api/v2/platform/taxons)
+>   👉 Data from Product properties (/api/v2/platform/properties)
+> 
+> 👉 For each filtered ZGEN product with its corresponding contracts:
+>   👉 It will try to create/update the ZGEN contract data (/api/v2/platform/generic_products)
+>
+>   👉 For each product contract:
+>     👉 It will try to create/update the Vendor data (/api/v2/platform/vendors)
+>     👉 Using the corresponding vendor and other information, it will try to create/update the Product data (/api/v2/platform/products)
+>     👉 Using the corresponding product and other information, it will try to create/update the Contract data (/api/v2/platform/contracts)
+>     👉 Using the corresponding product and other information, It will try to update the Product's master variant data (/api/v2/platform/variants)
+>     👉 Using the corresponding master variant and other information, It will try to update the Variant stock item information (/api/v2/platform/stock_items, /api/v2/platform/stock_locations)
+> 
+> 👉 Synchronization results for each product are stored and sumarized, those stats are returned as the pipeline exit:
+>   👉 Succesful count of ZGEN products syncronized
+>   👉 Error count of ZGEN products syncronized
+>   👉 SKUs of ZGEN products with errors on syncronization
+{.grid-list}
+
 
 ![pipeline-results](/web-store-project/development-functionalities/product-sync/pipeline-results.png)
 
@@ -104,7 +123,7 @@ More information about the pipeline excecution can be found in the logs section 
 
 `/pipelines/product_data_pipeline/logs`
 
-### Pipeline variables
+# Pipeline variables
 
 These are the variables that the pipeline uses to parametrize its behaviour.
 
@@ -162,7 +181,7 @@ Those attributes can be managed by the Spree admin panel, in the Products sectio
 
 ![product-edition](/web-store-project/development-functionalities/product-sync/product-edition.gif)
 
-### Triggers
+# Triggers
 
 A trigger of type scheduled was created to handle the daily scheduled syncronization of records.
 When configuring a trigger, a set of pipeline configuration parameters can be given:
