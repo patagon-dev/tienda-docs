@@ -2,7 +2,7 @@
 title: Sale Channels
 description: 
 published: true
-date: 2024-10-31T13:07:57.495Z
+date: 2024-11-01T01:06:17.522Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-28T20:13:51.258Z
@@ -15,24 +15,30 @@ dateCreated: 2024-10-28T20:13:51.258Z
 {.is-info}
 
 
-See also: [Sale Channel definition, explanation of business logic](/cenabast-tienda/docs/Store%20Project/functionalities/channels)
+> See also: [Sale Channel definition, explanation of business logic](/business/lines-of-business)
+{.is-success}
 
-Each Sale Channel was represented by a [Spree::Store](https://dev-docs.spreecommerce.org/internals/stores).
+> Each Sale Channel was represented by a [Spree::Store](https://dev-docs.spreecommerce.org/internals/stores).
+{.is-info}
 
-A Spree::Store is associated with a set of products, enabled payment methods, layout configuration and other preferences.
-In that way, it's well suited to represent the differences between each Sale Channel.
+
+> A <kbd>Spree::Store</kbd> is associated with a set of products, enabled payment methods, layout configuration and other preferences.
+> 
+> In that way, it's well suited to represent the differences between each Sale Channel.
+{.is-success}
+
 
 ## Implementation
 
-The `current_store_finder` dependancy was modified to use a custom finder class. The original finder detects the Store based on the URL. Our Store Finder will work based on the current user preferences.
+> The `current_store_finder` dependancy was modified to use a custom finder class. The original finder detects the Store based on the URL. Our Store Finder will work based on the current user preferences.
 
-Each user will have a list of `Recievers` that is authorized to request to buy from. Each `Cenabast::Spree::Receiver` is associated with a requester `Cenabast::Spree::Requester` (Organismo Solicitante) and a sale channel `Spree::Store` (Canal de venta).
+> Each user will have a list of `Recievers` that is authorized to request to buy from. Each `Cenabast::Spree::Receiver` is associated with a requester `Cenabast::Spree::Requester` (Organismo Solicitante) and a sale channel `Spree::Store` (Canal de venta).
 
 The user amongst its store preferences will be able to switch between requesters receivers and stores amongst its enabled ones.
 
-* For Requesters, the enabled ones are all the requesters associated to the user
-* For Receivers, the enabled ones are all the receivers that belong to the requester, AND are also associated to the user
-* For Stores, the enabled ones are all the stores that match the any Receiver that has the current receiver RUN, and also belong to the current available receivers (ie. all the receivers with the same RUN of the current one. That belong to the same requester, and the user has also permission to use that receiver)
+> * For Requesters, the enabled ones are all the requesters associated to the user
+> * For Receivers, the enabled ones are all the receivers that belong to the requester, AND are also associated to the user
+> * For Stores, the enabled ones are all the stores that match the any Receiver that has the current receiver RUN, and also belong to the current available receivers (ie. all the receivers with the same RUN of the current one. That belong to the same requester, and the user has also permission to use that receiver)
 
 Admin users by default have access to all the Requesters. and all the Receivers from that current Requester.
 
