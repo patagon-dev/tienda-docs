@@ -2,7 +2,7 @@
 title: Guidelines
 description: 
 published: true
-date: 2024-10-31T13:26:45.034Z
+date: 2024-11-01T01:00:26.034Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-28T20:13:53.179Z
@@ -35,7 +35,7 @@ More information about this can be found in the project README.
 
 # Development Guidelines
 
-- [Ruby development Guidelines](ruby-development.md)
+- [Ruby development Guidelines](ruby-development)
 {.links-list}
 
 # Documentation
