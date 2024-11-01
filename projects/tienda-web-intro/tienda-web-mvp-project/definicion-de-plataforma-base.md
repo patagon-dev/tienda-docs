@@ -2,7 +2,7 @@
 title: Platform Definition
 description: 
 published: true
-date: 2024-10-31T12:53:20.051Z
+date: 2024-11-01T00:58:31.860Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-28T20:12:58.479Z
@@ -18,25 +18,28 @@ dateCreated: 2024-10-28T20:12:58.479Z
 
 ## Contexto
 
-El año 2018 se firmó un acuerdo de colaboración con ChileCompra para la habilitación y puesta en marcha de una Tienda de productos para Cenabast. En esa línea, se sugirió aprovechar la actual plataforma Magento que utiliza ChileCompra para las tiendas de Convenio Marco, para el desarrollo e implementación de una Tienda con medicamentos e insumos médicos para Cenabast. 
-Por lo mismo, es relevante conocer la historia del proyecto de Magento en Chilecompra, así como también los “Pros” y “Contras” de dicho proyecto en relación con los requerimientos de negocio de Cenabast. 
+> El año 2018 se firmó un acuerdo de colaboración con ChileCompra para la habilitación y puesta en marcha de una Tienda de productos para Cenabast. En esa línea, se sugirió aprovechar la actual plataforma Magento que utiliza ChileCompra para las tiendas de Convenio Marco, para el desarrollo e implementación de una Tienda con medicamentos e insumos médicos para Cenabast. 
+>
+> Por lo mismo, es relevante conocer la historia del proyecto de Magento en Chilecompra, así como también los “Pros” y “Contras” de dicho proyecto en relación con los requerimientos de negocio de Cenabast. 
+> 
+> Cabe destacar que el año 2022 se realizó una consulta al mercado para conocer las soluciones disponibles de proveedores a nivel local. 
+{.is-success}
 
-Cabe destacar que el año 2022 se realizó una consulta al mercado para conocer las soluciones disponibles de proveedores a nivel local. 
 
 # OBJETIVOS DE NEGOCIOS DE CENABAST
 
 Es importante poner en perspectiva los principales requerimientos de la tienda de Cenabast:
 
-- Plataforma de solicitud de pedidos para instituciones públicas, de productos de distintos proveedores ―multi-vendor, o marketplace B2B― . Se requiere un “backoffice” para que los proveedores puedan gestionar las órdenes de venta. 
-- Ajustar la plataforma tecnológica a los procesos de negocio de Cenabast. Entre otros:
-  - Integración con el registro de usuarios de Mercado Público.
-  - Integración con Orden de Compra de Mercado Público.
-  - Integración con SAP.
-  - Múltiples bodegas por proveedor.
-  - Checkout con productos de múltiples proveedores.
-  - Consolidación de pedidos en el backoffice del proveedor.
-  - Restricciones de compra por Organismos Público por Producto.
-  - Emisión de Orden de Compra a múltiples proveedores.
+> - Plataforma de solicitud de pedidos para instituciones públicas, de productos de distintos proveedores ―multi-vendor, o marketplace B2B― . Se requiere un “backoffice” para que los proveedores puedan gestionar las órdenes de venta. 
+> - Ajustar la plataforma tecnológica a los procesos de negocio de Cenabast. Entre otros:
+> - Integración con el registro de usuarios de Mercado Público.
+> - Integración con Orden de Compra de Mercado Público.
+> - Integración con SAP.
+> - Múltiples bodegas por proveedor.
+> - Checkout con productos de múltiples proveedores.
+> - Consolidación de pedidos en el backoffice del proveedor.
+> - Restricciones de compra por Organismos Público por Producto.
+> - Emisión de Orden de Compra a múltiples proveedores.
 
 El punto (ii), implica que se requiere una plataforma altamente customizable. Sea cual sea la plataforma, ésta será intervenida y personalizada a la medida de los requerimientos de Cenabast con funcionalidades y reglas únicas. Por tanto, la solución escogida debe permitir el acceso al código fuente. 
 
@@ -44,56 +47,77 @@ Indirectamente, el punto (ii) también hace referencia a la necesidad de contar 
 
 Adicionalmente, considerando los mecanismos de compra para las instituciones de Gobierno:
 
-- No es posible seleccionar un proveedor directamente, sino que el desarrollo debe ser licitado. 
-- Se debe trabajar exclusivamente con proveedores con presencia local. 
+> No es posible seleccionar un proveedor directamente, sino que el desarrollo debe ser licitado. 
+> 
+> Se debe trabajar exclusivamente con proveedores con presencia local. 
+{.is-warning}
+
 
 # MAGENTO
 
-Dado que la propuesta de colaboración considera la utilización de la plataforma Magento ―o Adobe Commerce―, es necesario explorar en detalle las fortalezas y debilidades de dicha solución. 
+> Dado que la propuesta de colaboración considera la utilización de la plataforma Magento ―o Adobe Commerce―, es necesario explorar en detalle las fortalezas y debilidades de dicha solución. 
 
 **Características**
 
 Magento es una plataforma de ecommerce B2C, líder global con cientos de miles de instalaciones en todo el mundo. Nació en el 2007 y fue la primera solución de código libre con tecnología LAMP.  Fue adoptado por miles de negocios y empresas que deseaban comercializar sus productos de forma rápida y económica. La comunidad entorno a Magento creció exponencialmente por las siguientes ventajas:
 
-- Es una plataforma muy sencilla de implementar. Una pequeña empresa puede comenzar a vender en un par de días. 
-- Tienes miles de funcionalidades y reglas de negocio ya implementadas. La plataforma intenta resolver todos los tipos de funcionalidades que existen en la industria del ecommerce a nivel global a través de su gigantesco panel de administración.  Esto hace que sea muy sencillo de implementar y adoptar por las empresas, ya que no requieren hacer ningún tipo de desarrollo.  
-- La comunidad es enorme, tanto en el número de empresas que lo están utilizando, como en el número de plugins —o extensiones— disponibles. Todos los medios de pago y proveedores logísticos están accesibles. 
+> 👉 Es una plataforma muy sencilla de implementar. Una pequeña empresa puede comenzar a vender en un par de días. 
+> 
+> 👉 Tienes miles de funcionalidades y reglas de negocio ya implementadas. La plataforma intenta resolver todos los tipos de funcionalidades que existen en la industria del ecommerce a nivel global a través de su gigantesco panel de administración.  Esto hace que sea muy sencillo de implementar y adoptar por las empresas, ya que no requieren hacer ningún tipo de desarrollo. 
+> 
+> 👉 La comunidad es enorme, tanto en el número de empresas que lo están utilizando, como en el número de plugins —o extensiones— disponibles. Todos los medios de pago y proveedores logísticos están accesibles. 
+{.is-success}
+
 
 Por otra parte, cabe mencionar ciertos aspectos que han dificultado su entrada en la industria B2B, en particular en proyectos que requieren realizar cambios a la plataforma:
 
-- Las 4.1 millones de líneas de código que componen la plataforma, hacen necesario que exista un período de aprendizaje importante para los nuevos desarrolladores. Es una aplicación monolítica enorme, y fue diseñada según los antiguos conceptos de desarrollo (2007). 
-- Se requiere un profundo conocimiento y expertise de la plataforma para customizar. El desarrollo es complejo, y por tanto, el costo del desarrollo es elevado. 
-- El nivel de desarrollo del módulo B2B está aún inmaduro. Magento es en esencia una plataforma B2C, que nació como solución para empresas de retail. 
-- No tiene lógica de Marketplace multi-proveedor de forma nativa. Se debe adquirir un módulo de tercero para habilitar esta funcionalidad. 
+> 👉 Las 4.1 millones de líneas de código que componen la plataforma, hacen necesario que exista un período de aprendizaje importante para los nuevos desarrolladores. Es una aplicación monolítica enorme, y fue diseñada según los antiguos conceptos de desarrollo (2007). 
+> 
+> 👉 Se requiere un profundo conocimiento y expertise de la plataforma para customizar. El desarrollo es complejo, y por tanto, el costo del desarrollo es elevado. 
+>
+> 👉 El nivel de desarrollo del módulo B2B está aún inmaduro. Magento es en esencia una plataforma B2C, que nació como solución para empresas de retail. 
+>
+> 👉 No tiene lógica de Marketplace multi-proveedor de forma nativa. Se debe adquirir un módulo de tercero para habilitar esta funcionalidad. 
+{.is-warning}
+
 
 **Historia del Proyecto en Chilecompra (2019 - 2023)**
 
 Aprovechando el conocimiento disponible en ChileCompra, viene al caso mencionar algunos puntos relevantes al estado del proyecto:
 
-- Se habilitaron “conectores” entre Magento y MercadoPúblico. Estos son: “login de usuarios”, “generación de orden de compra”, “sincronización de ofertas”, “sincronización del estado del proveedor”.  
-- Se han implementado más de 15 tiendas distintas de Convenio Marco, y se han invertido más de 40.000 horas de desarrollo. 
-- Se compró un módulo de terceros (Webkul) para habilitar la funcionalidad de Marketplace.
-- Han pasado 5 distintos proveedores de desarrollo.
-- Se cambió la estrategia de desarrollo desde “suma alzada” (llave en mano) por desarrollo “por horas” para mejorar la calidad de las entregas.
+> 👉 Se habilitaron “conectores” entre Magento y MercadoPúblico. Estos son: “login de usuarios”, “generación de orden de compra”, “sincronización de ofertas”, “sincronización del estado del proveedor”.  
+> 👉 Se han implementado más de 15 tiendas distintas de Convenio Marco, y se han invertido más de 40.000 horas de desarrollo. 
+> 👉 Se compró un módulo de terceros (Webkul) para habilitar la funcionalidad de Marketplace.
+> 👉 Han pasado 5 distintos proveedores de desarrollo.
+> 👉 Se cambió la estrategia de desarrollo desde “suma alzada” (llave en mano) por desarrollo “por horas” para mejorar la calidad de las entregas.
 
-No es fácil declarar lo malo que ha resultado un proyecto, sobre todo considerando que se ha participado en él desde el inicio. A juicio de este consultor, éstas han sido las principales equivocaciones respecto del proyecto de implementación de Magento en Chilecompra:
+<mark>No es fácil declarar lo malo que ha resultado un proyecto, sobre todo considerando que se ha participado en él desde el inicio. A juicio de este consultor, éstas han sido las principales equivocaciones respecto del proyecto de implementación de Magento en Chilecompra</mark>:
 
-- Mala elección del plugin de Marketplace. La extensión del proveedor Webkul sustenta el 80% de la tienda de Chilecompra, y sobre ella se han implementado la gran mayoría de las modificaciones de negocio. Es decir, todo el desarrollo implementado por Chilecompra ha sido realizado o extendido sobre la base de un código de tercero, y no sobre el código nativo de Magento. Este plugin ya no puede ser reemplazado, ya que es el pilar que sustenta las más de 40.000 horas de desarrollo invertidas.
-- Partners de baja calidad. Si bien todos los partners tenían certificaciones de Magento, algunos de ellos dejaron código de muy baja calidad.
-- No hacer “code-reviews” a las entregadas del proveedor. Nunca existió una contraparte técnica para validar las entregas de los proveedores. En muchos proyectos existe un “tech-lead” que revisa el diseño de las soluciones que se están implementando. Para el caso del proyecto de Chilecompra, el proveedor es quien realiza sus propias revisiones.
-- Estrategia de pago a “Suma Alzada”. Los incentivos para el proveedor estaban en entregar la funcionalidad al menor costo posible para maximizar su rentabilidad, por lo que generaban soluciones “parches” para muchos de problemas que se veían enfrentados.  
-- Plazos de entrega por sobre diseño de la solución. La presión por entregar una nueva funcionalidad pesa más que la calidad de ésta, y, por tanto, varias de las implementaciones acarreaban errores. La presión del área de Negocios, o normativas legales, imponen fechas de entrega inamovibles, lo que repercute en la implementación de soluciones acorde a los plazos impuestos.
-- Mezclar código de distintas tiendas. Cuando los procesos de negocio son totalmente independientes, y además, muy distintos entre sí, convendría tener soluciones separadas. Esto no fue el caso, ya que los procesos de negocios particulares de cada tienda se mezclaron entre sí, generando en el código un “árbol” de condiciones y funciones difícil de comprender para un desarrollador.
+> 👉 Mala elección del plugin de Marketplace. La extensión del proveedor Webkul sustenta el 80% de la tienda de Chilecompra, y sobre ella se han implementado la gran mayoría de las modificaciones de negocio. Es decir, todo el desarrollo implementado por Chilecompra ha sido realizado o extendido sobre la base de un código de tercero, y no sobre el código nativo de Magento. Este plugin ya no puede ser reemplazado, ya que es el pilar que sustenta las más de 40.000 horas de desarrollo invertidas.
+> 
+> 👉 Partners de baja calidad. Si bien todos los partners tenían certificaciones de Magento, algunos de ellos dejaron código de muy baja calidad.
+> 
+> 👉 No hacer “code-reviews” a las entregadas del proveedor. Nunca existió una contraparte técnica para validar las entregas de los proveedores. En muchos proyectos existe un “tech-lead” que revisa el diseño de las soluciones que se están implementando. Para el caso del proyecto de Chilecompra, el proveedor es quien realiza sus propias revisiones.
+> 
+> 👉 Estrategia de pago a “Suma Alzada”. Los incentivos para el proveedor estaban en entregar la funcionalidad al menor costo posible para maximizar su rentabilidad, por lo que generaban soluciones “parches” para muchos de problemas que se veían enfrentados.  
+> 
+> 👉 Plazos de entrega por sobre diseño de la solución. La presión por entregar una nueva funcionalidad pesa más que la calidad de ésta, y, por tanto, varias de las implementaciones acarreaban errores. La presión del área de Negocios, o normativas legales, imponen fechas de entrega inamovibles, lo que repercute en la implementación de soluciones acorde a los plazos impuestos.
+> 
+> 👉 Mezclar código de distintas tiendas. Cuando los procesos de negocio son totalmente independientes, y además, muy distintos entre sí, convendría tener soluciones separadas. Esto no fue el caso, ya que los procesos de negocios particulares de cada tienda se mezclaron entre sí, generando en el código un “árbol” de condiciones y funciones difícil de comprender para un desarrollador.
+{.is-danger}
+
 
 # RIESGOS
 
 Si bien Magento asoma como el primer candidato para la implementación del proyecto Tienda de Cenabast, dada la experiencia y desarrollos ya avanzados por parte de Chilecompra, también tiene varios riesgos que deben ser mitigados. 
+
 Se estima que los siguientes riesgos podrían afectar el proyecto, por lo que habría que buscar la forma de mitigarlos:
 
-- Dependencia del proveedor o equipo implementador.
-- Incertidumbre respecto del proveedor adjudicado.
-- Estrategia de desarrollo por “hora” en las bases técnicas de Licitación.
-- Selección inadecuada de plataforma base.
+> 👉 Dependencia del proveedor o equipo implementador.
+> 👉 Incertidumbre respecto del proveedor adjudicado.
+> 👉 Estrategia de desarrollo por “hora” en las bases técnicas de Licitación.
+> 👉 Selección inadecuada de plataforma base.
+{.is-warning}
 
 Respecto del primer riesgo (i), típicamente el equipo implementador adquiere para sí todo el conocimiento del proyecto, generando una dependencia respecto de la mantención y funcionamiento futuro de la plataforma. Para evitar dicha dependencia, se sugiere incorporar en el proyecto una metodología para gestionar el conocimiento, esto es, habilitar procesos y herramientas de tal forma que los equipos estén obligados a documentar de buena forma todo lo relacionado con el proyecto.
 
@@ -106,7 +130,8 @@ Por último, acerca de una inadecuada selección de la plataforma (iv), y que é
 # ―OTRAS― PLATAFORMAS DE ECOMMERCE
 
 Como parte del plan de mitigación, vale la pena considerar ㅡy evaluarㅡ, algunas soluciones alternativas que posiblemente se ajustan de mejor forma a los requerimientos de negocio de la institución.  
-**Soluciones Alternativas** 
+
+### **Soluciones Alternativas** 
 
 Una mirada “macro” apunta a diferenciar 2 grupos de plataformas a considerar:
 Soluciones empresariales (de código cerrado)
@@ -131,56 +156,77 @@ Respecto de las soluciones de código abierto, existen varios atributos comparab
 
 **Altamente Customizable**
 
-Implica que sea cual sea la plataforma, ésta será intervenida y personalizada a la medida de los requerimientos de Cenabast, con reglas que son únicas. Por tanto, la solución escogida debe permitir el acceso al código fuente, y, sobre todo, tener un bajo número de líneas de código:
+> Implica que sea cual sea la plataforma, ésta será intervenida y personalizada a la medida de los requerimientos de Cenabast, con reglas que son únicas. Por tanto, la solución escogida debe permitir el acceso al código fuente, y, sobre todo, tener un bajo número de líneas de código:
+{.is-info}
 
-![2023-11-08_10-00.png](/images/2023-11-08_10-00.png)
+![2023-11-08_10-00.png](/images/images/2023-11-08_10-00.png)
 
 **Costo de Desarrollo (Eficiencia)** 
 
-Debido a la gran cantidad de funcionalidades y mejoras que deben realizarse, es necesario que la solución tenga una baja curva de aprendizaje, de tal forma que los nuevos desarrolladores puedan comenzar a producir lo antes posible. Debe ser eficiente, en términos de ser rápido y fácil de implementar, además de no repetir código en distintas secciones.  
+> Debido a la gran cantidad de funcionalidades y mejoras que deben realizarse, es necesario que la solución tenga una baja curva de aprendizaje, de tal forma que los nuevos desarrolladores puedan comenzar a producir lo antes posible. Debe ser eficiente, en términos de ser rápido y fácil de implementar, además de no repetir código en distintas secciones.  
+{.is-info}
+
 
 **Especialistas Locales**
 
-Ya sea para contratar personal directamente o a través de terceros, se requiere contar con profesionales locales y una comunidad de desarrollo accesible. 
+> Ya sea para contratar personal directamente o a través de terceros, se requiere contar con profesionales locales y una comunidad de desarrollo accesible. 
+{.is-info}
+
 
 **Multi-Vendor engine**
 
-La plataforma tiene de forma nativa la característica de Marketplace B2B nativo. 
+> La plataforma tiene de forma nativa la característica de Marketplace B2B nativo. 
+> 
+{.is-info}
 
 El resultado de la comparación de los atributos seleccionados es la siguiente:
 
-![2023-11-08_10-02.png](/images/2023-11-08_10-02.png)
+![2023-11-08_10-02.png](/images/images/2023-11-08_10-02.png)
 
 **Notas a la comparación:** 
 
-- La solución multi-vendor de Magento sólo existe en forma de plugin.  
-- No se consideró como atributo de valor el número de funcionalidades. Muchas soluciones de ecommerce (como Magento) tratan de resolver una gran cantidad de funcionalidades, para que éstas puedan ser administrables desde el panel del usuario sin necesidad de tener que desarrollar. De esta forma, se transforman en gigantescas soluciones para abarcar todos los escenarios que requieren las empresas tradicionales de hoy. Si las funcionalidades que requiere Cenabast se encontraran dentro de los estándares de ecommerce, entonces sí tendría lógica escoger una solución que incluya una gran cantidad de funcionalidades, sin embargo, los requerimientos de Cenabast son especiales y únicos, y, por tanto deben ser desarrolladas. El gran número de funcionalidades de Magento y Oro Commerce, queda reflejado en el número de líneas de código de cada uno. 
-- Para el caso de los especialistas locales, se marcó como “️⚠️” aquellos escenarios en que hay desarrolladores para el lenguaje (Python o Ruby on Rails) pero que no tiene experiencia con la aplicación. Sin embargo, a diferencia de Magento, al ser plataformas con pocas líneas de código, no es necesario tener experiencia previa con la plataforma. 
+> 👉 La solución multi-vendor de Magento sólo existe en forma de plugin.  
+> 
+> 👉 No se consideró como atributo de valor el número de funcionalidades. Muchas soluciones de ecommerce (como Magento) tratan de resolver una gran cantidad de funcionalidades, para que éstas puedan ser administrables desde el panel del usuario sin necesidad de tener que desarrollar. De esta forma, se transforman en gigantescas soluciones para abarcar todos los escenarios que requieren las empresas tradicionales de hoy. Si las funcionalidades que requiere Cenabast se encontraran dentro de los estándares de ecommerce, entonces sí tendría lógica escoger una solución que incluya una gran cantidad de funcionalidades, sin embargo, los requerimientos de Cenabast son especiales y únicos, y, por tanto deben ser desarrolladas. El gran número de funcionalidades de Magento y Oro Commerce, queda reflejado en el número de líneas de código de cada uno. 
+> 
+> 👉 Para el caso de los especialistas locales, se marcó como “️⚠️” aquellos escenarios en que hay desarrolladores para el lenguaje (Python o Ruby on Rails) pero que no tiene experiencia con la aplicación. Sin embargo, a diferencia de Magento, al ser plataformas con pocas líneas de código, no es necesario tener experiencia previa con la plataforma. 
 
 # PROPUESTA O SUGERENCIA
 
 Si bien desde el inicio del levantamiento del proyecto se hizo hincapié en que la elección de la plataforma ya estaba confirmada, sería muy poco profesional por parte de este consultor, no levantar los riesgos que supone dicha decisión. A todas luces, utilizar Magento para el caso de Negocio de Cenabast es una elección riesgosa ya que, en comparación con otras soluciones:
 
-- Agrega mayor complejidad al desarrollo proyecto.
-- Dificulta la búsqueda de profesionales y proveedores especializados.
-- Aumentan los plazos de implementación.
-- No tienen la funcionalidad de Marketplace B2B nativo, por lo que debe desarrollarse dicha funcionalidad, o comprar una extensión de terceros. 
+> 👉 Agrega mayor complejidad al desarrollo proyecto.
+> 👉 Dificulta la búsqueda de profesionales y proveedores especializados.
+> 👉 Aumentan los plazos de implementación.
+> 👉 No tienen la funcionalidad de Marketplace B2B nativo, por lo que debe desarrollarse dicha funcionalidad, o comprar una extensión de terceros. 
+{.is-success}
+
 
 Dicho de otra forma, Magento es una excelente plataforma, pero se ajusta de mejor manera a casos de Negocio de retail (B2C). Para caso de negocio B2B, en que se requiere alta customización, lo recomendable será utilizar una plataforma más liviana, que permita un desarrollo y customización a la medida.
 
 **Sí o sí Magento**
 
-Si definitivamente no hay más opciones que utilizar Magento como plataforma, se debe tener en cuenta que dicha decisión significa:
-- Mayores costos de desarrollo que otras soluciones.
-- Mayores tiempos de implementación de nuevas funcionalidades.
-- Mayor complejidad para la implementación de los requerimientos de Negocio.
-- Para tener en consideración en caso de seguir este camino:
+> Si definitivamente no hay más opciones que utilizar Magento como plataforma, se debe tener en cuenta que dicha decisión significa:
 
-- **Aislar la plataforma al máximo**, para que en el futuro pueda ser reemplazada. Esto implica que la plataforma no debe usarse como fuente de datos de ningún tipo (clientes, productos, etc).
-- Evaluar muy bien los plugins de terceros que se van a instalar. A medida que avanza el desarrollo de los nuevos requerimientos, cada vez es más complejo reemplazar los pilares (plugins) que sustentan dicha funcionalidad.
-- Seleccionar un proveedor de desarrollo altamente calificado.
-- Tener un “code-reviewer” como contraparte a las entregas del proveedor.
-- No sobreponer los requerimientos de Negocio por sobre el diseño de la solución. Cuando los desarrollos se hacen “a la rápida”, en el mediano plazo terminan impactando gruesamente. 
+> 👉 Mayores costos de desarrollo que otras soluciones.
+>
+> 👉 Mayores tiempos de implementación de nuevas funcionalidades.
+>
+> 👉 Mayor complejidad para la implementación de los requerimientos de Negocio.
+>
+> 👉 Para tener en consideración en caso de seguir este camino:
+> 
+> 👉 **Aislar la plataforma al máximo**, para que en el futuro pueda ser reemplazada. Esto implica que la plataforma no debe usarse como fuente de datos de ningún tipo (clientes, productos, etc).
+> 
+> 👉 Evaluar muy bien los plugins de terceros que se van a instalar. A medida que avanza el desarrollo de los nuevos requerimientos, cada vez es más complejo reemplazar los pilares (plugins) que sustentan dicha funcionalidad.
+>
+> 👉 Seleccionar un proveedor de desarrollo altamente calificado.
+> 
+> 👉 Tener un “code-reviewer” como contraparte a las entregas del proveedor.
+>
+> 👉 No sobreponer los requerimientos de Negocio por sobre el diseño de la solución. Cuando los desarrollos se hacen “a la rápida”, en el mediano plazo terminan impactando gruesamente. 
+{.is-warning}
+
 
 **Alternativas**
 
@@ -188,23 +234,23 @@ En caso de abrir la discusión para evaluar otras alternativas, se sugiere:
 Destinar una parte del presupuesto en la implementación y desarrollo de pruebas de concepto o “pilotos” para comparar objetivamente los resultados entre distintas soluciones. En caso de hacer “competir” 2 o más plataformas, se establecen los parámetros de medición, y al final del piloto se “botan” los peores proyectos, y se adjudica el mejor.
 
 # ANEXO 1 - MERCADO DE SOLUCIONES (PLATAFORMAS)
-Consultor
-Nicolás Mella es Ingeniero Civil industrial PUC con casi 20 años de experiencia en el área de las Tecnologías de la información. En 2001 cofundó Kepler, empresa líder en Recuperación de Datos. El 2010 emprendió en el mundo del ecommerce con modelos de dropshipping y marketplaces B2B y B2C. A partir del 2016, es consultor independiente para distintas empresas. 
+> **Consultor**
+> Nicolás Mella es Ingeniero Civil industrial PUC con casi 20 años de experiencia en el área de las Tecnologías de la información. En 2001 cofundó Kepler, empresa líder en Recuperación de Datos. El 2010 emprendió en el mundo del ecommerce con modelos de dropshipping y marketplaces B2B y B2C. A partir del 2016, es consultor independiente para distintas empresas. 
 
 **Cuadrante de Gartner 2023**
 El estudio de Gartner muestra los principales proveedores de soluciones para “Comercio Digital”:
 
-![2023-11-08_18-19.png](/images/2023-11-08_18-19.png)
+![2023-11-08_18-19.png](/images/images/2023-11-08_18-19.png)
 
 **Local (Chile)**
 
 A nivel local, la preferencia de las grandes cadenas de retail en Chile han optado por plataformas B2C:
 
-- Oracle Commerce o ATG, que es utilizado por Falabella, Sodimac, VTR entre otras empresas.
-- VTEX, en empresas como Jumbo.cl, El Mundo del Vino, Unimarc, Rosen, Colloky, Corona.
-- SalesForce Commerce Cloud: Lapolar.cl, hites.com, cruzverde.cl, cic.cl
-- Magento: Empresas de retail más pequeñas: marmot.cl, casaroyal.cl, northface.cl, casaideas.cl.
-- Oro Commerce: Prisa.cl, destacado proveedor B2B. 
+> 👉 Oracle Commerce o ATG, que es utilizado por Falabella, Sodimac, VTR entre otras empresas.
+> 👉 VTEX, en empresas como Jumbo.cl, El Mundo del Vino, Unimarc, Rosen, Colloky, Corona.
+> 👉 SalesForce Commerce Cloud: Lapolar.cl, hites.com, cruzverde.cl, cic.cl
+> 👉 Magento: Empresas de retail más pequeñas: marmot.cl, casaroyal.cl, northface.cl, casaideas.cl.
+> 👉 Oro Commerce: Prisa.cl, destacado proveedor B2B. 
 
 Adicionalmente, el año 2022 Cenabast realizó una consulta al mercado respecto de los costos de mantención y operación de una nueva tienda. Dicha consulta arrojó las siguientes estimaciones de los proveedores para la implementación y mantención anual:
 
@@ -240,12 +286,12 @@ Visto que existen múltiples soluciones disponibles en el mercado, y, consideran
 | BigCommerce           | Solución Cloud que no permite el acceso al código fuente.  |
 
 
-**Soluciones de eCommerce evaluadas**
+## **Soluciones de eCommerce evaluadas**
 
 
 La siguiente sección muestra un breve análisis respecto de 6 soluciones de ecommerce “compatibles con los requerimientos de negocio para Cenabast”,  con sus ventajas y desventajas. 
 
-**Reaction Commerce **
+### **Reaction Commerce **
 
 Reaction Commerce es una solución “Headless commerce”, es decir, no tiene frontend ni backend, sino que es básicamente un motor o API que permite administrar todas las funcionalidades del ecommerce. Esto permite conectarse a múltiples sistemas y no está atado a una solución de frontend y backend.  
 
@@ -262,24 +308,31 @@ Contiene lógica de Marketplace multi-proveedor de forma nativa.
 - Aún tiene una comunidad de desarrolladores pequeña. 
 - Pocos empresas utilizan Reaction Commerce. 
 
-**Spree Commerce** 
+### **Spree Commerce** 
 
 La solución de Spree Commerce fue creada el 2007 y está basada en el lenguaje de programación Ruby on Rails. Es una solución de código abierto y a la fecha tiene aporte de más 840 colaboradores al código (Magento en comparación, tiene 1436 contribuyentes).  Sus principales ventajas son: 
 
-- Tiene una estructura liviana (188 mil líneas de código, en comparación con las 4.1 millones de líneas de código de Magento), por lo que es de fácil adopción. 
-- El lenguaje de programación Ruby on Rails es popular por su regla DRY —Don’t Repeat Yourself—, apunta a que la información del código debe ser clara y única para el resto del sistema. El propósito es disminuir la repetición de código al máximo, para que sea más sencillo el desarrollo. 
-- No es necesario que los nuevos desarrolladores tengan conocimiento ni experiencia en Spree Commerce. Basta que tengan experiencia en Ruby on Rails, ya que el framework es el mismo. Esto hace que los nuevos desarrolladores puedan comenzar a producir mucho antes que otros lenguajes. 
-- La eficiencia del desarrollo es mucho mayor al de otras soluciones, y por tanto el costo del desarrollo es menor. 
-- Tiene lógica de Marketplace multi-proveedor de forma nativa. 
+> 👉 Tiene una estructura liviana (188 mil líneas de código, en comparación con las 4.1 millones de líneas de código de Magento), por lo que es de fácil adopción. 
+> 
+> 👉 El lenguaje de programación Ruby on Rails es popular por su regla DRY —Don’t Repeat Yourself—, apunta a que la información del código debe ser clara y única para el resto del sistema. El propósito es disminuir la repetición de código al máximo, para que sea más sencillo el desarrollo. 
+> 
+> 👉 No es necesario que los nuevos desarrolladores tengan conocimiento ni experiencia en Spree Commerce. Basta que tengan experiencia en Ruby on Rails, ya que el framework es el mismo. Esto hace que los nuevos desarrolladores puedan comenzar a producir mucho antes que otros lenguajes. 
+>
+> 👉 La eficiencia del desarrollo es mucho mayor al de otras soluciones, y por tanto el costo del desarrollo es menor. 
+>
+> 👉 Tiene lógica de Marketplace multi-proveedor de forma nativa. 
+{.is-success}
+
 
 
 Y sus desventajas: 
 
-- La comunidad de desarrolladores es mucho menor que PHP.  
-- No hay soporte de la marca. 
-- Empresas en Chile que utilizan Spree Commerce: Macoline.cl, Salcobrand.cl, Preunic.cl, andesgear.cl 
+> 👉 La comunidad de desarrolladores es mucho menor que PHP.  
+> 👉 No hay soporte de la marca. 
+> 👉 Empresas en Chile que utilizan Spree Commerce: Macoline.cl, Salcobrand.cl, Preunic.cl, andesgear.cl 
+{.is-warning}
 
-**Shuup** 
+### **Shuup** 
 
 Shuup es una solución de código abierto desarrollada en Django y Python. Tiene aproximadamente 392 mil líneas de código y fue lanzada el año 2012.  
 
@@ -295,7 +348,7 @@ Tiene lógica de Marketplace multi-Proveedor de forma nativa, aunque dicho módu
 - La solución provee un módulo de Marketplace que requiere licenciamiento. 
 - Pocas empresas utilizan Shuup actualmente. 
 
-**OroCommerce** 
+### **OroCommerce** 
 
 OroCommerce es el único ecommerce opensource que nació el año 2012 con foco en el B2B y marketplace. En Chile, Prisa.cl lo implementó el 2022. La solución utiliza código PHP y fue fundada por parte del equipo original que desarrolló Magento, por lo que tiene varias similitudes con éste. Ventajas:
 
@@ -327,14 +380,20 @@ No hay soporte de la Marca.
 En el proceso de Gran Compra ID 43235, realizado el año 2018, Adobe entregó la siguiente tabla de precios según el tramo de venta anual:
 
 
-**Comentarios Chilecompra**
-Como parte del análisis, se levantó la opinión de algunas personas respecto del caso de Magento en Chilecompra. 
-Jovanna Mammani (Jefe de Proyecto)
+### **Comentarios Chilecompra**
 
-:::note
+> Como parte del análisis, se levantó la opinión de algunas personas respecto del caso de Magento en Chilecompra. 
+> 
+> Jovanna Mammani (Jefe de Proyecto)
+{.is-warning}
+
+
 > “Estamos en una etapa de madurez del proyecto. Recién ahora, después de varios años, hemos comenzado a ver oportunidades de mejora. Inicialmente había poco conocimiento de la plataforma, y todo era más difícil. Y el partner es sumamente bastante relevante… En el día a día estamos contínuamente en el incendio…sacando tiendas.
+> 
 > Habiendo logrado migrar todas las tiendas… estamos 100% con Magento como estrategia. Podemos hacer como una retrospectiva de cómo hemos hecho las cosas. Nos hemos reunido con Adobe para ver las oportunidades de negocio… La tendencia es tratar de no customizar tanto el core. Tratar de usar lo más nativo posible. Si hay que hacer una modificación, tratar de hacerlo modular…Hoy día estamos con mucha refactorización. El desafío para el 2024 es modularizar. 
+> 
 > Recomendación para Cenabast: Tener un buen partner. Hacer a Adobe parte de la definición para  poder implementar lo que quiere el Negocio (Nunca íbamos revisando que cosas estaba sacando Magento). Nosotros seguimos con lo que teníamos. El resultado es.. mantenciones más complejas…. Desarrollos más largos… dependencia entre tiendas…pruebas cross costosas…
+> 
 > Si parten de cero, parte de la estrategia que incorporen a Adobe. 
+> 
 > El Negocio es cambiante (respecto de los requerimientos)… pero no se ajusta con nuestro plazo de desarrollo. Tenemos que ver como ir a la par con el negocio, para no tener que decir al Negocio que sea creativo. Tenemos que negociar con los plazos. Ya estamos con el equipo más maduro…conocen las reglas de negocio. Ya ven las oportunidades de Negocio.  Lo ideal es poder avanzar con el misma velocidad del negocio. “
-:::
