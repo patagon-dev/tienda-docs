@@ -2,7 +2,7 @@
 title: Infrastructure
 description: 
 published: true
-date: 2024-10-30T20:26:19.035Z
+date: 2024-11-05T20:46:46.997Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-29T14:24:20.832Z
@@ -13,8 +13,7 @@ dateCreated: 2024-10-29T14:24:20.832Z
 {.is-success}
 
 
-# Project
+# Projects
 
-- [Tienda Web MPV Infrastructure](/infrastructure/Tienda-Web)
-- [Tienda Web Production Infrastructure](/infrastructure/Tienda-Web-production)
+- [Tienda Web Infrastructure](tienda-web)
 {.links-list}
