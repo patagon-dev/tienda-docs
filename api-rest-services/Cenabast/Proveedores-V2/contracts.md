@@ -2,7 +2,7 @@
 title: Contrats
 description: 
 published: true
-date: 2024-11-07T19:35:53.114Z
+date: 2024-11-07T19:37:44.588Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-28T20:14:10.487Z
@@ -64,8 +64,9 @@ POST {{host}}/WebApi2/api/v2/Public/contrato \
  ]
 ```
 
-:::tip
-When listing all available contracts, the information given is related to the programmed purchase, which shows the QTY per month:
-:::
+> 
+> <mark>When listing all available contracts, the information given is related to the programmed purchase, which shows the QTY per month</mark>. So in the example above, the position <kbd>120</kbd> represents December (Month: 12).
+{.is-success}
 
-![2023-11-06_18-25_1.png](/images/2023-11-06_18-25_1.png)
+
+![2023-11-06_18-25_1.png](/images/images/2023-11-06_18-25_1.png)
