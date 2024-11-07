@@ -1,20 +1,28 @@
 ---
 title: Contrats
+description: 
 published: true
-date: 2023-11-06T21:29:25.260Z
+date: 2024-11-07T19:35:53.114Z
+tags: 
 editor: markdown
-dateCreated: 2023-11-06T15:10:54.660Z
+dateCreated: 2024-10-28T20:14:10.487Z
 ---
 
 # Resume
 
-After an auction, the winner bidder signs a contract with Cenabast.
+> After an auction, the winner bidder signs a contract with Cenabast.
+{.is-success}
 
-# API Service
 
 # API example
 
-**Request API for producto ZGEN: 100003753**
+> **Request API for producto ZGEN: 100003753**
+{.is-info}
+
+> One product **can have multiple contracts** or PedidoCompra.
+{.is-danger}
+
+
 
 ```jsx
 POST {{host}}/WebApi2/api/v2/Public/contrato \
@@ -24,7 +32,7 @@ POST {{host}}/WebApi2/api/v2/Public/contrato \
 }'
 ```
 
-**Response:**
+> **Response:**
 
 ```jsx
 [
