@@ -2,7 +2,7 @@
 title: Tienda Web Project 2.0 💊🩻
 description: 
 published: true
-date: 2024-11-08T15:41:37.759Z
+date: 2024-11-08T15:41:48.126Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-30T20:19:09.311Z
@@ -13,7 +13,7 @@ dateCreated: 2024-10-30T20:19:09.311Z
 {.is-success}
 
 
-# Tienda Web - Project 2.0
+# Tienda Web - Project <kbd>2.0</kbd>
 
 - [Project Contract *Licitación*](/contracts/web-store-development)
 - [Development Standars and policies](project-standards-and-policies)
