@@ -2,7 +2,7 @@
 title: Guidelines
 description: 
 published: true
-date: 2024-11-01T01:00:26.034Z
+date: 2024-11-08T15:27:47.936Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-28T20:13:53.179Z
@@ -40,7 +40,5 @@ More information about this can be found in the project README.
 
 # Documentation
 
-:::info
-Documentation must be included as part of the process.
-
-:::
+> Documentation must be included as part of the process.
+{.is-info}
