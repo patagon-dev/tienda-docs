@@ -2,7 +2,7 @@
 title: Tienda Web - MVP Project
 description: 
 published: true
-date: 2024-10-31T12:48:51.527Z
+date: 2024-11-08T15:27:22.191Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-30T19:52:50.601Z
@@ -17,7 +17,7 @@ dateCreated: 2024-10-30T19:52:50.601Z
 ## Pre Project details
 
 - [Platform RE-Definition *Switched from Magento to Spree report*](definicion-de-plataforma-base)
-- [Project Scope](alcance-tienda-cenabast)
+- [MVP Project Scope](alcance-tienda-cenabast)
 - [MVP Platform Suggestions](spree-base-suggestion)
 - [MVP Prototyping](draft-wireframes-prototyping)
 {.links-list}
