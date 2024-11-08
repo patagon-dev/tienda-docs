@@ -2,7 +2,7 @@
 title: Tienda Web Infrastructure
 description: 
 published: true
-date: 2024-11-05T20:55:08.206Z
+date: 2024-11-08T15:53:44.563Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-05T20:48:33.825Z
@@ -18,10 +18,23 @@ dateCreated: 2024-11-05T20:48:33.825Z
 > List of services and related infrastructure of the Tienda Web project
 {.is-info}
 
+## Tienda Web <kbd>MVP</kbd>
+
+> MPV proyect was deployed on an internal virtual machine server.
+> 
+{.is-success}
 
 - [Github Repositories](repositories)
 - [Tienda Web MPV Infrastructure](/infrastructure/Tienda-Web)
 - [Tienda Web Production Infrastructure](/infrastructure/Tienda-Web-production)
+{.links-list}
+
+## Tienda Web <kbd>2.0</kbd>
+
+> Tienda Web <kbd>2.0</kbd> project will be deployed on the new Google Cloud Infrastructure.
+{.is-success}
+
+- [Tienda Web <kbd>2.0</kbd> Infrastructure *Google Cloud*](/infrastructure/Tienda-Web-production)
 {.links-list}
 
 # Tienda Web Management
