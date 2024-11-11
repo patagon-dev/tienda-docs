@@ -2,7 +2,7 @@
 title: Business Intro
 description: 
 published: true
-date: 2024-10-31T15:29:52.902Z
+date: 2024-11-11T13:53:47.163Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-28T20:12:43.158Z
@@ -26,7 +26,8 @@ dateCreated: 2024-10-28T20:12:43.158Z
 
 # Products
 
-- [Products](products)
+- [Types of Products *ZGEN & ZCEN*](products)
+- [Catalogación Tienda Web](catalogacion)
 {.links-list}
 
 # Operations
