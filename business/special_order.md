@@ -2,7 +2,7 @@
 title: Pedidos Especiales
 description: 
 published: true
-date: 2024-10-31T00:47:30.830Z
+date: 2024-11-12T00:48:54.252Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-28T20:13:16.021Z
@@ -30,7 +30,6 @@ It is mainly used by the public institutions as complement order for the schedul
 
 ## Subtypes
 
-> :::tip[Subtype definition]
 > The subtype is define by the public institution and it is NOT set by Cenabast
 
 Any <kbd>Pedido Especial</kbd> can have 3 **subtypes**:
@@ -48,7 +47,6 @@ Any <kbd>Pedido Especial</kbd> can have 3 **subtypes**:
 
 ## Products
 
-> :::warning[All products are allowed]
 > All products are ALLOWED within a <kbd>Pedido Especial</kbd> order.\
 > So the public insittution does not have any restriction within the product catalog. 
 {.is-warning}
