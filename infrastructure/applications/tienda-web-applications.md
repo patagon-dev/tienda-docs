@@ -2,7 +2,7 @@
 title: Tienda Web Applications
 description: 
 published: true
-date: 2024-11-12T00:45:01.387Z
+date: 2024-11-12T00:45:42.764Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-28T20:13:24.094Z
@@ -19,7 +19,7 @@ dateCreated: 2024-10-28T20:13:24.094Z
 - [Mageai](/infrastructure/applications/mageai)
 - [Sidekiq](/infrastructure/applications/sidekiq)
 - [Spree Commerce](/infrastructure/applications/spree)
-- [SAP](/infrastructure/applications/sap)
+- [SAP *SAP info related to Tienda Web*](/infrastructure/applications/sap)
 {.links-list}
 
 
