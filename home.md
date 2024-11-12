@@ -2,7 +2,7 @@
 title: Docs Home
 description: 
 published: true
-date: 2024-11-12T13:49:38.584Z
+date: 2024-11-12T13:51:25.023Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-28T20:12:00.737Z
@@ -16,8 +16,9 @@ dateCreated: 2024-10-28T20:12:00.737Z
 > Si hay información <kbd>desactualizada</kbd> o <mark>simplemente **no existe**</mark>, te invitamos a colaborar completando y corrigiendo. Mientras más información mejor !.
 {.is-danger}
 
-> aaa
+> Idealmente se debe solicitar la entrega de información a las personas y proveedores en esta plataforma. Para ello, lo aconsejable será incluir dentro del flujo de trabajo, un proceso específico de entrega y aceptación de documentación en este sitio.
 {.is-info}
+
 
 # Ejemplos
 
