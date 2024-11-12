@@ -2,7 +2,7 @@
 title: Docs Home
 description: 
 published: true
-date: 2024-11-12T13:29:10.660Z
+date: 2024-11-12T13:31:18.287Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-28T20:12:00.737Z
@@ -19,15 +19,17 @@ dateCreated: 2024-10-28T20:12:00.737Z
 > aaa
 {.is-info}
 
+# Ejemplos
+
 # aaaa {.tabset}
-## First Tab
+## Código
 
-Any content here will go into the first tab...
+La plataforma permite insertar "bloques de código". Basta con abrir una línea con <kdb>```</kbd> aaadd  
 
-## Second Tab
+## Diagramas
 
 Any content here will go into the second tab...
 
-## Third Tab
+## Historia
 
 Any content here will go into the third tab...
