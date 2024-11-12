@@ -2,7 +2,7 @@
 title: Tienda Web Applications
 description: 
 published: true
-date: 2024-11-12T00:45:42.764Z
+date: 2024-11-12T00:46:31.505Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-28T20:13:24.094Z
@@ -14,11 +14,11 @@ dateCreated: 2024-10-28T20:13:24.094Z
 > Ideally, we need to build the image locally.
 {.is-info}
 
-- [Keycloak](/infrastructure/applications/keycloak)
+- [Keycloak *Single Sign On*](/infrastructure/applications/keycloak)
 - [Postgresql](/infrastructure/applications/postgresql)
-- [Mageai](/infrastructure/applications/mageai)
-- [Sidekiq](/infrastructure/applications/sidekiq)
-- [Spree Commerce](/infrastructure/applications/spree)
+- [Mageai *Data Pipeline*](/infrastructure/applications/mageai)
+- [Sidekiq *Queue service*](/infrastructure/applications/sidekiq)
+- [Spree Commerce *Ecommerce service*](/infrastructure/applications/spree)
 - [SAP *SAP info related to Tienda Web*](/infrastructure/applications/sap)
 {.links-list}
 
