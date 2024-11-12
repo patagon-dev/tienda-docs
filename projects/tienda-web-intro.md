@@ -2,7 +2,7 @@
 title: Tienda Web intro
 description: 
 published: true
-date: 2024-11-08T15:38:51.682Z
+date: 2024-11-12T00:42:43.267Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-29T14:07:56.587Z
@@ -33,7 +33,7 @@ dateCreated: 2024-10-29T14:07:56.587Z
 
 
 
-- [Tienda Web MVP Project *Jan2024 to Apr2024*](tienda-web-mvp-project)
+- [Tienda Web MVP Application *Jan2024 to Apr2024*](tienda-web-mvp-project)
 - [Tienda Web MPV Infrastructure *<kbd>OLD</kbd>*](/infrastructure/Tienda-Web) 
 - [Tienda Web MPV APIs](/apis/home/tienda-web)
  {.links-list}
