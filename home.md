@@ -2,7 +2,7 @@
 title: Docs Home
 description: 
 published: true
-date: 2024-11-12T13:45:51.934Z
+date: 2024-11-12T13:46:58.420Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-28T20:12:00.737Z
@@ -45,7 +45,7 @@ public class Main {
 
 ## Diagramas
 
-> Los diagrams son <kbd>editables</kbd>. Basta hacer doble click sobre cualquier diagrama para editarlo. Prueba editando el siguiente diagrama:
+> Los diagrams son <kbd>editables</kbd>. Basta editar la página (click sobre el "lápiz" que está en el costado inferior derecho, y luego hacer doble click donde dice <kbd>Edit Diagram</kbd>. Prueba editando el siguiente diagrama:
 {.is-success}
 
 ```diagram
