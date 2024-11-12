@@ -2,7 +2,7 @@
 title: Tienda Web Applications
 description: 
 published: true
-date: 2024-10-30T15:59:02.497Z
+date: 2024-11-12T00:45:01.387Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-28T20:13:24.094Z
@@ -37,14 +37,15 @@ dateCreated: 2024-10-28T20:13:24.094Z
 
 Docker Repo:
 
-https://github.com/docker-library/postgres
+- https://github.com/docker-library/postgres
+{.links-list}
 
 ## Docker Keycloak
 
 Docker info:
 
-https://www.keycloak.org/server/containers
-
+- https://www.keycloak.org/server/containers
+{.links-list}
 
 ## Docker Spree Commerce
 
@@ -52,7 +53,5 @@ https://www.keycloak.org/server/containers
 > Please deploy branch `spree-4-7-development-with-frontend`
 {.is-info}
 
-
-
-https://github.com/Departamento-TI/cenabast-tienda/
-
+- https://github.com/Departamento-TI/cenabast-tienda/
+{.links-list}
