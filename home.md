@@ -2,7 +2,7 @@
 title: Docs Home
 description: 
 published: true
-date: 2024-11-12T13:46:58.420Z
+date: 2024-11-12T13:49:38.584Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-28T20:12:00.737Z
@@ -66,3 +66,14 @@ PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8v
 > Puedes ver toda la historia de la página. Sólo debe hacer click en el ícono inferior derecho donde dice "History":
 
 ![2024-11-12_10-42.png](/images/2024-11-12_10-42.png)
+
+## Tablas
+
+> Puedes crear tablas con formato Markdown. 
+{.is-info}
+
+| Nombre   | QTY | Precio | Ciudad     |
+|----------|-----|--------|------------|
+| Juan     | 100 | 2.000  | Arica      |
+| Santiago | 200 | 5.000  | Concepcion |
+| Pedro    | 300 | 8.500  | Temuco     |
