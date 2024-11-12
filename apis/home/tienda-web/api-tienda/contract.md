@@ -2,7 +2,7 @@
 title: contract
 description: 
 published: true
-date: 2024-10-31T17:32:13.889Z
+date: 2024-11-12T15:17:32.447Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-28T20:14:28.011Z
@@ -12,7 +12,7 @@ dateCreated: 2024-10-28T20:14:28.011Z
 
 ## Request
 
-> Get contracts for [ZGEN](../../../business/products.mdx) product 100000022.
+> Get contracts for [ZGEN](/business/products) product 100000022.
 {.is-success}
 
 
