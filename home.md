@@ -2,7 +2,7 @@
 title: Docs Home
 description: 
 published: true
-date: 2024-11-12T13:41:10.154Z
+date: 2024-11-12T13:45:51.934Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-28T20:12:00.737Z
@@ -53,7 +53,16 @@ PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8v
 ```
 
 
+## Imágenes
+
+> Puede subir imágenes o archivos 👇
+{.is-info}
+
+![letrero-660x340.jpg](/images/img/letrero-660x340.jpg)
+
 
 ## Historia
 
-Any content here will go into the third tab...
+> Puedes ver toda la historia de la página. Sólo debe hacer click en el ícono inferior derecho donde dice "History":
+
+![2024-11-12_10-42.png](/images/2024-11-12_10-42.png)
