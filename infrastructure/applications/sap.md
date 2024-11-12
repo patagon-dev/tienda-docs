@@ -2,7 +2,7 @@
 title: SAP info related to Tienda Web
 description: 
 published: true
-date: 2024-11-12T00:47:13.388Z
+date: 2024-11-12T00:52:55.238Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-28T20:13:31.794Z
