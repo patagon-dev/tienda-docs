@@ -2,7 +2,7 @@
 title: Docs Home
 description: 
 published: true
-date: 2024-11-12T19:19:28.766Z
+date: 2024-11-12T19:21:12.585Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-28T20:12:00.737Z
@@ -18,8 +18,6 @@ dateCreated: 2024-10-28T20:12:00.737Z
 
 > Idealmente se debe solicitar la entrega de información a las personas y proveedores en esta plataforma. Para ello, lo aconsejable será incluir dentro del flujo de trabajo, un proceso específico de entrega y aceptación de documentación en este sitio.
 {.is-info}
-
-[Pagina nuevaa aaaa](pagina-html)
 
 # Ejemplos
 
