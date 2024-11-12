@@ -2,7 +2,7 @@
 title: contract
 description: 
 published: true
-date: 2024-11-12T15:17:50.580Z
+date: 2024-11-12T15:18:13.501Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-28T20:14:28.011Z
@@ -12,7 +12,7 @@ dateCreated: 2024-10-28T20:14:28.011Z
 
 ## Request
 
-> Get contracts for [<kbd>ZGEN</kbd>](/business/products) product 100000022.
+> Get contracts for [<kbd>ZGEN</kbd>](/business/products) product 500016333.
 {.is-success}
 
 
