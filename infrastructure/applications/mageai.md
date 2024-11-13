@@ -2,7 +2,7 @@
 title: mageai
 description: 
 published: true
-date: 2024-11-13T21:24:57.167Z
+date: 2024-11-13T21:25:26.026Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-28T20:13:28.010Z
@@ -10,7 +10,7 @@ dateCreated: 2024-10-28T20:13:28.010Z
 
 # Mage.ai
 
-> Check the [Mage.ai Implementation](../../2_Store%20Project/development-functionalities/mage-ai.md) for more info.\
+> Check the [Mage.ai Implementation](/projects/tienda-web-intro/tienda-web-mvp-project/development-functionalities/mage-ai) for more info.\
 > Also check the [Mage.ai Product Syncronization](/projects/tienda-web-intro/tienda-web-mvp-project/development-functionalities/product-sync) for running sync.
 {.is-info}
 
