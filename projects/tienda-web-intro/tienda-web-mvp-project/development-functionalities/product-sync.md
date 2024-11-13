@@ -2,7 +2,7 @@
 title: Product Synchronization
 description: 
 published: true
-date: 2024-11-01T01:14:47.378Z
+date: 2024-11-13T21:32:20.077Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-28T20:13:47.403Z
@@ -22,13 +22,21 @@ See also:
 
 # Implementation
 
-MageAI is used for the periodic data extraction and load into Spree, using APIs:
+> MageAI is used for the periodic data extraction and load into Spree, using APIs:
+{.is-info}
 
-A Data Pipeline was created for the product sync. The pipeline its scheduled to run every day.
+> A Data Pipeline was created for the product sync. The pipeline its scheduled to run every day. 
+> 
+> A python client was created to interact with the Spree API and split into resources. Each REST resource has its own client and associated functions.
+{.is-info}
 
-A python client was created to interact with the Spree API and split into resources. Each REST resource has its own client and associated functions.
 
-The product sync data pipeline workflow can be split onto three components:
+> The product sync data pipeline workflow can be split onto **three components**:
+> 
+> 1. <kbd>Data importer</kbd>
+> 2. <kbd>Transformer</kbd>
+> 3. <kbd>Data exporter</kbd>
+<!-- {blockquote:.is-success} -->
 
 ![pipeline.png](/web-store-project/development-functionalities/product-sync/pipeline.png)
 
@@ -218,3 +226,10 @@ More triggers can be created with different options.
 * SPREE_CLIENT_SECRET
     * Spree Client ID to use for API authentication
 ```
+
+# Mage-ai Repo Sync
+
+<mark>Pending - Mageai Github sync image</mark>
+
+ - [Data Pipeline Repository Location](https://github.com/Departamento-TI/cenabast-tienda/tree/main/mage_ai/cenabast)
+{.links-list}
