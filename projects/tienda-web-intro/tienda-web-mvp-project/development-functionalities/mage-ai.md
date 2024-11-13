@@ -2,7 +2,7 @@
 title: Mage AI
 description: 
 published: true
-date: 2024-10-31T13:20:14.885Z
+date: 2024-11-13T21:24:02.591Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-28T20:13:45.425Z
@@ -15,30 +15,40 @@ dateCreated: 2024-10-28T20:13:45.425Z
 
 
 See also:
-* [MageAI Documentation](mage.ai)
+* [MageAI Documentation](/infrastructure/applications/mageai)
+* [Product Sincronizacion](/projects/tienda-web-intro/tienda-web-mvp-project/development-functionalities/product-sync)
 * [API tienda V2](/apis/home/tienda-web)
 {.links-list}
 
-MageAI is be used as a Middleman in charge of recolecting information from Cenabast APIs and ingesting them into the Spree aplication via its Rest API.
+> MageAI is be used as a Middleman in charge of recolecting information from Cenabast APIs and ingesting them into the Spree aplication via its Rest API.
+{.is-warning}
+
 
 ## Implementation
 
-MageAI is currently used for the product sincronization service
+> MageAI is currently used for the product sincronization service
+> 
+{.is-info}
 
 A data pipeline can be created for each pipeline we want to create.
 
-Data pipeline creation Guidelines:
+> Data pipeline creation Guidelines:
+> 
+> * The pipeline is scheduled to run every X hours
+> * The pipeline requests a token, request information from 1-N APIs, and merge that information
+> * The pipeline injects the information to the Spree Aplication via an API request
+> * Spree native API must be used. Prefering to decorate the less amount possible.
+{.is-info}
 
-* The pipeline is scheduled to run every X hours
-* The pipeline requests a token, request information from 1-N APIs, and merge that information
-* The pipeline injects the information to the Spree Aplication via an API request
-  * Spree native API must be used. Prefering to decorate the less amount possible.
 
 ### Deployment
 
-MageAI service is present in the docker-compose.yml file.
-By default it will run when starting the services.
-On dvelopment environments, it can be accessed via http://localhost:6789/.
+> MageAI service is present in the docker-compose.yml file.
+> By default it will run when starting the services.
+> 
+> On dvelopment environments, it can be accessed via http://localhost:6789/.
+{.is-success}
+
 
 ### Important environment variables
 
