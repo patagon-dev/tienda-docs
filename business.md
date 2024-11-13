@@ -2,7 +2,7 @@
 title: Business Intro
 description: 
 published: true
-date: 2024-11-11T13:53:47.163Z
+date: 2024-11-13T19:35:54.114Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-28T20:12:43.158Z
@@ -36,6 +36,10 @@ dateCreated: 2024-10-28T20:12:43.158Z
 - [Delivery and Logistics *<kbd>Novofarma</kbd>*](delivery-and-logistics)
 {.links-list}
 
+# Onboarding
+
+- [Tienda Web Onboarding](tienda-web-onboarding)
+{.links-list}
 
 
 
