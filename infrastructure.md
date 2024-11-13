@@ -2,7 +2,7 @@
 title: Infrastructure
 description: 
 published: true
-date: 2024-11-12T00:59:36.096Z
+date: 2024-11-13T20:10:51.891Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-29T14:24:20.832Z
@@ -15,7 +15,7 @@ dateCreated: 2024-10-29T14:24:20.832Z
 
 # Project
 
-- [Tienda Web Infrastructure](tienda-web)
+- [Tienda Web Infrastructure](Tienda-web)
 {.links-list}
 
 # Applications
