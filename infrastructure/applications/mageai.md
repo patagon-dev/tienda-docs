@@ -1,8 +1,8 @@
 ---
-title: mageai
+title: mageai - Data Pipeline
 description: 
 published: true
-date: 2024-11-13T21:25:26.026Z
+date: 2024-11-13T21:31:24.406Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-28T20:13:28.010Z
