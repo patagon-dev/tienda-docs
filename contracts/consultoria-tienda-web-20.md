@@ -2,7 +2,7 @@
 title: Consultoría Tienda Web 2.0
 description: 
 published: true
-date: 2024-11-14T19:06:50.857Z
+date: 2024-11-14T19:17:28.432Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-14T19:06:50.857Z
@@ -48,6 +48,9 @@ dateCreated: 2024-11-14T19:06:50.857Z
 > Informe Levantamiento situación actual, <kbd>5% de la ejecucion del contrato</kbd>
 {.is-success}
 
+- [Informe de Levantamiento de Situación Actual](informe-de-levantamiento-de-situacion-actual)
+{.links-list}
+
 ## Hito 2	
 
 > Plan de Desarrollo del Proyecto, <kbd>5% de la ejecucion del contrato</kbd>
@@ -58,6 +61,8 @@ dateCreated: 2024-11-14T19:06:50.857Z
 > <mark>**Informe mensual**</mark> de las actividades relacionadas al plan del proyecto, <kbd>9% mensual (del total del contrato)</kbd>
 {.is-success}
 
+- [Informe 1 <mark>pendiente</mark>](informe1)
+{.links-list}
 
 
 
