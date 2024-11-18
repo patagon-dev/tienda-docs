@@ -2,7 +2,7 @@
 title: Business Intro
 description: 
 published: true
-date: 2024-11-18T16:37:07.054Z
+date: 2024-11-18T16:38:17.514Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-28T20:12:43.158Z
@@ -34,6 +34,7 @@ dateCreated: 2024-10-28T20:12:43.158Z
 
 - [Purchase consolidation *Forecast demand <mark>Centro 5000</mark>*](purchase-consolidation)
 - [Operador Logístico *<kbd>Novofarma</kbd> <mark>Centro 6000</mark>*](delivery-and-logistics)
+- [Flujo de Facturación](flujo-de-facturacion)
 {.links-list}
 
 # Onboarding
