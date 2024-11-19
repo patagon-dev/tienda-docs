@@ -2,7 +2,7 @@
 title: Farmacias Privadas
 description: 
 published: true
-date: 2024-11-19T21:02:48.580Z
+date: 2024-11-19T21:04:40.533Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-31T15:19:31.103Z
@@ -21,7 +21,7 @@ dateCreated: 2024-10-31T15:19:31.103Z
 
 ## Importante
 
-> A diferencia del modelo de [Farmacias de Cadena](/business/lines-of-business/farmacias-de-cadena), en Farmacias privados el despacho se realiza desde la bodega del proveedor Logístico adjundicado (actualmente NovoFarma).
+> A diferencia del modelo de [Farmacias de Cadena](/business/lines-of-business/farmacias-de-cadena), en **Farmacias privadas** el despacho se realiza desde la bodega del proveedor Logístico adjundicado (actualmente NovoFarma) hasta la Farmacia Privada.
 {.is-danger}
 
 
