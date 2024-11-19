@@ -2,7 +2,7 @@
 title: Farmacias de Cadena
 description: 
 published: true
-date: 2024-11-19T20:53:18.095Z
+date: 2024-11-19T20:54:00.087Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-11T14:17:57.962Z
@@ -15,9 +15,8 @@ dateCreated: 2024-11-11T14:17:57.962Z
 # Modelo
 
 # Modelo  {.tabset}
-## Importante
+## Diferencias
 
-Any content here will go into the third tab...
 > A diferencia del modelo de [Farmacias privadas](/business/lines-of-business/farmacias-privadas), el proceso logístico de Farmacias de Cadena es con <kbd>entrega directa</kbd> **desde el proveedor hasta el Centro de Distribución del Cliente**.
 {.is-danger}
 
