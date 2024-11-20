@@ -2,7 +2,7 @@
 title: Recepción Conforme
 description: 
 published: true
-date: 2024-11-18T16:43:11.008Z
+date: 2024-11-20T19:22:35.673Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-18T16:43:11.008Z
@@ -21,5 +21,10 @@ dateCreated: 2024-11-18T16:43:11.008Z
 {.is-danger}
 
 
-> Actualmente existen 3 métodos o mecanísimos en que se realiza la Recepción Conforme.
+> Actualmente existen 3 métodos o mecanísimos en que se realiza la Recepción Conforme a través de la <kbd>Captura Cedible del documento</kbd>.
 {.is-warning}
+
+# Captura Documento Cedible
+
+- [Captura Documento Cedible](captura-documento-cedible)
+{.links-list}
