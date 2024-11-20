@@ -2,7 +2,7 @@
 title: Cenabast Products
 description: 
 published: true
-date: 2024-11-20T12:32:29.892Z
+date: 2024-11-20T12:33:13.712Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-31T16:24:42.330Z
@@ -10,9 +10,9 @@ dateCreated: 2024-10-31T16:24:42.330Z
 
 # Resume
 
-> 💣Product distinction 💣
+> ### Product classes 💣
 > 
-> Basically, there are two types of products:\
+> Basically, there are two types of product class:\
 > \
 > <kbd>ZGEN</kbd> 👉 **Unbranded** <mark>**Generic**</mark> product component request.\
 > <kbd>ZCEN</kbd> 👉 **Branded** product, after a Seller has won an [auction](auction).
