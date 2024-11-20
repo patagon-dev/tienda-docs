@@ -2,14 +2,16 @@
 title: Types of Products
 description: 
 published: true
-date: 2024-11-20T12:36:14.582Z
+date: 2024-11-20T13:38:36.005Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-20T12:36:14.582Z
 ---
 
 # Resumen
-> Tipos de productos en Cenabast
+> #### Tipos de productos en Cenabast
+> 
+> Los Productos que son licitados por Cenabast son : **medicamentos, alimentos, insumos, dispositivos médicos y equipamiento al sistema de Salud**
 {.is-success}
 
 # Tipos de productos (3) 
