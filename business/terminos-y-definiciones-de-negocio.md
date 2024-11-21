@@ -2,7 +2,7 @@
 title: Términos y Definiciones de Negocio
 description: 
 published: true
-date: 2024-11-20T12:38:00.792Z
+date: 2024-11-21T20:20:00.113Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-20T12:38:00.792Z
@@ -20,15 +20,28 @@ dateCreated: 2024-11-20T12:38:00.792Z
 > Son Farmacias que forman parte de una red de farmacias bajo la misma marca ubicadas en diferentes puntos (Ejemplo: Salcobrand, Ahumada, Cruz Verde)
 {.is-info}
 
+## <kbd>Solicitante</kbd>
 
-## DM: Destinatario Mercancía
+> 👉 El <kbd>Solicitante</kbd> corresponde al **organismo principal** o raíz. 
+> 👉 Por ejemplo, la "**Corporación Municipalidad de Puente Alto**". 
+> 👉 Está asociado a un** RUT único**. 
+{.is-success}
 
-> código asignado a una dirección de despacho
+
+## DM: <kbd>Destinatario Mercancía</kbd>
+
+> 👉 El <kbd>Destinatario de Mercancia</kbd> corresponde a una dirección o **centro de despacho** (o punto de entrega). 
+> 👉 Un organismo Solicitante puede tener <mark>múltiples</mark> <kbd>Destinatario de Mercancia</kbd>
+> **Por ejemplo**, 
+> 
+> 🏪 CONS.DR.ALEJANDRO DEL RIO, dirección: GANDARILLAS 105 
+> 🏪 BALMACEDA 265"FARMACIA SOLIDARIA PUENTE ALTO, dirección BALMACEDA 265
+> 
+> **Ambos destinatarios** de Mercancia pertenecen al mismo solicitante: Corporación Municipalidad de Puente Alto
 {.is-info}
 
 
-
-## Proveedor
+## Proveedor (o Laboratorio)
 
 > Empresa adjudicada por Cenabast que provee o abastece de los productos especificados en la licitación
 {.is-info}
