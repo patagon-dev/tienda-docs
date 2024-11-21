@@ -2,7 +2,7 @@
 title: Modelo de Logística Tercerizado (NovoFarma)
 description: 
 published: true
-date: 2024-11-21T19:58:16.732Z
+date: 2024-11-21T19:59:07.072Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-21T19:58:16.732Z
@@ -36,7 +36,7 @@ dateCreated: 2024-11-21T19:58:16.732Z
 > 👉 CargoEX
 {.is-info}
 
-## APP para Seguimiento 👉 Novotrack
+## APP para Seguimiento 👉 Novpotrack
 
 > Novofarma disponibiliza la siguiente aplicación para el seguimiento de los pedidos de Cenabast:
 
@@ -45,10 +45,10 @@ dateCreated: 2024-11-21T19:58:16.732Z
 
 # Imágenes {.tabset}
 
-## 1
+## NovoTrack App
 
 ![screenshot_20241121-155511_novotrack.jpg](/images/screenshot_20241121-155511_novotrack.jpg =400x)
 
-## 2
+## NovoTrack Pedido
 
 ![screenshot_20241121-155811_novotrack.jpg](/images/screenshot_20241121-155811_novotrack.jpg =400x)
