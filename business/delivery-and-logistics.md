@@ -2,13 +2,13 @@
 title: Delivery / Logistics
 description: 
 published: true
-date: 2024-11-11T14:30:09.031Z
+date: 2024-11-21T19:45:14.451Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-11T14:30:09.031Z
 ---
 
-# Resume
+# Resumen
 > Your content here
 {.is-info}
 
