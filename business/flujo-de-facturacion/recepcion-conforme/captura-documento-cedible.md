@@ -2,7 +2,7 @@
 title: Captura Documento Cedible
 description: 
 published: true
-date: 2024-11-21T14:24:25.251Z
+date: 2024-11-21T14:34:53.896Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-20T19:24:41.034Z
@@ -16,6 +16,10 @@ dateCreated: 2024-11-20T19:24:41.034Z
 
 > Por las bases 87, los proveedores **<mark>están obligados</mark>** a utilizar: o el método de API proveedores, o la captura del documento Tributario (XML) para informar la generación del documento electrónico.
 {.is-info}
+
+> Existe [esta plataforma Web](/business/flujo-de-facturacion/recepcion-conforme/web-ui-consulta-documentos) para consultar los documentos tributarios recibidos.
+{.is-success}
+
 
 
 # 1. WebDimPro (<kbd>deprecado</kbd>)
