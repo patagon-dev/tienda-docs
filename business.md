@@ -2,7 +2,7 @@
 title: Business Intro
 description: 
 published: true
-date: 2024-11-20T12:30:14.584Z
+date: 2024-11-21T19:46:52.777Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-28T20:12:43.158Z
@@ -33,14 +33,15 @@ dateCreated: 2024-10-28T20:12:43.158Z
 
 # Operationes
 
-- [Purchase consolidation *Forecast demand <mark>Centro 5000</mark>*](purchase-consolidation)
+- [Estimación de Demanda *Forecast demand <mark>Centro 5000</mark>*](purchase-consolidation)
+- [Dropshipping *<kbd>Intermediación</kbd> - <mark>Despacho del Proveedor al Solicitante</mark>*]()
 - [Operador Logístico *<kbd>Novofarma</kbd> <mark>Centro 6000</mark>*](delivery-and-logistics)
 - [Flujo de Facturación](flujo-de-facturacion)
 {.links-list}
 
 # Capacitaciones
 
-- [Tienda Web Onboarding](tienda-web-onboarding)
+- [Tienda Web Capacitacion Inicial *🧑🏻‍🎓*](tienda-web-onboarding)
 {.links-list}
 
 # Definiciones, Acrónimos y Abreviaturas
