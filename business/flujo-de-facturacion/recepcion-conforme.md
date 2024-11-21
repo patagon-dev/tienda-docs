@@ -2,7 +2,7 @@
 title: Recepción Conforme
 description: 
 published: true
-date: 2024-11-20T19:22:35.673Z
+date: 2024-11-21T14:26:16.943Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-18T16:43:11.008Z
@@ -27,4 +27,11 @@ dateCreated: 2024-11-18T16:43:11.008Z
 # Captura Documento Cedible
 
 - [Captura Documento Cedible](captura-documento-cedible)
+{.links-list}
+
+# Web UI para usuarios
+
+> Existe una Web UI de acceso para usuarios de Cenabast y proveedores, para consultar el estado de los documentos enviados. 
+
+- [Web UI para consulta de Documentos](web-ui-consulta-documentos)
 {.links-list}
