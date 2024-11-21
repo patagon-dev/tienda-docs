@@ -2,7 +2,7 @@
 title: Captura Documento Cedible
 description: 
 published: true
-date: 2024-11-21T14:40:42.787Z
+date: 2024-11-21T21:00:30.642Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-20T19:24:41.034Z
@@ -48,7 +48,8 @@ dateCreated: 2024-11-20T19:24:41.034Z
 {.is-warning}
 
 
-- [API proveedores V1 *Swagger UI*](https://aplicacionesweb.cenabast.cl/webapi/swagger/ui/index#!/Public/Public_Get_Cedible)
+- [API proveedores <kbd>V1</kbd> *Swagger UI*](https://aplicacionesweb.cenabast.cl/webapi/swagger/ui/index#!/Public/Public_Get_Cedible)
+- [API Consulta Cedible <kbd>V1</kbd> *<mark>Ejemplo</mark>*](API-consulta-cedible-v1)
 {.links-list}
 
 ## v2
@@ -58,6 +59,7 @@ dateCreated: 2024-11-20T19:24:41.034Z
 {.is-info}
 
 - [API proveedores V2](https://testaplicacionesweb.cenabast.cl/WebApi2/documentacion/index.html#!/Public/Public_Get_Cedible)
+- [API Consulta Cedible <kbd>V2</kbd> *<mark>Ejemplo</mark>*](API-consulta-cedible-v2)
 {.links-list}
 
 # 3. Captura Documento Tributario (XML)
