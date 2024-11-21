@@ -2,7 +2,7 @@
 title: Captura Documento Cedible
 description: 
 published: true
-date: 2024-11-21T14:34:53.896Z
+date: 2024-11-21T14:40:42.787Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-20T19:24:41.034Z
@@ -19,6 +19,13 @@ dateCreated: 2024-11-20T19:24:41.034Z
 
 > Existe [esta plataforma Web](/business/flujo-de-facturacion/recepcion-conforme/web-ui-consulta-documentos) para consultar los documentos tributarios recibidos.
 {.is-success}
+
+> #### Otras consideraciones importantes:
+> 
+> 👉 Todos los documentos **sólo tienen 1 sólo material**.
+> 👉 (<mark>Pendiente</mark>) Se está trabajando para permitir el ingreso de cantidades parciales (Es decir, si el Pedido de Venta es por 100 unidades, se permitirá aceptar documentos tributarios por 30 unidades, hasta completar la cantidad total.
+{.is-info}
+
 
 
 
@@ -56,3 +63,7 @@ dateCreated: 2024-11-20T19:24:41.034Z
 # 3. Captura Documento Tributario (XML)
 
 > Es un proceso que toma los documentos XML que se copian al correo `copiafactura@cenabast.cl`. Dicho proceso toma los documentos, los procesa, y luego los "inyecta" a SAP.
+
+> A diferencia de la API de Proveedores, este proceso no tiene referencia o relación del código de Material de Cenabast. El documento tributario sólo lleva el código o SKU del proveedor, y, por lo tanto, se está trabajando en una homologación de materiales. (<mark>Pendiente</mark>)
+{.is-danger}
+
