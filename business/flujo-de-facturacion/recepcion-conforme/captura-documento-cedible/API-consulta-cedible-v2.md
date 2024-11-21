@@ -2,7 +2,7 @@
 title: API Proveedores V2 - Ejemplo Consulta Cedible
 description: 
 published: true
-date: 2024-11-21T21:18:54.173Z
+date: 2024-11-21T21:19:53.488Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-21T21:12:20.891Z
@@ -55,5 +55,8 @@ curl --location 'https://testaplicacionesweb.cenabast.cl/WebApi2/api/v2/Public/c
 ]
 ```
 
-Conviertiendo el código de respuesta de base64 a PDF, obtenemos el archivo cedible. 
+> Conviertiendo el código de respuesta de base64 a PDF, obtenemos el archivo cedible. 
+{.is-success}
 
+- [cedible.pdf](/adjuntos/cedible.pdf)
+{.links-list}
