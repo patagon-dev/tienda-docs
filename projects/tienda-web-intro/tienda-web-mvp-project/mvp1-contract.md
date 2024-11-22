@@ -2,7 +2,7 @@
 title: mvp1-contract
 description: 
 published: true
-date: 2024-10-31T12:52:48.587Z
+date: 2024-11-22T16:17:03.866Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-28T20:13:08.280Z
@@ -20,11 +20,18 @@ dateCreated: 2024-10-28T20:13:08.280Z
 > [This is the RFQ](/images/img/Requisitos-tecnicos-piloto-tienda.pdf) for the MVP stage of the project.
 {.is-info}
 
-### Original Milestones 🙄
+## Oferta técnica
+
+> El proveedor adjudicado, AcidLabs, entregó la siguiente oferta técnica:
+> - [Oferta económica en SpreeCommerce.pdf](/adjuntos/oferta_tecnica_y_comercial_cenabast_spree_commerce.pdf)
+{.links-list}
+<!-- {blockquote:.is-success} -->
+
+### Hitos Originales 🙄
 
 ![milestones](/images/img/2024-01-15_11-23.png)
 
-### Updated Milestones
+### Hitos Actualizados
 
 > Unfortunately, due to the IT director replacement, we were requested to add the "ecommerce channel to the MVP project.
 {.is-danger}
