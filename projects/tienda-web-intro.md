@@ -2,7 +2,7 @@
 title: Tienda Web intro
 description: 
 published: true
-date: 2024-11-14T12:05:30.800Z
+date: 2024-11-22T19:36:54.164Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-29T14:07:56.587Z
@@ -57,7 +57,7 @@ dateCreated: 2024-10-29T14:07:56.587Z
 {.is-success}
 
 
-- [Risk Matrix](risk-matrix)
+- [Matriz de Riesgos *💣💣💣*](risk-matrix)
 - [Tienda Web Task/Gantt platform](https://proyectos.cenabast.cl/projects/1/easy_gantt)
 - [Tienda Web Internal Chat*Similar to Slack channel*](https://chat-proyecto.cenabast.cl/)
 - [Tienda Web Roles y Perfiles responsables de recibir los productos *🧭*](roles-y-perfiles-responsables-de-recibir-los-productos)
