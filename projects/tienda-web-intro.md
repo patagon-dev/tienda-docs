@@ -2,41 +2,29 @@
 title: Tienda Web intro
 description: 
 published: true
-date: 2024-11-22T19:36:54.164Z
+date: 2024-11-22T19:44:49.895Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-29T14:07:56.587Z
 ---
 
-# Resume
+# Resumen
 > Tienda Web Project homepage
 {.is-success}
 
 
-# Project History
+# Historia
 
-- [Project history](history)
+- [Historia del Proyecto Tienda](history)
 {.links-list}
 
-# Tienda Web Development
+# Desarrollo Tienda Web 
 
-## Repositories
+## Repositorios
 
 - [GIT Repositories](repositories)
 {.links-list}
 
-## Tienda Web <kbd>MPV</kbd> Development <mark>Depecrated</mark> (JAN-2024 ➡️ APR-2024)
-
-> <kbd>MVP</kbd> Developement related.
-> [Contract](/projects/tienda-web-intro/tienda-web-mvp-project/mvp1-contract) throught `Convenio Marco` with Acid Labs
-{.is-info}
-
-
-
-- [Tienda Web MVP Application *Jan2024 to Apr2024*](tienda-web-mvp-project)
-- [Tienda Web MPV Infrastructure *<kbd>OLD</kbd>*](/infrastructure/Tienda-Web) 
-- [Tienda Web MPV APIs](/apis/home/tienda-web)
- {.links-list}
 
 ## Tienda Web <kbd>2.0</kbd>  Development (NOV-2024 ➡️ DEC-2025)
 
@@ -65,3 +53,15 @@ dateCreated: 2024-10-29T14:07:56.587Z
 - [Reuniones de Avance Semana *Reportes y Presentaciones*](reuniones-de-avance-semanal)
 {.links-list}
 
+## Tienda Web <kbd>MPV</kbd> Development <mark>Depecrated</mark> (JAN-2024 ➡️ APR-2024)
+
+> <kbd>MVP</kbd> Developement related.
+> [Contract](/projects/tienda-web-intro/tienda-web-mvp-project/mvp1-contract) throught `Convenio Marco` with Acid Labs
+{.is-info}
+
+
+
+- [Tienda Web MVP Application *Jan2024 to Apr2024*](tienda-web-mvp-project)
+- [Tienda Web MPV Infrastructure *<kbd>OLD</kbd>*](/infrastructure/Tienda-Web) 
+- [Tienda Web MPV APIs](/apis/home/tienda-web)
+ {.links-list}
