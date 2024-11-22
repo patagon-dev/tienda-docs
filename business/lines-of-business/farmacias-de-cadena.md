@@ -2,7 +2,7 @@
 title: Farmacias de Cadena
 description: 
 published: true
-date: 2024-11-22T18:53:10.710Z
+date: 2024-11-22T18:59:11.082Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-11T14:17:57.962Z
@@ -47,9 +47,13 @@ PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8v
 ```mermaid
 sequenceDiagram
 Administrador de Contrato Cenabast->>Administrador de Usuarios Farmacia: Envio de email con productos disponibles
-Administrador de Usuarios Farmacia->>Administrador de Producto Cadena: Excel con productos para programados para 18 meses
+Administrador de Usuarios Farmacia->>Administrador de Producto Cadena: Excel con productos para ser programados para 18 meses
 Administrador de Usuarios Farmacia->>Administrador de Contrato Cenabast: Excel con productos para cada mes para ser programado para 18 meses
 Note right of Administrador de Contrato Cenabast: En SAP se llena las 18 <br>posiciones con los stocks de acuerdo a programación
+ loop 
+        SAP->>SAP: Se llena las 18 posiciones<br> con los stocks de acuerdo a<br> programación
+    end
+Note left of SAP: En SAP se realizan las ofertas<br>y posterior pedido enviado<br> al proveedor para su distribución y <br>entrega.
 ```
 
 # Usuarios
