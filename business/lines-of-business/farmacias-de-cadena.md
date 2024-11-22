@@ -2,13 +2,13 @@
 title: Farmacias de Cadena
 description: 
 published: true
-date: 2024-11-20T13:59:33.192Z
+date: 2024-11-22T18:41:16.675Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-11T14:17:57.962Z
 ---
 
-# Resume
+# Resumen
 > Este flujo de negocio está orientado a las GRANDES cadenas de Farmacias, como por ejemplo Salcobrand, Cruz Verda o Farmacias Ahumada.
 {.is-info}
 
