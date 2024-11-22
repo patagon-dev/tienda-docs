@@ -2,7 +2,7 @@
 title: history
 description: 
 published: true
-date: 2024-11-22T16:06:56.085Z
+date: 2024-11-22T16:10:55.572Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-28T20:13:04.476Z
@@ -56,6 +56,10 @@ dateCreated: 2024-10-28T20:13:04.476Z
 
 # 2023
 
-<mark>Pendiente</mark>
+> Se levanta un requerimiento por un nuevo proyecto piloto a través del CM de Desarrollo de Software.
+> 
+> - [Cotiación ID 39700 *CM de desarrollo de Software*](/projects/tienda-web-intro/tienda-web-mvp-project/mvp1-contract)
+> {.links-list}
+<!-- {blockquote:.is-info} -->
 
 [^1]: [3262-1-RF22](https://consulta-mercado.mercadopublico.cl/detalle-consulta-mercado/3262-1-RF22)
