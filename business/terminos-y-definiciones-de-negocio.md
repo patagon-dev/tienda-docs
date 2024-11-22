@@ -2,7 +2,7 @@
 title: Términos y Definiciones de Negocio
 description: 
 published: true
-date: 2024-11-21T20:20:00.113Z
+date: 2024-11-22T13:54:12.902Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-20T12:38:00.792Z
@@ -56,3 +56,20 @@ dateCreated: 2024-11-20T12:38:00.792Z
 
 > Está compuesto por 13 dígitos, cada código EAN-13 es único para cada producto, lo que facilita la identificación precisa en cualquier parte del mundo.
 {.is-info}
+
+## <kbd>SOLPED</kbd>
+
+> La <kbd>SOLPED</kbd> o **solicitud de pedido** es la Licitación. Por lo mismo, una SOLPED tiene N ofertas de precio por un producto genérico o ZGEN.
+{.is-success}
+
+## <kbd>ZGEN</kbd>
+
+- [Detalle <kbd>ZGEN</kbd>](https://docs.cenabast.cl/en/business/products-classes#zgen)
+{.links-list}
+
+## <kbd>ZCEN</kbd>
+
+- [Detalle <kbd>ZCEN</kbd>](https://docs.cenabast.cl/en/business/products-classes#zcen)
+{.links-list}
+
+
