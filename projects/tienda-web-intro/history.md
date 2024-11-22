@@ -2,13 +2,16 @@
 title: history
 description: 
 published: true
-date: 2024-11-22T16:10:55.572Z
+date: 2024-11-22T17:43:23.296Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-28T20:13:04.476Z
 ---
 
 # Resumen
+
+> Algunos puntos relevantes de la historia del proyecto Tienda en Cenabast.
+{.is-success}
 
 # 2018
 
