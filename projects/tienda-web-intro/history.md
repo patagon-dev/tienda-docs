@@ -2,7 +2,7 @@
 title: history
 description: 
 published: true
-date: 2024-11-22T16:01:39.350Z
+date: 2024-11-22T16:03:37.899Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-28T20:13:04.476Z
@@ -23,7 +23,7 @@ dateCreated: 2024-10-28T20:13:04.476Z
 
 ## ecommerce
 
-> On 2020, a Cenabast store for the ecommerce [channel](../2_Store%20Project/functionalities/channels.md) was implemented in the Mercado Público platform. This was an MVP project that was finally deprecated.
+> El 2020,Se implementó en Mercado Público una tienda para Cenabast. Este MVP fue finalmente deprecado.
 {.is-warning}
 
 ## Video
