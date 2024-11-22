@@ -2,7 +2,7 @@
 title: Farmacias de Cadena
 description: 
 published: true
-date: 2024-11-22T18:41:16.675Z
+date: 2024-11-22T18:50:41.243Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-11T14:17:57.962Z
@@ -44,3 +44,15 @@ Administrador de Usuarios Farmacia->>Administrador de Producto Cadena: Excel con
 Administrador de Usuarios Farmacia->>Administrador de Contrato Cenabast: Excel con productos para cada mes para ser programado para 18 meses
 Note right of Administrador de Contrato Cenabast: En SAP se llena las 18 <br>posiciones con los stocks de acuerdo a programación
 ```
+
+# Usuarios
+
+> <kbd>Administrador de Contrato Cenabast</kbd>: Persona que administra el stock mensualmente de los productos adquiridos por Cenabast realizando las solicitudes al Proveedor
+{.is-info}
+
+> <kbd>Administrador de Producto Cadena</kbd>: Persona que realiza la programación de productos enviados por Cenabast
+
+> <kbd>Administrador  Usuarios Farmacias</kbd>: Persona encargada de enviar productos disponibles para programar y capturar programación y realizar las solicitudes de ofertas.
+{.is-success}
+
+> <kbd>Proveedor</kbd>: Empresa adjudicada por Cenabast quien realiza la entrega de los productos previamente licitados por Cenabast
