@@ -2,7 +2,7 @@
 title: history
 description: 
 published: true
-date: 2024-11-22T15:54:47.768Z
+date: 2024-11-22T16:00:05.849Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-28T20:13:04.476Z
@@ -32,5 +32,23 @@ dateCreated: 2024-10-28T20:13:04.476Z
 
 # 2022
 
-> Cabe destacar que el año 2022 se realizó una consulta al mercado para conocer las soluciones disponibles de proveedores a nivel local.
+> Cabe destacar que el año 2022 se realizó una consulta al mercado[^1] para conocer las soluciones disponibles de proveedores a nivel local.
 {.is-info}
+
+## RFI 3262-1-RF22[^1]
+
+> Dicha consulta arrojó las siguientes estimaciones de los proveedores para la implementación y mantención anual:
+> 
+|     Proveedor     |     Solución    | Implementación (UF) | Mantención Anual (UF) |
+|:-----------------:|:---------------:|---------------------|:---------------------:|
+| TicBlue           | Solución Propia |         2800        |          8666         |
+| Sistemas Expertos | Solución Propia |         7525        |          4891         |
+| SAP               |   SAP Commerce  |        23375        |          9657         |
+| Prologística      | Solución Propia |         4340        |          3600         |
+| Liferay           |     Liferay     |         7316        |          2125         |
+| Linets            |  Adobe/Magento  |         7140        |          5900         |
+| Summa             |  Adobe/Magento  |         6729        |          5900         |
+| TekPro            |  Adobe/Magento  |         3550        |          5900         |
+
+
+[^1]: [3262-1-RF22](https://consulta-mercado.mercadopublico.cl/detalle-consulta-mercado/3262-1-RF22)
