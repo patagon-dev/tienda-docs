@@ -2,7 +2,7 @@
 title: history
 description: 
 published: true
-date: 2024-11-22T16:03:37.899Z
+date: 2024-11-22T16:06:56.085Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-28T20:13:04.476Z
@@ -54,5 +54,8 @@ dateCreated: 2024-10-28T20:13:04.476Z
 | Summa             |  Adobe/Magento  |         6729        |          5900         |
 | TekPro            |  Adobe/Magento  |         3550        |          5900         |
 
+# 2023
+
+<mark>Pendiente</mark>
 
 [^1]: [3262-1-RF22](https://consulta-mercado.mercadopublico.cl/detalle-consulta-mercado/3262-1-RF22)
