@@ -2,7 +2,7 @@
 title: Tienda Web intro
 description: 
 published: true
-date: 2024-11-22T19:44:49.895Z
+date: 2024-11-22T19:45:16.655Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-29T14:07:56.587Z
@@ -53,7 +53,7 @@ dateCreated: 2024-10-29T14:07:56.587Z
 - [Reuniones de Avance Semana *Reportes y Presentaciones*](reuniones-de-avance-semanal)
 {.links-list}
 
-## Tienda Web <kbd>MPV</kbd> Development <mark>Depecrated</mark> (JAN-2024 ➡️ APR-2024)
+## Tienda Web <kbd>MPV</kbd> Development <mark>Completed</mark> (JAN-2024 ➡️ APR-2024)
 
 > <kbd>MVP</kbd> Developement related.
 > [Contract](/projects/tienda-web-intro/tienda-web-mvp-project/mvp1-contract) throught `Convenio Marco` with Acid Labs
