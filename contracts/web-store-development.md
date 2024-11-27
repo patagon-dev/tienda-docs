@@ -2,18 +2,18 @@
 title: Tienda Web 2.0 - Software Development Contract
 description: 
 published: true
-date: 2024-11-27T18:38:14.845Z
+date: 2024-11-27T18:38:27.522Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-08T15:40:50.747Z
 ---
 
-# Resume
+# Resumen
 > Your content here
 {.is-success}
 
 
-# Contract with Acid Labs
+# Contrato con AcidLabs
 
 > <kbd>OC</kbd>: [2268-318-SE24.pdf](/adjuntos/2268-318-se24.pdf)
 {.is-info}
