@@ -2,7 +2,7 @@
 title: Consultoría Tienda Web 2.0
 description: 
 published: true
-date: 2024-11-14T19:17:28.432Z
+date: 2024-11-27T15:43:17.643Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-14T19:06:50.857Z
@@ -55,6 +55,9 @@ dateCreated: 2024-11-14T19:06:50.857Z
 
 > Plan de Desarrollo del Proyecto, <kbd>5% de la ejecucion del contrato</kbd>
 {.is-success}
+
+- [Plan de Desarrollo de Proyecto](plan-de-desarrollo-de-proyecto)
+{.links-list}
 
 ## Hito 3	
 
