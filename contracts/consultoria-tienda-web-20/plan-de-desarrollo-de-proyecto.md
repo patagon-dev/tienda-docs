@@ -2,7 +2,7 @@
 title: Plan de desarrollo de Proyecto (hito 2)
 description: 
 published: true
-date: 2024-11-27T15:59:12.862Z
+date: 2024-11-27T15:59:49.070Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-27T15:56:13.280Z
@@ -33,7 +33,7 @@ dateCreated: 2024-11-27T15:56:13.280Z
 > 
 > Este “alto rendimiento” según el estudio, se obtiene principalmente por la velocidad y estabilidad del desarrollo de software. A medida que los equipos “liberan” nuevas funcionalidades frecuentemente, y con bajas tasas de error, el valor real a los usuarios es tremendo. Y dado que despliegan nuevas características a cada rato, los cambios del código entre una y otra son más pequeños, y, por tanto, más fáciles de corregir en caso de errores.
 > 
-> Bueno, pero para lograr iterar rápidamente y de forma estable, el estudio DORA encontró una serie de capacidades y buenas prácticas que tenían todas las empresas de alto desempeño. Si bien dicho reporte recoge 29 capacidades[^2], aquí sólo se propone la búsqueda de 11 de ellas, que son más factibles de implementar en el contexto de la institución.
+> Bueno, pero para lograr iterar rápidamente y de forma estable, el estudio DORA encontró una serie de capacidades y buenas prácticas que tenían todas las empresas de alto desempeño. Si bien dicho reporte recoge 29 capacidades[^3], aquí sólo se propone la búsqueda de 11 de ellas, que son más factibles de implementar en el contexto de la institución.
 
 ## Gestión de Proyecto
 
