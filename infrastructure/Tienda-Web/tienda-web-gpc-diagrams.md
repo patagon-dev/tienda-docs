@@ -2,7 +2,7 @@
 title: Diseño Tienda en GCP
 description: 
 published: true
-date: 2024-12-02T17:19:58.174Z
+date: 2024-12-02T17:29:23.636Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-27T19:01:14.896Z
@@ -40,6 +40,15 @@ PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8v
 
 > - Requiere conocimiento especialist (DevOps)
 <!-- {blockquote:.is-warning} -->
+
+## Costos
+
+> Primera estimación de costos
+> >
+> - [GCP Costs](https://cloud.google.com/products/calculator?hl=es_419&dl=CjhDaVE1WkdReE5UTTVNUzB3TTJRd0xUUTJPRGd0T0RZMVppMDNZelJtT1dRNFpqUmpPRElRQVE9PRAHGiQxRTdFREM5MS1FMDI3LTRDNzItQjgwMy03MzZGM0U2N0RERTQ)
+> {.links-list}
+<!-- {blockquote:.is-warning} -->
+
 
 # Diagrama de componentes
 
