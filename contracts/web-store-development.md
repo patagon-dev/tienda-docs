@@ -2,7 +2,7 @@
 title: Tienda Web 2.0 - Software Development Contract
 description: 
 published: true
-date: 2024-11-27T18:38:27.522Z
+date: 2024-12-02T13:34:08.635Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-08T15:40:50.747Z
@@ -20,4 +20,6 @@ dateCreated: 2024-11-08T15:40:50.747Z
 
 
 - [Licitación ID 2268-34-LQ2](https://www.mercadopublico.cl/Procurement/Modules/RFB/DetailsAcquisition.aspx?idlicitacion=2268-34-LQ24)
+- [Diagrama d e  Trabo](Diagram_de_Trabajo)
+
 {.links-list}
