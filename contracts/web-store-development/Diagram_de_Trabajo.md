@@ -2,7 +2,7 @@
 title: Diagrama de Trabajo
 description: 
 published: true
-date: 2024-12-02T13:40:59.235Z
+date: 2024-12-02T13:42:24.727Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-02T13:40:59.235Z
@@ -29,3 +29,9 @@ sequenceDiagram
     Bob-->Alice: Checking with John...
     Alice->John: Yes... John, how are you?
 ```
+
+|        | F |     |     |   |
+|--------|---|-----|-----|---|
+| Dfssdf |   | a   |     | f |
+|        |   | asf | as  |   |
+|        |   |     | asd |   |
