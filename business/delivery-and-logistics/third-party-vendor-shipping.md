@@ -2,7 +2,7 @@
 title: Modelo de Logística Tercerizado (NovoFarma)
 description: 
 published: true
-date: 2024-11-21T19:59:07.072Z
+date: 2024-12-02T13:16:53.836Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-21T19:58:16.732Z
@@ -27,6 +27,24 @@ dateCreated: 2024-11-21T19:58:16.732Z
 > 👉 Realizan entre 2.000 y 3.000 despachos mensuales para Farmacias Privadas.
 > 👉 Realizan despachos por Ley Ricarte Soto
 {.is-info}
+
+## Importante
+
+> Cambio de ERP ... Posiblemente no pueden participar en la licitación de Mayo 2025...porque van a estar en pleno cambio de sistema.
+{.is-danger}
+
+> Novofarma tiene más de 200 integraciones con distintos clientes...Luego el cambio de ERP les implica que también deben migrar esas 200 integraciones. 
+{.is-warning}
+
+> No tiene una API para leer el stock de Farmacias Privadas
+{.is-danger}
+
+> En teoría, si tienen una API para leer la información de los despachos.
+{.is-success}
+
+
+
+
 
 ## Couriers
 
