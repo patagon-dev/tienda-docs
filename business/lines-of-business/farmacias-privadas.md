@@ -2,7 +2,7 @@
 title: Farmacias Privadas
 description: 
 published: true
-date: 2024-11-19T21:04:40.533Z
+date: 2024-12-03T14:16:04.814Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-31T15:19:31.103Z
@@ -11,6 +11,13 @@ dateCreated: 2024-10-31T15:19:31.103Z
 # Resumen
 > Linea de negocio de Farmacias Privadas
 {.is-success}
+
+> Esta línea de Negocios pertenece a:
+> - [Centro 6000](/business/centros/6000)
+{.links-list}
+<!-- {blockquote:.is-info} -->
+
+
 
 # Modelo de Negocio
 
