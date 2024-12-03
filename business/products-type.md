@@ -1,8 +1,8 @@
 ---
-title: Types of Products
+title: Tipos de Productos
 description: 
 published: true
-date: 2024-11-20T13:38:36.005Z
+date: 2024-12-03T14:13:05.356Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-20T12:36:14.582Z
