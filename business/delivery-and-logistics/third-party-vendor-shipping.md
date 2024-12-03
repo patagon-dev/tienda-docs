@@ -2,7 +2,7 @@
 title: Modelo de Logística Tercerizado (NovoFarma)
 description: 
 published: true
-date: 2024-12-02T13:16:53.836Z
+date: 2024-12-03T14:35:49.055Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-21T19:58:16.732Z
@@ -11,6 +11,11 @@ dateCreated: 2024-11-21T19:58:16.732Z
 # Resumen
 > Introducción a la empresa adjudicada Novoforma para el almacenamiento y distribución de los productos para Farmacias Privadas.
 {.is-success}
+
+> Actualmente el Operador Logístico (OPL) Novofarma opera con los centros:
+> - [Centro 6000](/business/centros/6000)
+> {.links-list}
+<!-- {blockquote:.is-info} -->
 
 # Novofarma
 
