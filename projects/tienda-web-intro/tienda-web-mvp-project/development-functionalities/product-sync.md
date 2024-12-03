@@ -2,7 +2,7 @@
 title: Product Synchronization
 description: 
 published: true
-date: 2024-12-03T14:23:05.585Z
+date: 2024-12-03T14:25:04.761Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-28T20:13:47.403Z
@@ -169,23 +169,22 @@ They can be configured per trigger basis as **Runtime variables**.
   * (Integer) Defines an specific page number to use upon Cenabast product fetch, this value will be used to call the `/materiales/listacatalogo` endpoint (parameter `PageNumber`)
   * Default: None (not set)
 
-### Product attributes that are not managed by the Pipeline
-(as of 2024-03-18)
-
-The pipeline tries to store the most possible of the generic product and contract information, and create associated Spree records to work around them and enable to buy them.
-
-However, there are some attributes required for Spree that are not given by the Cenabast endpoints, or we lack of a formal definition in order on how to load those automatically:
-
-* Product images
-* Product taxonomies (Categorization of products)
-* Product description
-* Product meta-tags
-* Product stock
-
-Those attributes can be managed by the Spree admin panel, in the Products section (/admin/products).
-
-> Requires to be accesed by an admin enabled user.
-{.is-warning}
+> ### Product attributes that are not managed by the Pipeline
+> (as of 2024-03-18)
+> 
+> The pipeline tries to store the most possible of the generic product and contract information, and create associated Spree records to work around them and enable to buy them.
+> 
+> However, there are some attributes required for Spree that are **not given** by the Cenabast endpoints, or we lack of a formal definition in order on how to load those automatically:
+> 
+> * Product images
+> * Product taxonomies (Categorization of products)
+> * Product description
+> * Product meta-tags
+> * Product stock
+> 
+> Those attributes can be managed by the Spree admin panel, in the Products section (/admin/products).
+> Requires to be accesed by an <kbd>admin</kbd> enabled user.
+<!-- {blockquote:.is-warning} -->
 
 ![product-edition](/web-store-project/development-functionalities/product-sync/product-edition.gif)
 
