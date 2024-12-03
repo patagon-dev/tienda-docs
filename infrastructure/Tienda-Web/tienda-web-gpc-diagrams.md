@@ -2,7 +2,7 @@
 title: Diseño Tienda en GCP
 description: 
 published: true
-date: 2024-12-02T17:30:10.235Z
+date: 2024-12-03T11:31:35.975Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-27T19:01:14.896Z
@@ -45,7 +45,7 @@ PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8v
 
 > Primera estimación de costos
 >
-> - [GCP Costs](https://cloud.google.com/products/calculator?hl=es_419&dl=CjhDaVE1WkdReE5UTTVNUzB3TTJRd0xUUTJPRGd0T0RZMVppMDNZelJtT1dRNFpqUmpPRElRQVE9PRAHGiQxRTdFREM5MS1FMDI3LTRDNzItQjgwMy03MzZGM0U2N0RERTQ) 
+> - [GCP Costs](https://cloud.google.com/products/calculator?hl=es_419&dl=CjhDaVE0TVdNMllqTXhPQzFqTlRFMkxUUTBaakV0WW1OaE9DMWxZamhoTmpSbVptTXpNRElRQVE9PRAHGiQxNTU2RjZFMS04NDkxLTQ0ODUtOEQyMS00N0VFNUQyQjVBMjU) 
 > {.links-list}
 <!-- {blockquote:.is-warning} -->
 
