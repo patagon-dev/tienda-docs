@@ -2,7 +2,7 @@
 title: Business Intro
 description: 
 published: true
-date: 2024-11-21T19:46:52.777Z
+date: 2024-12-03T11:53:38.455Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-28T20:12:43.158Z
@@ -31,7 +31,11 @@ dateCreated: 2024-10-28T20:12:43.158Z
 - [Catalogación Tienda Web](catalogacion)
 {.links-list}
 
-# Operationes
+# Operaciones
+
+> La distribución **la puede realizar** el Proveedor (Laboratorio) o a través de un proveedor logístico (Courier)
+{.is-success}
+
 
 - [Estimación de Demanda *Forecast demand <mark>Centro 5000</mark>*](purchase-consolidation)
 - [Dropshipping *<kbd>Intermediación</kbd> - <mark>Despacho del Proveedor al Solicitante</mark>*]()
