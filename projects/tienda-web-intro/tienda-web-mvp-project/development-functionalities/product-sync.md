@@ -2,7 +2,7 @@
 title: Product Synchronization
 description: 
 published: true
-date: 2024-11-13T21:32:20.077Z
+date: 2024-12-03T14:23:05.585Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-28T20:13:47.403Z
@@ -15,7 +15,7 @@ dateCreated: 2024-10-28T20:13:47.403Z
 
 
 See also:
-* [MageAI Documentation](mage.ai)
+* [MageAI Documentation](/projects/tienda-web-intro/tienda-web-mvp-project/development-functionalities/mage-ai)
 * [MageAI](mage-ai.md)
 * [API tienda V2](/cenabast-tienda/docs/api-rest-services/Cenabast/tienda)
 {.links-list}
