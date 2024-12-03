@@ -2,7 +2,7 @@
 title: dev-server
 description: 
 published: true
-date: 2024-10-30T15:50:49.848Z
+date: 2024-12-03T12:21:02.671Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-28T20:12:48.909Z
@@ -18,6 +18,12 @@ dateCreated: 2024-10-28T20:12:48.909Z
 
 > The opened port are `80` and `443`.
 {.is-warning}
+
+### Tamaño Servidor Dev
+
+> vCPU: 8
+> RAM: 32 GB
+> Storage: 100GB
 
 ## SSH 
 
