@@ -2,7 +2,7 @@
 title: clave_unica
 description: 
 published: true
-date: 2024-10-30T15:54:30.310Z
+date: 2024-12-03T12:30:35.744Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-28T20:12:46.979Z
@@ -41,6 +41,18 @@ Client Secret QA: c587e1dce57a4c209bed73d776ea9990
 Client ID Producción: 191686e57a3e4b8994f63b7b4e90014c
 Client Secret Producción: 1e8c36c5dc22450bbf999fce62a22a72
 ``` 
+
+### Usuarios de prueba Clave Unica
+
+> Testing RUT values
+> Clave Unica test users:
+> 
+> RUN: 44.444.444-4 contraseña: testing
+> RUN: 55.555.555-5 contraseña: testing
+> RUN: 88.888.888-8 contraseña: testing
+> RUN: 99.999.999-9 contraseña: testing
+{.is-warning}
+
 
 
 ### Technical Documentation
