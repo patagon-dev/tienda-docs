@@ -2,7 +2,7 @@
 title: Tienda Web infrastructure
 description: 
 published: true
-date: 2024-11-27T16:09:31.933Z
+date: 2024-12-03T14:21:34.902Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-28T20:12:52.771Z
@@ -20,10 +20,10 @@ dateCreated: 2024-10-28T20:12:52.771Z
 
 # GPC
 
-- [Tienda Web GPC Diagrams](tienda-web-gpc-diagrams)
+- [Tienda Web GPC Diagrams *<mark>Nuevo</mark>*](tienda-web-gpc-diagrams)
 {.links-list}
 
-# Applications
+# Aplicaciones
 
 - [Applications](/infrastructure/applications/tienda-web-applications)
 - [Credentials](credentials)
