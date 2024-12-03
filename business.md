@@ -2,7 +2,7 @@
 title: Business Intro
 description: 
 published: true
-date: 2024-12-03T12:02:47.920Z
+date: 2024-12-03T13:45:02.929Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-28T20:12:43.158Z
@@ -22,6 +22,7 @@ dateCreated: 2024-10-28T20:12:43.158Z
 # Lineas of Negocio
 
 - [Cenabast Lineas de Negocio *Canales de Venta*](lines-of-business)
+- [Centros](centros)
 {.links-list}
 
 # Productos
