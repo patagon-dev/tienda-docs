@@ -2,7 +2,7 @@
 title: Business Intro
 description: 
 published: true
-date: 2024-12-03T11:53:38.455Z
+date: 2024-12-03T12:02:47.920Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-28T20:12:43.158Z
@@ -36,7 +36,7 @@ dateCreated: 2024-10-28T20:12:43.158Z
 > La distribución **la puede realizar** el Proveedor (Laboratorio) o a través de un proveedor logístico (Courier)
 {.is-success}
 
-
+- [Tiempos de Tránsito en el despacho de productos *<kbd>Bases 87</kbd>*](tiempos-de-transito-en-el-despacho-de-productos)
 - [Estimación de Demanda *Forecast demand <mark>Centro 5000</mark>*](purchase-consolidation)
 - [Dropshipping *<kbd>Intermediación</kbd> - <mark>Despacho del Proveedor al Solicitante</mark>*]()
 - [Operador Logístico *<kbd>Novofarma</kbd> <mark>Centro 6000</mark>*](delivery-and-logistics)
