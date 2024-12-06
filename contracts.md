@@ -2,7 +2,7 @@
 title: Cenabast Contracts
 description: 
 published: true
-date: 2024-11-14T18:55:48.762Z
+date: 2024-12-06T19:18:26.667Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-31T15:27:15.754Z
@@ -14,7 +14,7 @@ dateCreated: 2024-10-31T15:27:15.754Z
 
 # Active Contracts
 
-- [Web Store Development <kbd>2.0</kbd> *<mark>Active since NOV 2024</mark> Spree Commerce*](web-store-development)
+- [Contrato Acid Labs Por HH (Segunda Semestre 2024) <kbd>2.0</kbd> *<mark>Active since NOV 2024</mark> Spree Commerce*](web-store-development)
 - [Consultoria Tienda Web <kbd>2.0</kbd> *<mark>Active since NOV 2024</mark> Consultoria*](consultoria-tienda-web-20)
 {.links-list}
 
