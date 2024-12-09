@@ -2,7 +2,7 @@
 title: Capacitación
 description: 
 published: true
-date: 2024-12-09T13:03:09.933Z
+date: 2024-12-09T15:50:23.438Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-09T12:33:20.757Z
@@ -26,6 +26,7 @@ dateCreated: 2024-12-09T12:33:20.757Z
 
 - [Tienda Web](tienda-web)
 - [SAP](sap)
+- [Datapipeline Mageai](/datapipeline-mageai)
 {.links-list}
 
 # Negocio
