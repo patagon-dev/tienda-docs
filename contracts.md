@@ -2,23 +2,23 @@
 title: Cenabast Contracts
 description: 
 published: true
-date: 2024-12-06T19:18:26.667Z
+date: 2024-12-09T20:32:05.236Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-31T15:27:15.754Z
 ---
 
-# Resume
-> Active contracts with third party organizations or providers.
+# Resumen
+> Contratos activos con terceros.
 {.is-success}
 
-# Active Contracts
+# Contractos Activos
 
 - [Contrato Acid Labs Por HH (Segunda Semestre 2024) <kbd>2.0</kbd> *<mark>Active since NOV 2024</mark> Spree Commerce*](web-store-development)
 - [Consultoria Tienda Web <kbd>2.0</kbd> *<mark>Active since NOV 2024</mark> Consultoria*](consultoria-tienda-web-20)
 {.links-list}
 
-# Deprecated Contracts
+# Contratos Vencidos
 
 > The following contract are **no longer active**
 {.is-danger}
