@@ -1,8 +1,8 @@
 ---
 title: home
-description: Base de conocimiento de negocio, sistemas, plataformas y todo lo que manejamos en TI.
+description: 
 published: true
-date: 2024-12-09T20:38:49.459Z
+date: 2024-12-09T20:39:14.629Z
 tags: info
 editor: markdown
 dateCreated: 2024-12-09T20:38:49.459Z
