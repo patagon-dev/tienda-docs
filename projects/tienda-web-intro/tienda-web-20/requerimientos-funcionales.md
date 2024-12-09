@@ -2,7 +2,7 @@
 title: Requerimientos Funcionales - Tienda Web 2.0
 description: 
 published: true
-date: 2024-12-09T22:05:46.525Z
+date: 2024-12-09T22:06:30.509Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-09T21:54:12.212Z
@@ -15,5 +15,5 @@ dateCreated: 2024-12-09T21:54:12.212Z
 
 # Requerimentos
 
-- [Sincronizacíon diaria de productos *Sincronización de productos de la Tienda*](sincronizacion-diaria-de-productos)
+- [Sincronizacíon diaria de productos *Sincronización de productos de la Tienda <kbd>#99</kbd>*](sincronizacion-diaria-de-productos)
 {.links-list}
