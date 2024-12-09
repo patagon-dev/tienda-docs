@@ -2,7 +2,7 @@
 title: Tienda Web 2.0 - Software Development Contract
 description: 
 published: true
-date: 2024-12-09T20:13:19.083Z
+date: 2024-12-09T20:13:47.182Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-08T15:40:50.747Z
@@ -24,10 +24,13 @@ dateCreated: 2024-11-08T15:40:50.747Z
 - [Diagrama Flujo de Aprobacion](Diagram_de_Trabajo)
 - [Administracion Contrato](Administracion_Contrato)
 - [Presentaciones](Presentaciones)
-
 {.links-list}
 
 # Bases {.tabset}
+
+> dddd
+{.is-info}
+
 
 ## Estimación de Esfuerzo
 
