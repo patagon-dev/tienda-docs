@@ -2,7 +2,7 @@
 title: Capacitación
 description: 
 published: true
-date: 2024-12-09T15:52:25.411Z
+date: 2024-12-09T19:01:51.618Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-09T12:33:20.757Z
@@ -18,8 +18,9 @@ dateCreated: 2024-12-09T12:33:20.757Z
 {.is-success}
 
 - [Plataforma de Documentación *Wikijs*](plataforma-de-documentacion)
-- [Plataforma de Tickets *Zammad*](plataforma-de-tickets)
 - [Plataforma de Proyectos *Redmine*](plataforma-de-proyectos)
+- [Plataforma de Tickets *Zammad*](plataforma-de-tickets)
+
 {.links-list}
 
 # Aplicaciones
