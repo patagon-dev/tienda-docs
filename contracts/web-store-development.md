@@ -2,7 +2,7 @@
 title: Tienda Web 2.0 - Software Development Contract
 description: 
 published: true
-date: 2024-12-09T20:14:21.893Z
+date: 2024-12-09T20:19:03.907Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-08T15:40:50.747Z
@@ -27,9 +27,9 @@ dateCreated: 2024-11-08T15:40:50.747Z
 {.links-list}
 
 
-# Bases
+# Entregables
 
-> Principales puntos de las bases y/o el contrato.
+> Principales puntos de las bases y/o el contrato referente a los entregables.
 {.is-info}
 
 # Bases {.tabset}
