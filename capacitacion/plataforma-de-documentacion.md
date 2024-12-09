@@ -2,7 +2,7 @@
 title: Capacitación y Onboarding a la plataforma de Documentación WikiJS
 description: 
 published: true
-date: 2024-12-09T15:41:24.502Z
+date: 2024-12-09T15:46:56.588Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-09T15:41:24.502Z
@@ -26,7 +26,7 @@ dateCreated: 2024-12-09T15:41:24.502Z
 > Videos de corta dureción (<2 min) para explicar las principales funcionalidadesd de la plataforma WikiJS[^1].
 {.is-success}
 
-- [Introducción básica a la plataforma](introduccion-basica)
+- [Introducción básica a la plataforma](https://youtu.be/zedpbek_8NU)
 - [Editor Markdown *Markdown Editor*](markdown-editor)
 - [Editor Visual *Visual Editor*](como-adjuntar-archivos)
 - [Como adjuntar archivos *Subir documentos Word/PDF*](como-adjuntar-archivos)
