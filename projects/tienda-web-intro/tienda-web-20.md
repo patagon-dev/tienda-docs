@@ -2,7 +2,7 @@
 title: Tienda Web Project 2.0 💊🩻
 description: 
 published: true
-date: 2024-11-08T15:50:09.908Z
+date: 2024-12-09T21:51:19.313Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-30T20:19:09.311Z
@@ -21,13 +21,13 @@ dateCreated: 2024-10-30T20:19:09.311Z
 - [Development Diagram Flow](diagram-flow)
 {.links-list}
 
-## Colaboration Tools
+## Herramientas de colaboración
 
 - [Task Management System](https://proyectos.cenabast.cl/projects/1/easy_gantt)
 - [Collaboration and Team Channels](https://chat-proyecto.cenabast.cl/)
 {.links-list}
 
-## Management
+## Gestión
 
 - [Project Contract *Licitación*](/contracts/web-store-development)
 {.links-list}
