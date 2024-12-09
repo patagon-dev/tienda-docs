@@ -2,7 +2,7 @@
 title: home
 description: 
 published: true
-date: 2024-12-09T20:45:31.736Z
+date: 2024-12-09T20:49:22.068Z
 tags: info
 editor: markdown
 dateCreated: 2024-12-09T20:38:49.459Z
@@ -14,8 +14,10 @@ Base de conocimiento de negocio, sistemas, plataformas y todo lo que manejamos e
 
 ### Enlaces
 - Glosario de términos técnicos utilizados en CENABAST 
-[glosario](/base-conocimiento/glosario)
-- Inventario de Sistemas Web Legacy 
-[legacy](/legacy)
+[Glosario CENABAST](/base-conocimiento/glosario)
+
+- Inventario de Sistemas 
+[Inventario de Sistemas Web Legacy](/base-conocimiento/legacy)
+
 - Procedimientos internos 
-[procedimientos](/procedimientos)
+[Procedimiento para mejoras](/base-conocimiento/procedimientos)
