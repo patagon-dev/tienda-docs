@@ -2,7 +2,7 @@
 title: Cenabast Contracts
 description: 
 published: true
-date: 2024-12-09T20:32:05.236Z
+date: 2024-12-09T20:35:13.870Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-31T15:27:15.754Z
@@ -20,7 +20,7 @@ dateCreated: 2024-10-31T15:27:15.754Z
 
 # Contratos Vencidos
 
-> The following contract are **no longer active**
+> Contratos deprecados o **vencidos**
 {.is-danger}
 
 - [~~Tienda Web Desarrollo~~ *Desarrollo <kbd>MVP</kbd>*](/projects/tienda-web-intro/tienda-web-mvp-project/mvp1-contract)
