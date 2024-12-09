@@ -2,7 +2,7 @@
 title: Tienda Web 2.0 - Software Development Contract
 description: 
 published: true
-date: 2024-12-09T20:29:21.400Z
+date: 2024-12-09T22:11:13.915Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-08T15:40:50.747Z
@@ -61,6 +61,6 @@ dateCreated: 2024-11-08T15:40:50.747Z
 
 ![2024-12-09_17-28_1.png](/images/2024-12-09_17-28_1.png)
 
-## Indicentes
+## Incidentes
 
 ![2024-12-09_17-28.png](/images/2024-12-09_17-28.png)
