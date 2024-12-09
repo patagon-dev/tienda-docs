@@ -2,7 +2,7 @@
 title: Plataforma de Proyectos - Redmine
 description: 
 published: true
-date: 2024-12-09T21:21:18.034Z
+date: 2024-12-09T21:28:42.987Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-09T16:30:40.926Z
@@ -22,7 +22,8 @@ dateCreated: 2024-12-09T16:30:40.926Z
 - [Crear un nuevo Proyecto y Sub-Proyectos]()
 - [Crear nueva tarea]()
 - [Tareas en detalle]()
-- [Filtros]()
+- [Filtros personalizados]()
+- [Dashborads Personalizados]()
 - [Sprints]()
 - [Administración General]()
 {.links-list}
