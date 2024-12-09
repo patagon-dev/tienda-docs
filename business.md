@@ -2,7 +2,7 @@
 title: Business Intro
 description: 
 published: true
-date: 2024-12-03T13:45:02.929Z
+date: 2024-12-09T12:24:15.773Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-28T20:12:43.158Z
@@ -42,6 +42,7 @@ dateCreated: 2024-10-28T20:12:43.158Z
 - [Dropshipping *<kbd>Intermediación</kbd> - <mark>Despacho del Proveedor al Solicitante</mark>*]()
 - [Operador Logístico *<kbd>Novofarma</kbd> <mark>Centro 6000</mark>*](delivery-and-logistics)
 - [Flujo de Facturación](flujo-de-facturacion)
+- [diagrama](/diagrama)
 {.links-list}
 
 # Capacitaciones
