@@ -2,7 +2,7 @@
 title: Tienda Web Project 2.0 💊🩻
 description: 
 published: true
-date: 2024-12-09T21:51:19.313Z
+date: 2024-12-09T21:52:40.212Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-30T20:19:09.311Z
@@ -15,10 +15,15 @@ dateCreated: 2024-10-30T20:19:09.311Z
 
 # Tienda Web - Project <kbd>2.0</kbd>
 
-## Development Definitions
+## Definiciones de Desarrollo
 
 - [Development Standars and policies](project-standards-and-policies)
-- [Development Diagram Flow](diagram-flow)
+- [Development Diagram Flow](development-diagram-flow)
+{.links-list}
+
+## Requeremientos funcionales
+
+- [Requerimientos funcionales *<kbd>2.0</kbd>*](requerimientos-funcionales)
 {.links-list}
 
 ## Herramientas de colaboración
