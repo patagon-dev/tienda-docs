@@ -2,21 +2,16 @@
 title: Home
 description: 
 published: true
-date: 2024-12-09T21:14:45.641Z
+date: 2024-12-09T21:16:37.197Z
 tags: info
 editor: markdown
 dateCreated: 2024-12-09T20:38:49.459Z
 ---
 
 # Base de Conocimiento TI
->
+> Base de conocimiento de negocio, sistemas, plataformas y todo lo que manejamos en TI. La idea es centralizar los conocimientos que se van adquiriendo para las lasbores que realizamos en el día a día y dejarlas disponibles y de rápido acceso. 
 {.is-info}
 
-Base de conocimiento de negocio, sistemas, plataformas y todo lo que manejamos en TI.
-
-La idea es centralizar los conocimientos que se van adquiriendo para las lasbores que realizamos en el día a día y dejarlas disponibles y de rápido acceso.
->
-{.is-info}
 ---
 
 ### Enlaces
