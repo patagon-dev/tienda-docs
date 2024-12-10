@@ -2,7 +2,7 @@
 title: Capacitación Tienda Web
 description: 
 published: true
-date: 2024-12-10T13:42:35.050Z
+date: 2024-12-10T14:03:21.755Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-09T16:28:54.124Z
@@ -24,7 +24,7 @@ dateCreated: 2024-12-09T16:28:54.124Z
 {.is-warning}
 
 - [Sesión 1 <kbd>28-May-2024</kbd> *Introducción e historia del proyecto. Detalle de Servicios*](https://youtu.be/bBV8UhZrVDU)
-- [Sesión 2](https://youtu.be/bBV8UhZrVDU)
+- [Sesión 2](https://youtu.be/EKGBfBwHZlg)
 - [Sesión 3](https://youtu.be/bBV8UhZrVDU)
 - [Sesión 4](https://youtu.be/bBV8UhZrVDU)
 {.links-list}
