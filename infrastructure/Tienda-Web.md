@@ -2,7 +2,7 @@
 title: Tienda Web infrastructure
 description: 
 published: true
-date: 2024-12-03T14:21:34.902Z
+date: 2024-12-10T18:05:39.452Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-28T20:12:52.771Z
@@ -18,9 +18,10 @@ dateCreated: 2024-10-28T20:12:52.771Z
 - [Clave unica](/infrastructure/clave_unica)
 {.links-list}
 
-# GPC
+# GCP
 
 - [Tienda Web GPC Diagrams *<mark>Nuevo</mark>*](tienda-web-gpc-diagrams)
+- [GCP](gcp)
 {.links-list}
 
 # Aplicaciones
