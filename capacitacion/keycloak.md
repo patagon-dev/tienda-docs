@@ -2,7 +2,7 @@
 title: Keycloak
 description: 
 published: true
-date: 2024-12-09T20:56:40.163Z
+date: 2024-12-10T15:52:40.351Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-09T20:56:40.163Z
@@ -15,5 +15,5 @@ dateCreated: 2024-12-09T20:56:40.163Z
 
 # Videos
 
-- [Introducción a Keycloak]()
+- [Introducción a Keycloak](https://youtu.be/NLoH5ul_eq0)
 {.links-list}
