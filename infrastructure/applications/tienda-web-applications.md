@@ -2,7 +2,7 @@
 title: Tienda Web Applications
 description: 
 published: true
-date: 2024-11-12T00:53:33.295Z
+date: 2024-12-10T15:40:05.149Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-28T20:13:24.094Z
@@ -53,5 +53,5 @@ Docker info:
 > Please deploy branch `spree-4-7-development-with-frontend`
 {.is-info}
 
-- https://github.com/Departamento-TI/cenabast-tienda/
+- https://github.com/cenabast-ti/cenabast-tienda/
 {.links-list}
