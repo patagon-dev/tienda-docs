@@ -2,13 +2,18 @@
 title: Capacitación - Datapipeline Mageai
 description: 
 published: true
-date: 2024-12-09T15:53:23.948Z
+date: 2024-12-10T12:56:40.413Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-09T15:51:00.788Z
 ---
 
-# Resume
-Your content here
+# Resumen
+> Your content here
+{.is-success}
 
-# Capacitación.
+
+# Video
+
+- [Intro Mageai](https://youtu.be/S8uuq5lJ-WM)
+{.links-list}
