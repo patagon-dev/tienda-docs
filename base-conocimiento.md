@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2024-12-10T16:03:40.764Z
+date: 2024-12-10T19:13:33.308Z
 tags: info
 editor: markdown
 dateCreated: 2024-12-09T20:38:49.459Z
@@ -25,3 +25,4 @@ dateCreated: 2024-12-09T20:38:49.459Z
 
 - Procedimientos internos 
 [Mejoras e incidentes productivos](/base-conocimiento/procedimientos)
+[invento](/base-conocimiento/invento)
