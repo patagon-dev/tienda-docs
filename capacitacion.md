@@ -2,7 +2,7 @@
 title: Capacitación
 description: 
 published: true
-date: 2024-12-09T20:55:30.237Z
+date: 2024-12-10T15:54:37.013Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-09T12:33:20.757Z
@@ -36,7 +36,7 @@ dateCreated: 2024-12-09T12:33:20.757Z
 > Capacitación respecto de los procesos de Negocio de Cenabast.
 {.is-success}
 
-- [Introducción Cenabast](introduccion-cenabast)
+- [Cenabast *Procesos de Negocio*](introduccion-cenabast)
 {.links-list}
 
 # Infraestructura
