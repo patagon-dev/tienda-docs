@@ -2,7 +2,7 @@
 title: keycloak
 description: 
 published: true
-date: 2024-10-30T15:58:12.883Z
+date: 2024-12-10T15:38:50.615Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-28T20:13:26.006Z
@@ -22,15 +22,15 @@ dateCreated: 2024-10-28T20:13:26.006Z
 
 > **Docker Image:**
 > 
-> 👉 Check Keycloak [docker-compose.yml](https://github.com/Departamento-TI/cenabast-tienda/blob/main/docker-compose.yml).\
-> 👉 Keycloak image is build from file [Dockerfile.keycloak](https://github.com/Departamento-TI/cenabast-tienda/blob/main/Dockerfile.keycloak)    
+> 👉 Check Keycloak [docker-compose.yml](https://github.com/cenabast-tienda/cenabast-tienda/blob/main/docker-compose.yml).\
+> 👉 Keycloak image is build from file [Dockerfile.keycloak](https://github.com/cenabast-tienda/cenabast-tienda/blob/main/Dockerfile.keycloak)    
 {.is-info}
 
 
 ### Keycloak user & database
 
 The first time Keycloak is deploy, a `keycloak` user and role must be created in the postgres database.
-The password must match the password of `KC_DB_PASSWORD` at the [Dockerfile.keycloak](https://github.com/Departamento-TI/cenabast-tienda/blob/main/Dockerfile.keycloak).
+The password must match the password of `KC_DB_PASSWORD` at the [Dockerfile.keycloak](https://github.com/cenabast-tienda/cenabast-tienda/blob/main/Dockerfile.keycloak).
 
 ```jsx
 CREATE ROLE keycloak;
