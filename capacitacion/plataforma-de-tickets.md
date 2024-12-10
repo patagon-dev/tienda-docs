@@ -2,7 +2,7 @@
 title: Plataforma de Tickets Zammad
 description: 
 published: true
-date: 2024-12-10T12:32:39.316Z
+date: 2024-12-10T12:48:07.802Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-09T16:30:24.132Z
@@ -14,7 +14,6 @@ dateCreated: 2024-12-09T16:30:24.132Z
 
 # Helpdesk Zammad
 
-- [Introducción a Zammad]()
-- [Administración]()
-- [Seguimiento de tickets]()
+- [Flujo de requerimientos *Estimacion de HH*](https://youtu.be/2l87ZgVCv7E)
+- [Administración general *Mirada general de SLA, Calendario y objetos*](https://youtu.be/QjzhL56EfKQ)
 {.links-list}
